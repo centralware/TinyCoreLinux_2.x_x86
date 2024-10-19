@@ -1,0 +1,15 @@
+Title:          speex-dev.tcz
+Description:    Patent-free, Open Source/Free Software voice codec
+Version:        1.2rc1
+Author:         Various
+Original-site:  http://speex.org
+Copying-policy: See /usr/local/share/doc/speex/COPYING
+Size:           102K
+Extension_by:   bmarkus
+Comments:       Dev files
+                ----
+                Compiled for TC2.x
+                ----
+                PPI compatible
+Change-log:     ---
+Current:        2009/10/16 First version

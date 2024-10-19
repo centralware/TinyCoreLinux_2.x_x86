@@ -1,0 +1,16 @@
+Title:          sed.tcz
+Description:    sed for tc_2.X
+Version:        4.1.5
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 56KB
+Extension_by:   juanito
+Comments:       sed for tinycore_2.x
+                For use with the gcc extension
+                ----------
+                This extension contains:
+                sed-4.1.5 - GPLv2 - http://ftp.gnu.org/gnu/sed/sed-4.1.5.tar.gz
+                ----------
+Change-log:     First version
+Current:        2009/04/17

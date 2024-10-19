@@ -1,0 +1,14 @@
+Title:          qmmp-projectM.tcz
+Description:    qmmp projectM plugin. 
+Version:        0.3.4-svn-r1660
+Author:         Ilya Kotov, Vladimir Kuznetsov, Yuriy Zhuravlev, Andrey Adreev
+Original-site:  http://qmmp.ylsoftware.com/
+Copying-policy: GPL-2
+Size:		36K
+Extension_by:   Arslan S.
+Comments:	3D hardware acceleration is recommended.
+		
+                This extension depends on Xorg.
+		This extension is PPI compatible.
+Change-log:     ---
+Current:        2010/04/06 Original 0.3.4-svn-r1660

@@ -1,0 +1,30 @@
+Title:          shiretoko.tcz
+Description:    Unbranded Firefox web browser - custom build
+Version:        3.5.9
+Author:         The Mozilla Community
+Original-site:  www.mozilla.com/firefox/ 
+Copying-policy: MPL
+Size:		14M
+Extension_by:   Jason W
+Comments:       This is a custom build of Firefox, i686 optimized.
+                Depends on gtk2 and it's deps.  This extension
+		conflicts with Minefield but not the official Firefox 
+		extension.  This is a fairly basic build with less
+		dependencies than the official Firefox.  The maximum 
+		cacne size is 20MB and the urlclassifier is disabled.
+                This extension is PPI compatible.
+Change-log:     ----
+       		2009/07/09	First build version 3.5
+		2009/07/10	Rebuilt with disabled urlclassifier, default
+				cache size 20MB, reduced default maximum
+				popups.
+		2009/07/20	Updated to 3.5.1
+		2009/08/04	Updated to 3.5.2
+		2009/09/10	Updated to 3.5.3
+		2009/10/29	Updated to 3.5.4	
+		2009/11/06	Updated to 3.5.5
+		2009/11/14	Added freedesktop icon/menu entries.
+		2009/12/17	Updated to 3.5.6
+		2010/01/06 	Updated to 3.5.7
+		2010/02/24 	Updated to 3.5.8
+Current:	2010/07/06	Updated to 3.5.9

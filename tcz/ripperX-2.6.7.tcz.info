@@ -1,0 +1,15 @@
+Title:          ripperX-2.6.7.tcz
+Description:    Gtk1 cd ripping program.
+Version:        2.6.7
+Author:         Dave Cinege, Jos Dehaes, Mark Thomas, Tony Mancill, Paul Mangan
+Original-site:  http://sourceforge.net/projects/ripperx/
+Copying-policy: GPL
+Size: 108K
+Extension_by:   Jason W
+Comments:       This extension requires the id3lib.tcz, gtk1.tcz,
+		glib1.tcz extensions to operate.  Helpful for encoding are
+		lame.tcz, ogg-vorbis.tcz, and flac.tcz.
+Change-log:     2008/08/22 First version
+		2008/10/14 Added JWM menu.
+Current:        2008/12/11 Rebuilt for i486, size, cramfs.
+

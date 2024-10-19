@@ -1,0 +1,14 @@
+Title: 		qt-4.2.2.tcz
+Description:    Qt is a c++ toolkit for cross-platform GUI development.   
+Version:        4.2.2                                               
+Author:		Trolltech ASA
+Original-site:  http:/doc.trolltech.com/4.0/aboutqt.html         
+Copying-Policy: The Qt open sourced edition is provided under the               
+                terms of both the  Q Public License and the GNU General         
+                Public License                                                 
+Extension_by:   jpeters       
+Comments:       placed in usr/local               
+Size:           12M       
+Change-log:     2009/02/05 add links          
+        	2009/02/04
+Current:	2009/05/03 fix pkgconfig paths, rm debug libs

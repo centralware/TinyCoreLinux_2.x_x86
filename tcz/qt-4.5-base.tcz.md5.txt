@@ -1,0 +1,1 @@
+92fde97eb5ed5c47e4d9b3707fc68de2  qt-4.5-base.tcz

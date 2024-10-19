@@ -1,0 +1,14 @@
+Title:		scite.tcz
+Description:	SCIntilla based Text Editor
+Version:	2.03
+Author:		Neil Hodgson
+Original-site:	http://scintilla.sourceforge.net/index.html
+Copying-policy:	Free Software
+Size:		932.0K
+Extension_by:	SvOlli
+Comments:	A powerful editor. Originally built to demonstrate Scintilla,
+		it has grown to be a generally useful editor with facilities
+		for building and running programs.
+Change-log:	2009/06/10 first version 1.78
+		2009/06/24 rebuild using tcbuild scripts
+Current:	2010/03/25 update to version 2.03

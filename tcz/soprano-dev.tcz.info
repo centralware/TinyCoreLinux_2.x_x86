@@ -1,0 +1,22 @@
+Title:          soprano-dev.tcz
+Description:    C++/Qt4 Framework for RDF Data Development Files (TESTING)
+Version:        2.3.1
+Author:         Daniele Galdi, Sebastian Trug
+Original-site:  http://soprano.sourceforge.net/
+Copying-policy: LGPL
+Size:		144k
+Extension_by:   robc
+Comments:
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://soprano.sourceforge.net/
+		for more information.
+		
+		----------------------------------------------
+		
+Change-log:     2010/01/26 Original
+Current:	2010/01/26 Original

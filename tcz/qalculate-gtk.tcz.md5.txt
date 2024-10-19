@@ -1,0 +1,1 @@
+c73ff2d3410faa5040617f372c454cee  qalculate-gtk.tcz

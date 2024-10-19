@@ -1,0 +1,17 @@
+usr/local/bin/sdl-config
+usr/local/bin/showimage
+usr/local/lib/libSDL-1.2.so.0
+usr/local/lib/libSDL-1.2.so.0.11.2
+usr/local/lib/libSDL.so
+usr/local/lib/libSDL_image-1.2.so.0
+usr/local/lib/libSDL_image-1.2.so.0.1.6
+usr/local/lib/libSDL_image.so
+usr/local/lib/libSDL_mixer-1.2.so.0
+usr/local/lib/libSDL_mixer-1.2.so.0.2.6
+usr/local/lib/libSDL_mixer.so
+usr/local/lib/libSDL_net-1.2.so.0
+usr/local/lib/libSDL_net-1.2.so.0.0.7
+usr/local/lib/libSDL_net.so
+usr/local/lib/libSDL_ttf-2.0.so.0
+usr/local/lib/libSDL_ttf-2.0.so.0.6.3
+usr/local/lib/libSDL_ttf.so

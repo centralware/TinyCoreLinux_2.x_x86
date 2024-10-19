@@ -1,0 +1,22 @@
+Title:		qt-4.5-dev.tcz
+Description:	cross-platform application and UI framework
+Version:	4.5.3
+Author:		Nokia / Trolltech
+Original-site:	http://qt.nokia.com/
+Copying-policy:	LGPL
+Size:		9.5M
+Extension_by:	SvOlli
+Comments:	Using Qt, you can write applications once and deploy them
+		across many desktop and embedded operating systems without
+		rewriting the source code.
+		Package containing development components.
+Change-log:	2009/06/11 first version 4.5.1
+		2009/06/19 more modular rework with more features
+		2009/06/25 upgrade to 4.5.2
+		2009/06/30 fix for sql module
+		2009/10/05 upgrade to 4.5.3 and dbus module added
+		2010/01/08 added accessibilty plugin to base package and added
+		qt3support module
+		2010/01/24 added support for glib and openssl as by public
+		requests
+Current:	2010/03/06 added opengl module

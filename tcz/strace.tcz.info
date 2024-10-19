@@ -1,0 +1,14 @@
+Title:		strace.tcz
+Description:	strace - System call debugger
+Version:	4.5.19
+Author:		Dmitry V. Levin, Roland McGrath, Wichert Akkerman
+Original-site:	http://strace.sourceforge.net
+Copying-policy:	BSD License
+Size:		88.0K
+Extension_by:	Robert Schumann
+Comments:	
+		
+		
+		This extension is PPI compatible
+Change-log:	----
+Current:	10/02/02 First Version for tcz repo.

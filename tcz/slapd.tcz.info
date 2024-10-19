@@ -1,0 +1,11 @@
+Title:          slapd.tcz
+Description:    Server for the OpenLDAP, Lightweight Directory Access Protocol.(TESTING)
+Version:        2.4.19
+Author:         OpenLDAP
+Original-site:  http://www.openldap.org/
+Copying-policy: OpenLDAP Public License
+Size:           1.4M
+Extension_by:   Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:     ---
+Current:        2010/02/21 Original 2.4.19

@@ -1,0 +1,25 @@
+Title:          strigi.tcz
+Description:    Search Index Daemon (TESTING)
+Version:        0.7.2
+Author:         Joe van den Oever, Ben van Klinken, Flavio Castelli, Arend van Beelen Jr, Christian Ehrlicher, Christopher Blauvelt, Jakub Stachowski
+Original-site:  http://www.vandenoever.info/software/strigi/
+Copying-policy: GPLv2
+Size:		1.0M
+Extension_by:   robc
+Comments:		This package requires libxml2, dbus,
+		clucene, bzip2-lib, and their deps.
+		
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://www.vandenoever.info/software/strigi/
+		for more information.
+		
+		----------------------------------------------
+		
+Change-log:     2010/01/07 Original
+		2010/04/20 Updated to v0.7.2
+Current:	2010/04/20 Updated to v0.7.2

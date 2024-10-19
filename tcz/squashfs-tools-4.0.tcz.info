@@ -1,0 +1,18 @@
+Title:          squashfs-tools-4.0.tcz
+Description:    Compressed read-only file system tools.
+Version:        4.0
+Author:         Phillip Lougher
+Original-site:  http://squashfs.sourceforge.net/
+Copying-policy: GPL
+Size:		68K
+Extension_by:   Jason W
+Comments:       This extension contains mksquashfs and unsquashfs.
+		It uses zlib, no LZMA support is included.
+		To make a squashfs image of a directory:
+		# mksquashfs directory/ filename.extensionname
+		This extension is PPI compatible.
+Change-log:     ----
+                2009/03/18 First version 3.4.
+		2009/04/19 Bumped to 4.0.
+	   	2009/06/06 Changed default permissions to 664 (Curaga)
+Current:	2009/11/11 Changed default block size to 4kb.

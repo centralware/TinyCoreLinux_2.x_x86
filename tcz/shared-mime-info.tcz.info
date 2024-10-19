@@ -1,0 +1,12 @@
+Title:          shared-mime-info.tcz
+Description:    Database for common mime types.
+Version:        0.70
+Author:         freedesktop.org 
+Original-site:  http://www.freedesktop.org/wiki/Software/shared-mime-info
+Copying-policy: GPL
+Size: 760Kb
+Extension_by:   Jason W, Arslan S.
+Comments:       ---------
+Change-log:     2009/01/01 First version 0.51
+		2010/01/29 Updated to 0.70 (Arslan S.)
+Current:        2010/03/02 Rebuilt & fixed updated mime database (Arslan S.)

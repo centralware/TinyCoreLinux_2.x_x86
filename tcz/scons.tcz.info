@@ -1,0 +1,11 @@
+Title:          scons.tcz
+Description:    Software Construction tool
+Version:        1.2.0
+Author:         The SCons Foundation
+Original-site:  http://www.scons.org/
+Copying-policy: MIT
+Size:           1.4M
+Extension_by:   Daniel Barnes
+Comments:       ---
+Change-log:     ---
+Current:        2009/07/10 - Initial Release        

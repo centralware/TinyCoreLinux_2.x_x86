@@ -1,0 +1,14 @@
+glib2.tcz
+dbus-glib.tcz
+libxml2.tcz
+cairo.tcz
+gnome-js-common.tcz
+gobject-introspection.tcz
+gir-repository.tcz
+libmpfr.tcz
+libffi.tcz
+readline.tcz
+sqlite3.tcz
+webkit.tcz
+webkit-gir.tcz
+

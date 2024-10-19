@@ -1,0 +1,28 @@
+Title:          recordmydesktop.tcz
+Description:    Desktop Session Recorder (TESTING)
+Version:        0.3.8.1
+Author:         John Varouhakis
+Original-site:  http://recordmydesktop.sourceforge.net/about.php
+Copying-policy: GPLv2
+Size:		36k
+Extension_by:   robc
+Comments:       This package requires OSS, libtheora 
+		and ogg-vorbis. Will require Xorg and its deps 
+		for full functionality.
+		
+		recordmydesktop --full-shots --no-cursor
+		
+		Uses OSS for audio.
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://recordmydesktop.sourceforge.net/about.php
+		for more information.
+		
+		----------------------------------------------
+		
+Change-log:     2009/6/12 Original
+Current:	2009/06/12 Original

@@ -1,0 +1,1 @@
+481de9b97a94ca8f36a7198c040e26ce  qt-4.5-extended.tcz

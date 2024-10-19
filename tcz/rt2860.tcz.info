@@ -1,0 +1,59 @@
+Title:          rt2860.tcz
+Description:    rt2860 module
+Version:        2.2.0.0
+Author:         Ralink Technology, Inc.
+Original-site:  http://www.ralinktech.com/support.php?s=2
+Copying-policy: GNU General Public License, Version 2
+Size:           236KB
+Extension_by:   roberts
+Comments:       Mike L. compiled the rt2860 module for use on an eeePC 1000
+                ----------
+                Requires the wireless-2.6.29.1-tinycore and wireless_tools extensions
+                ----------
+				After booting, you should see a network interface "raN" 
+				with N being 0 in most cases: ra0.  To associate with a 
+				wireless access point, you can set up a simple script like 
+				the following:
+				
+				    #!/bin/sh
+				    # commands to associate with wireless access point
+				    sudo /sbin/ifconfig ra0 up
+				    sudo /usr/local/sbin/iwconfig ra0 essid "{{{YOUR ESSID HERE}}}" key restricted "{{{YOUR KEY HERE}}}"
+				    sleep 2
+				    sudo /sbin/udhcpc -i ra0
+				
+				This could be called manually after booting, or automatically
+				from /opt/bootlocal.sh.  Note that if the preceding commands 
+				are directly inserted in bootlocal.sh, you don't need the "sudo"
+				prefixes.  
+				
+				Altenatively, you may use a series of iwpriv commands:
+					#!/bin/sh
+					#Config STA to link with AP which is OPEN/NONE(Authentication/Encryption))
+					iwpriv ra0 set NetworkType=Infra
+					iwpriv ra0 set AuthMode=OPEN
+					iwpriv ra0 set EncrypType=NONE
+					iwpriv ra0 set SSID="AP's SSID" 
+					
+				Another example of iwpriv:
+					#!/bin/sh
+					#Config STA to link with AP which is OPEN/NONE(Authentication/Encryption))
+					iwpriv ra0 set NetworkType=Infra
+					iwpriv ra0 set AuthMode=WPAPSK
+					iwpriv ra0 set EncrypType=AES
+					iwpriv ra0 set SSID="AP's SSID"
+					iwpriv ra0 set WPAPSK="AP's wpa-preshared key"
+					iwpriv ra0 set SSID="AP's SSID"				
+				
+				The file 'iwpriv_usage.txt' in the driver source code has 
+				more examples and descriptions of all the control options.
+				
+				A third method that might work is to edit the hardware 
+				configuration file /etc/RT2860STA/RT2860STA.dat that is read
+				when the driver kernel module is loaded.  If you try this, 
+				please make a backup in a persistant location, and also add 
+					etc/RT2860STA
+				To your /opt/.filetool.lst.
+
+Change-log:
+Current:        2009/10/08 First version.

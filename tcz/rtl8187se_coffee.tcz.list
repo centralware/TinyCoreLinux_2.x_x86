@@ -1,0 +1,7 @@
+local/lib/modules/2.6.29.1-tinycore/kernel/drivers/net/wireless/ieee80211-rtl.ko
+local/lib/modules/2.6.29.1-tinycore/kernel/drivers/net/wireless/ieee80211_crypt-rtl.ko
+local/lib/modules/2.6.29.1-tinycore/kernel/drivers/net/wireless/ieee80211_crypt_ccmp-rtl.ko
+local/lib/modules/2.6.29.1-tinycore/kernel/drivers/net/wireless/ieee80211_crypt_tkip-rtl.ko
+local/lib/modules/2.6.29.1-tinycore/kernel/drivers/net/wireless/ieee80211_crypt_wep-rtl.ko
+local/lib/modules/2.6.29.1-tinycore/kernel/drivers/net/wireless/r8180.ko
+local/lib/modules/2.6.29.1-tinycore/kernel/drivers/net/wireless/wlan0up

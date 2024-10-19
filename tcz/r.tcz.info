@@ -1,0 +1,11 @@
+Title:          r.tcz
+Description:    R is a free software environment for statistical computing and graphics.
+Version:        2.11.1
+Author:         R Development Core Team
+Original-site:  http://www.r-project.org/
+Copying-policy: BSD
+Size: 		28.35156  MB
+Extension_by:   Xianwen Chen
+Comments:       This package is PPI-compatible.
+Change-log:     2010/6/30 2.11.1
+Current:        2.11.1

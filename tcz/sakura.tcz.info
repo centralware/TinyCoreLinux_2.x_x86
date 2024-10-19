@@ -1,0 +1,11 @@
+Title:          sakura.tcz
+Description:    Sakura is a terminal emulator based on GTK+/VTE.
+Version:        2.3.8
+Author:         David Gomez Espinosa
+Original-site:  http://www.pleyades.net/david/sakura.php
+Copying-policy: GPL-2
+Size:		32K
+Extension_by:   Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:     2010/03/06 Original 2.3.7
+Current:        2010/05/22 Updated to 2.3.8

@@ -1,0 +1,18 @@
+Title:          SDL-dev.tcz
+Description:    SDL-dev
+Version:        1.2.13
+Author:         Various
+Original-site:  http://libsdl.org
+Copying-policy: LGPLv2
+Size:		560K
+Extension_by:   Curaga
+Comments:       To take advantage of 3d you'll need Xorg properly
+		configured. For 2d SDL works without.
+-
+		This extension also includes:
+		SDL_image-1.2.7.tar.gz
+		SDL_mixer-1.2.8.tar.gz
+		SDL_net-1.2.7.tar.gz
+		SDL_ttf-2.0.9.tar.gz
+Change-log:     
+Current:        2009/01/08 Original

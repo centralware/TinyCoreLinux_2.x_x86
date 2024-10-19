@@ -1,0 +1,26 @@
+Title:          swig.tcz
+Description:    Simplified Wrapper and Interface Generator (TESTING)
+Version:        2.0.0
+Author:         Various (http://www.swig.org/guilty.html)
+Original-site:  http://www.swig.org/
+Copying-policy: GPL3
+Size:		1.1M
+Extension_by:   robc
+Comments:
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://www.swig.org/
+		for more information.
+		
+		----------------------------------------------
+		
+		
+Change-log:     2009/08/11 Original
+		2009/08/14 Added License file to extension
+		2009/11/30 Updated to v1.3.40
+		2010/06/09 Updated to v2.0.0
+Current:	2010/06/09 Updated to v2.0.0

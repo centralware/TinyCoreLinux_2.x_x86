@@ -1,0 +1,21 @@
+Title:          qmmp.tcz
+Description:    An audio-player based on Qt, similar to winamp or xmms. 
+Version:        0.3.4-svn-r1660
+Author:         Ilya Kotov, Vladimir Kuznetsov, Yuriy Zhuravlev, Andrey Adreev
+Original-site:  http://qmmp.ylsoftware.com/
+Copying-policy: GPL-2
+Size:		1.8M
+Extension_by:   Arslan S.
+Comments:	- Optional: mplayer
+
+		- ALSA or OSS for sound
+
+		- winamp and xmms skins supported
+		winamp 5 skin: http://gnome-look.org/content/show.php?content=14870
+		xmms seamaster: http://www.kde-look.org/content/show.php?content=31224
+
+		- To change skin settings->appearance->add and choose skin file (you don't need to extract compressed files)
+                
+		This extension is PPI compatible.
+Change-log:     2010/02/07 Original 0.3.2
+Current:        2010/04/06 Updated to 0.3.4-svn-r1660 & Splitted jack plugin

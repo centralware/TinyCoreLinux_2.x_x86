@@ -1,0 +1,11 @@
+Title:          shared-mime-info-locale.tcz
+Description:    Database for common mime types - locale data.
+Version:        0.70
+Author:         freedesktop.org 
+Original-site:  http://www.freedesktop.org/wiki/Software/shared-mime-info
+Copying-policy: GPL
+Size: 512Kb
+Extension_by:   Jason W, Arslan S.
+Comments:       ---------
+Change-log:     2009/01/01 First version 0.51
+Current:        2010/01/29 Updated to 0.70 (Arslan S.)

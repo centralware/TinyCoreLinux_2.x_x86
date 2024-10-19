@@ -1,0 +1,1 @@
+c87a626f2294dc5adc974efd9fa56fa2  qt-4.5-dev.tcz

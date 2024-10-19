@@ -1,0 +1,3 @@
+etc/Wireless/RT2860STA/RT2860STA.dat
+usr/local/lib/modules/2.6.29.1-tinycore/kernel/drivers/net/wireless/rt2860sta.ko.gz
+usr/local/tce.installed/rt2860

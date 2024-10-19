@@ -1,0 +1,1 @@
+95a53dce792cf50258cd8ec35c998ed0  qt-4.5-qt3support.tcz

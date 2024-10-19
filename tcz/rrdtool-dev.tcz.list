@@ -1,0 +1,8 @@
+usr/local/include/rrd.h
+usr/local/include/rrd_client.h
+usr/local/include/rrd_format.h
+usr/local/lib/librrd.a
+usr/local/lib/librrd.la
+usr/local/lib/librrd_th.a
+usr/local/lib/librrd_th.la
+usr/local/lib/pkgconfig/librrd.pc

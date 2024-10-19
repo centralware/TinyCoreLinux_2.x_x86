@@ -1,0 +1,18 @@
+Title:		SLART.tcz
+Description:	SvOlli's Little Audio Related Thingies
+Version:	0.7.4-546
+Author:		Sven Oliver ('SvOlli') Moll
+Original-site:	http://svolli.org/software/slart/
+Size:		964K
+Extension_by:	SvOlli
+Comments:	SvOlli's Little Audio Related Thingies, or SLART for short, is
+		a compilation of rather simple programs that are related to
+		audio files: it consists of a player (Partyman), a CD ripper, a
+		tag editor, a downloader for music files, and some other tools.
+		These programs can communicate with each other via UDP, so a
+		newly ripped track can be automatically queued in the player,
+		for example.
+		The audio player depends on dermixd. Install either
+		dermixd-alsa or dermix-oss.
+Change-log:	----
+Current:	2009/07/16 Initial Version

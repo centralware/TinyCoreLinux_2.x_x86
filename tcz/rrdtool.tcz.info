@@ -1,0 +1,27 @@
+Title:          rrdtool.tcz
+Description:	Round Robin Database Tool (TESTING)
+Version:        1.4.3
+Author:         Tobias Oetiker
+Original-site:  http://oss.oetiker.ch/rrdtool/
+Copying-policy: GPL (FLOSS License Exception)
+Size:		300k
+Extension_by:   robc
+Comments:		This package requires pango, libxml2, 
+		cairo, and their deps.
+		
+		Data logging and graphing for time series data.
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://oss.oetiker.ch/rrdtool/
+		for more information.
+		
+		----------------------------------------------
+		
+Change-log:     2009/07/23 Original
+		2009/12/09 Updated to 1.4.2, split dev files
+		2010/06/10 Updated to 1.4.3
+Current:	2010/06/10 Updated to 1.4.3

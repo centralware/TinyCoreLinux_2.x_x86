@@ -1,0 +1,11 @@
+Title:          sylpheed-dev.tcz
+Description:    Sylpheed e-mail client, plugin dev
+Version:        3.0.2
+Author:         Various
+Original-site:  http://sylpheed.sraoss.jp/en
+Copying-policy: GPL
+Size:		48K
+Extension_by:   Curaga
+Comments:       PPI compatible
+Change-log:     2010/03/25 Original
+Current:        2010/04/02 Update to 3.0.2

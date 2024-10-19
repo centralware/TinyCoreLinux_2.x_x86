@@ -1,0 +1,27 @@
+Title:          rygel.tcz
+Description:    dnla services
+Version:        0.4.8
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 288KB
+Extension_by:   juanito
+Comments:       a collection of DLNA (UPnP AV) services, implemented through a plug-in mechanism
+                ----------
+                Howto:
+                $ rygel-preferences [to load av files to be streamed]
+                $ rygel & [to stream av files]
+                add ~/.config/rygel.conf to your backup
+                Note: the extensions listed after sq3lite below are not required if..
+                ..you don't use rygel-preferences
+                ----------
+                requires the gupnp-av, gupnp, gssdp, gstreamer, libgee, libsoup, libxml2,
+                gnutls, libgcrypt, libgpg-error, expat2, dbus, dbus-glib, glib2, sqlite3,
+                atk, cairo, pango, gtk2, fontconfig, graphics-libs-1, pixman, ttf-bitstream-vera
+                and Xlibs_support extensions
+                ----------
+                This extension contains:
+                rygel-0.4.8 - GPLv2 - http://ftp.acc.umu.se/pub/GNOME/sources/rygel/0.4/rygel-0.4.8.tar.bz2
+                ----------
+Change-log:     first version
+Current:        2009/12/28

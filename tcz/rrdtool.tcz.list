@@ -1,0 +1,17 @@
+usr/local/bin/rrdcached
+usr/local/bin/rrdcgi
+usr/local/bin/rrdtool
+usr/local/bin/rrdupdate
+usr/local/lib/librrd.so
+usr/local/lib/librrd.so.4
+usr/local/lib/librrd.so.4.1.3
+usr/local/lib/librrd_th.so
+usr/local/lib/librrd_th.so.4
+usr/local/lib/librrd_th.so.4.1.3
+usr/local/lib/perl5/5.10.1/i686-linux/perllocal.pod
+usr/local/lib/perl5/site_perl/5.10.1/RRDp.pm
+usr/local/lib/perl5/site_perl/5.10.1/i686-linux/RRDs.pm
+usr/local/lib/perl5/site_perl/5.10.1/i686-linux/auto/RRDp/.packlist
+usr/local/lib/perl5/site_perl/5.10.1/i686-linux/auto/RRDs/.packlist
+usr/local/lib/perl5/site_perl/5.10.1/i686-linux/auto/RRDs/RRDs.bs
+usr/local/lib/perl5/site_perl/5.10.1/i686-linux/auto/RRDs/RRDs.so

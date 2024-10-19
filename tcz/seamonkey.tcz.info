@@ -1,0 +1,23 @@
+Title:          seamonkey.tcz
+Description:    Seamonkey web browser
+Version:        2.0.5
+Author:         The Mozilla Community
+Original-site:  www.seamonkey-project.org/
+Copying-policy: MPL
+Size:		18M
+Extension_by:   Jason W
+Comments:       This is the official build of Seamonkey.
+                Depends on gtk2 and it's deps.
+                This extension is PPI compatible.
+Change-log:     ----
+                2008/03/30 First version
+		2009/04/10 Next version 1.1.16
+		2009/06/25 Updated to 1.1.17
+		2009/09/11 Updated to 1.1.18
+		2009/10/29 Updated to 2.0
+		2009/12/17 Updated to 2.0.1
+		2010/02/22 Updated to 2.0.3
+		2010/04/07 Updated to 2.0.4
+Current:	2010/06/23 Updated to 2.0.5
+
+

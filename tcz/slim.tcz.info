@@ -1,0 +1,27 @@
+Title:          slim.tcz
+Description:    Simple Login Manager (UNMAINTAINED)
+Version:        1.3.1-tc
+Author:         Simone Rota and Johannes Winkelmann
+Original-site:  http://slim.berlios.de
+Copying-policy: GPL
+Size:		232K
+Extension_by:   Curaga
+Comments:       Unmaintained for now. Use at your own risk.
+-
+		SLiM is a graphical login manager.
+-
+		To use effectively, add a password for your user, and 
+		add /etc/shadow to your backup. If you use another 
+		username than "tc", also add /etc/passwd.
+-
+		sudo passwd tc
+		echo "etc/shadow" >> /opt/.filetool.lst
+-
+		This extension is automagic, ie if it is in your tcz 
+		directory along with its dependencies, you will see a 
+		graphical login instead of an autologin.
+		*warning* this extension overwrites /root/.profile
+-
+		Starting with TC 2.0, add the bootcode "superuser"
+Change-log:     2009/05/31 Original
+Current:        2009/06/07 Updated for TC 2.0

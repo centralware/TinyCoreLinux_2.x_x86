@@ -1,0 +1,15 @@
+Title:          qmmp-jack.tcz
+Description:    qmmp jack plugin. 
+Version:        0.3.4-svn-r1660
+Author:         Ilya Kotov, Vladimir Kuznetsov, Yuriy Zhuravlev, Andrey Adreev
+Original-site:  http://qmmp.ylsoftware.com/
+Copying-policy: GPL-2
+Size:		28K
+Extension_by:   Arslan S.
+Comments:	- go to settings->plugins->output->select JACK
+		- then start jack server
+		jackd --no-realtime -d alsa or oss
+                
+		This extension is PPI compatible.
+Change-log:     2010/02/07 Original 0.3.2
+Current:        2010/04/06 Updated to 0.3.4-svn-r1660

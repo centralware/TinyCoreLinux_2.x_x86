@@ -1,0 +1,6 @@
+etc/slim.conf
+root/.profile
+usr/local/bin/slim
+usr/local/share/slim/themes/default/background.jpg
+usr/local/share/slim/themes/default/panel.png
+usr/local/share/slim/themes/default/slim.theme

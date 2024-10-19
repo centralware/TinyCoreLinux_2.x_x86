@@ -1,0 +1,22 @@
+Title: 	rtl8187se_coffee.tcz
+Description: 	Provides support for the rtl8187se wireless card
+Version:	0.4
+Extension_by: 	Julian Brelsford, julianbrelsford --at-- gmail dotcom
+Copying-policy:	GNU GPL V2
+Author: 	Coffeelius
+Size:		114kb
+Original-site:  http://code.google.com/p/msi-wind-linux/
+Comments: 	in order to load the kernel modules in the proper order, you may have to 
+		run: 
+		sudo sh /local/lib/modules/2.6.29.1-tinycore/kernel/driver/net/wireless/wlan0up
+
+		If you add the above line to the file, /opt/bootlocal.sh then the script will run 
+		each time you start up. (note, sudo is not required for commands in the 
+		bootlocal.sh file)
+
+		You must use wireless_tools.tcz or wicd.tcz (or a similar program) to connect to a 
+		wireless network. Be sure to follow the instructions included with those 
+		programs. 
+
+Change-log:	2009/12/26 First version 0.4
+Current:	2009/12/26 Version 0.4

@@ -1,0 +1,14 @@
+Title:          SDL_gfx-dev.tcz
+Description:    SDL_gfx library development files.
+Version:        2.0.20
+Author:         Andreas Schiffler
+Original-site:  www.ferzkopp.net/Software/SDL_gfx-2.0/ 
+Copying-policy: LGPLv2
+Size:		52K
+Extension_by:   Arslan S.
+Comments:       SDL graphics drawing primitives and other support functions wrapped up in 
+		an addon library for the Simple Direct Media (SDL) cross-platform API layer.
+		
+		This extension is PPI compatible.
+Change-log:     ---
+Current:        2009/11/25 Original

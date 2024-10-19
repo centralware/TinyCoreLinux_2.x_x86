@@ -1,0 +1,14 @@
+Title:          ruby-dev.tcz
+Description:    Ruby Programming Langrage dev files. 
+Version:        1.9.1-p376
+Author:         Yukihiro Matsumoto
+Original-site:  http://www.ruby-lang.org/en/
+Copying-policy: Ruby licnse,GPL
+Size:		2.3M
+Extension_by:   Jason W
+Comments:       ---------
+Change-log:     2009/003/13 First version 1.9.1
+Current:        2010/03/28 Updated to 1.9.1-p376
+
+
+

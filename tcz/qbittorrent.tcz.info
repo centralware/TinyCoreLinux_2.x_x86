@@ -1,0 +1,18 @@
+Title:          qbittorrent.tcz
+Description:    Qt based bittorrent client similar to uTorrent.
+Version:        2.2.10
+Author:         Christophe Dumez
+Original-site:  http://qbittorrent.sourceforge.net/
+Copying-policy: GPL-2 with a openssl exception
+Size:		3.2M
+Extension_by:   Arslan S.
+Comments:       Please do the following:
+		Options->Preferences->Download 
+		and tick "Pre-allocate all files"
+		If you don't do this qbittorrent crashes when 
+		you press pause button while downloading.
+
+		This extension is PPI compatible.
+Change-log:     2009/12/08 Original 1.5.6
+		2010/01/28 Updated to 2.1.2
+Current:        2010/07/09 Updated to 2.2.10
