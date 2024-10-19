@@ -1,0 +1,11 @@
+usr/local/bin/vte
+usr/local/lib/libvte.so
+usr/local/lib/libvte.so.9
+usr/local/lib/libvte.so.9.12.1
+usr/local/lib/vte/decset
+usr/local/lib/vte/interpret
+usr/local/lib/vte/osc
+usr/local/lib/vte/slowcat
+usr/local/lib/vte/window
+usr/local/libexec/gnome-pty-helper
+usr/local/share/vte/termcap/xterm

@@ -1,0 +1,19 @@
+Title:          wifi-radar.tcz
+Description:    WiFi connection manager
+Version:        2.0.s05
+Author:         Various
+Original-site:  http://wifi-radar.berlios.de
+Copying-policy: GPL v2
+Size:           53k
+Extension_by:   bmarkus 
+Comments:	Compiled for TC2.x
+                ----
+		Configuration file is /usr/local/etc/wifi-radar/wifi-radar.conf
+		----
+		For WPA configure wpa-supplicant before using wifi-radar
+		Check preferences/WPA for file wpa_supplicant.conf location
+Change-log:   	----
+Current:   	2009/08/20 First version
+
+
+

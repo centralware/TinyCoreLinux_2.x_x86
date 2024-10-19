@@ -1,0 +1,75 @@
+Title:          vlc.tcz
+Description:    VLC is more than a media player.
+Version:        1.0.6
+Author:         VideoLAN Team
+Original-site:  http://www.videolan.org
+Copying-policy: GPL-2
+Size:		12.8M
+Extension_by:   Arslan S.
+Comments:       VLC media player is a highly portable multimedia player supporting most audio 
+		and video formats (H.264, Ogg, DivX, MKV, TS, MPEG-2, mp3, MPEG-4, aac, ...) 
+		from files, physical media (DVDs, VCD, Audio-CD), TV capture cards and many 
+		network streaming protocols.
+
+		This is the latest stable release in Goldeneye branch.
+		
+		Almost all audio and video codecs (except rare ones), support for matroska, 
+		ogg formats available with this build.
+		
+		Reading from dvd(with menu support),vcd,audio-cd, bd, TV capture cards are enabled. 
+
+		You can have OSS or ALSA for sound, both enabled.
+
+		This build does not depend on Xorg but I recommend it if you want to watch movies
+		in full screen (especially hd movies).
+
+		You can switch to and from full screen mode by hotkey "f" or by double clicking on the frame.
+		Important thing to note about full screen mode is that a gray window covers whole screen 
+		when you switch to full screen mode. You can manually drag and drop it out of screen by 
+		using your mouse. This cannot be reproduced with other window managers than flwm.
+		
+		One of the things you have to do when you first run vlc is to show full path to a valid font
+		in Tools->Preferences->Subtitle menu. You can find one in /usr/local/share/vlc/skins2/fonts
+		You can also choose the proper character encoding here for your subtitles.
+
+		There are also some suggested options to increase performance while playing hd movies.
+		Go to Tools->Preferences, in bottom left corner click on "All" in "Show settings" then
+		expand Input/Codecs->Access modules->File, set "Caching value in ms" to 800 ms.
+		
+		Again in Input/Codecs, expand "Other codecs"->FFmpeg->Decoding->  
+		"Skip the loop filter for H.264" , select "All" .
+
+		Skins enabled so have a look at http://www.videolan.org/vlc/skins.php
+		and put the ones you like most in the directory ~/.local/share/vlc/skins2
+		Go to Tools->Preferences->Interface and choose Skins in Interface Type and restart vlc.
+		vlc will start in default skin. If you want to change skin right click on somewhere near
+		vlc buttons then Interface->Select skin (if you put your skin files in the directory given 
+		above, your skin files should appear here). If you put your skin file in a different directory
+		you can show full path to it
+		Tools->Preferences->Interface->Interface Type->Skins menu.
+		
+		Note: For video4Linux2 support you need to load libv4l extension
+		Note: For encrypted dvd support you need to install libdvdcss
+
+		Optional dependencies: Xorg, SDL(+graphics-libs-1), libmtp, libv4l
+		
+		This extension is PPI compatible.
+
+Change-log:     2009/11/05 First Version
+		2009/11/06 Updated to 1.0.3
+			Added support for the following:	
+			-ogg format support
+			-vorbis audio codec
+			-theora video codec
+			-speex audio codec
+		2009/12/12 Updated to 1.0.4
+			Added following plugins:
+			-CD,BD(Blu-Ray Disc),AUDIOCD,VCD,DVD(with menu support) input modules
+			-video4Linux2 access module
+			-twolame audio codec
+			-mpc audio codec
+			-dirac demux support through libschroedinger
+			-x264 video codec
+			-shout stream support
+Current:  	2010/05/02 Updated to 1.0.6, added more plugins and splitted files
+  

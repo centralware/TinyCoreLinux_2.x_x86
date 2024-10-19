@@ -1,0 +1,19 @@
+Title:		Xlibs_support.tcz
+Description:	Fills library dependencies of X apps while using Xvesa.
+Version:	7.4
+Author:		misc
+Original-site:  www.x.org
+Copying-policy:	MIT License
+Extension_by:	jpeters
+Comments:	Not needed if you have Xorg installed.
+Size:		24K
+Change_log:	2009/02/08
+		2009/02/09 Changed from Skype_support.tcel to Xlib_support.tcel
+		2009/02/09
+		2009/04/24 Fixed broken .so symlinks. 
+		2009/04/29 Upgraded libraries to currnet Xorg-7.4.tcel	(Jason W)
+		versions to prevent library conflict. (Jason W)
+		2009/10/05 Added libXdamage and libXcomposite for better
+		app support. (Jason W)
+Current:	2009/10/20 Added libXRes. (Jason W)
+

@@ -1,0 +1,14 @@
+Title:          totem-locale.tcz
+Description:    Movie Player of GNOME based on gstreamer.(TESTING)
+Version:        2.28.5
+Author:         Bastien Nocera, Julien Moutte
+Original-site:  http://projects.gnome.org/totem/
+Copying-policy: GPL-2
+Size: 		1.6M
+Extension_by:   Arslan S.
+Comments:	WARNING! HEAVY DEPENDENCY.
+		
+		This extension is PPI compatible.
+
+Change-log:     2010/01/10 First Version
+Current:   	2010/01/18 Removed some broken plugins.

@@ -1,0 +1,17 @@
+Title:          wavemon-doc.tcz
+Description:    ncurces-based wireless network device monitor
+Version:        0.6.10
+Author:         Jan Morgenstern, Gerrit Renker
+Original-site:  http://eden-feed.erg.abdn.ac.uk/wavemon/
+Copying-policy: GPL v3
+Size:           29k
+Extension_by:   bmarkus
+Comments:       Doc files
+                ----
+                Compiled for TC2.x
+                ----
+                PPI compatible
+                ----
+                Dep file is recursive
+Change-log:     2009/09/04 First version
+Current:        2010/04/18 Updated to 0.6,10

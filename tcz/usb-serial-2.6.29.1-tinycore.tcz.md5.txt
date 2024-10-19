@@ -1,0 +1,1 @@
+a3da59778352ac0d4c75f6d6f0221dea  usb-serial-2.6.29.1-tinycore.tcz

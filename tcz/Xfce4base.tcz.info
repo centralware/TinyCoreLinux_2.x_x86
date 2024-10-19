@@ -1,0 +1,31 @@
+Title:          Xfce4base.tcz
+Description:    Xfce4 base system
+Version:        4.6.1
+Author:         Various
+Original-site:  http://www.xfce.org
+Copying-policy: GPL v2
+Size:           4.4M
+Extension_by:   bmarkus
+Comments:       This is the basic Xfce4 system for TC 2.x
+                integrating core elements plus applications:
+                - Thunar file manager
+                - mousepad text editor
+                - Thunar-volman plugin for volume management
+                ----
+                Compiled for TC2.x
+                ----
+                Binaries only
+                ----
+                PPI compatible
+                ----
+                Dep file is recursive
+Change-log:     2009/08/06 First version
+                2009/09/15 Converted to squashfs
+                2009/10/13 Adapted to TC 2.4.1
+                2009/11/23 Adapted to hicolor-icon-theme.tcz
+                2010/03/29 Default terminal bug fixed
+Current:        2010/04/16 Configuration changes
+
+
+
+

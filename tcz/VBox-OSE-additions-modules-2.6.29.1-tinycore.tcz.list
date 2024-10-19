@@ -1,0 +1,4 @@
+usr/local/lib/modules/2.6.29.1-tinycore/kernel/misc/vboxadd.ko
+usr/local/lib/modules/2.6.29.1-tinycore/kernel/misc/vboxvfs.ko
+usr/local/lib/modules/2.6.29.1-tinycore/kernel/misc/vboxvideo.ko
+usr/local/tce.installed/VBox-OSE-additions-modules-2.6.29.1-tinycore

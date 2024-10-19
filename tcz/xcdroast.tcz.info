@@ -1,0 +1,15 @@
+Title:          xcdroast.tcz
+Description:    Graphical cdrecord frontend.
+Version:        0.98alpha16
+Author:         Thomas Niederreiter
+Original-site:  www.xcdroast.org/ 
+Copying-policy: GPL
+Size: 466KB
+Extension_by:   Jason W
+Comments:       Requires cdrecord.tcz and gtk+-2.tcz and it's dependencies.
+                Run xcdroast as root for the first time as that will
+		set it up, then you can run as user.
+		This extension is PPI compatible.
+Change-log:     --------
+Current:        2009/02/10
+

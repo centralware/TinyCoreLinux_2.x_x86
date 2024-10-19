@@ -1,0 +1,53 @@
+Title:          vnstat.tce
+Description:    vnStat                    
+Version:        1.8  
+Author:         Teemu Toivola           
+Original-site:  http://humdi.net/vnstat/                            
+Copying-policy: GPL
+Size:           72K
+Extension_by:   alu
+Comments:       console-based network traffic monitor that keeps a log 
+		of network traffic for the selected interface(s). It 
+		uses the network interface statistics provided by the 
+		kernel as information source. This means that vnStat 
+		won't actually be sniffing any traffic and also ensures 
+		light use of system resources. 
+		------
+		How to: 	
+		in order to make it work and update regularly, follow 
+		these steps: 
+		
+		1. create a vnstat.conf file and copy it to /etc
+		2. make a directory in order to save your database 
+		file in /var: 
+		
+		sudo mkdir -p /var/lib/vnstat
+		3. i personally symlink the database file: 
+		
+		ln -s /mnt/yourdevice /var/lib/vnstat
+		
+		but feel free to make an entry to .filetool.list to make 
+		it persist over boots
+		4. use the deamon vnstatd in order to update the 
+		database regularly, and run it with the -d option 
+		(crontab should also work; it didn't work for me):
+		
+		vnstatd --config /etc/vnstat.conf -d
+		
+		5. update the database with indication of the device 
+		and the config file:
+		
+		sudo vnstat -u -i eth0 --force --config /etc/vnstat.conf
+		
+		or (for ppp connection and 3g usb modem)
+		
+		sudo vnstat -u -i ppp0 --force /etc/vnstat.conf
+		
+		--foce is used since we work in ram mode.
+		6. once the database built for your(s) device(s), call 
+		vnstat as user; example for a daily output:
+		
+		vnstat -d
+
+Change-log:     2009/07/09
+Current:        2009/07/09

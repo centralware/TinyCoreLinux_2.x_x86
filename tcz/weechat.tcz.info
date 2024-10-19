@@ -1,0 +1,12 @@
+Title:          weechat.tcz
+Description:    Fast, light & extensible IRC chat client
+Version:        0.2.6.3
+Author:         Sebastien Helleu
+Original-site:  http://weechat.flashtux.org/
+Copying-policy: GPL
+Size: 174KB
+Extension_by:   Jason W
+Comments:       Command is weechat-curses.
+Change-log:     ----
+Current:   	2009/06/28 First version 0.2.6.3
+

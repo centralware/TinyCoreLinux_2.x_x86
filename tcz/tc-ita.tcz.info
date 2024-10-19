@@ -1,0 +1,51 @@
+Title:          tc-ita.tcz
+Description:    Partial italian translation of tinycore 
+                Traduzione parziale in italiano d tinycore
+Version:        2.9
+Author:         jls_legalize (unsenepopiu at tin dot it)
+Original-site:  http://tinycorelinux.com
+Copying-policy: creative commons Attribution-Share Alike 2.5 Italy
+Size:           196 KB
+Extension_by:   jls_legalize (unsenepopiu at tin dot it)
+Comments:       X la tastiera in italiano installare  
+	        kmaps.tcz e nei parametri d boot aggiungere kmap=it.
+                x far si che eventuali estensioni localizzate si avviino in
+                italiano, nei parametri di boot aggiungere lang=it_IT@euro
+                
+                Un ringraziamento a vinniec x l'aiuto.
+		-------------------------------------------
+                This extension is PPI compatible.
+                Questa estensione e' compatibile PPI
+Change-log:     2009/04/15 Primo impacchettamento (1.3)
+		2009/04/25 aggiornata alla 1.4
+                2009/05/02 ricompilati programmi fltk
+		2009/08/06 aggiornata alla 2.2;
+                           Il nome utente puo' anche 
+		           essere diverso da tc
+                2009/08/11 inserito locale-archive nell'estensione;
+                           aggiunta dipendenza glibc_gconv.tce
+                2009/08/11 corretto errore posizionamento file locale
+                2009/09/09 aggiornata alla 2.3
+		2009/10/08 aggiornata alla 2.3.1;
+                           aggiunto il file x la tastiera italiana
+                2009/10/19 aggiornata alla 2.4.1;
+                           resa PPI compatibile;
+		           eliminata mappatura tast italiana;
+			   eliminata dipendenza glibc_gconv;
+			   elininato locale-archive
+	        2009/10/22 aggiornato documento d aiuto
+		2009/11/09 aggiornata alla 2.5
+                           reinserito locale-archive nell'estensione;
+                           riaggiunta quindi dipendenza glibc_gconv
+		2009/11/29 aggiornata alla 2.6
+		2009/12/09 aggiornata alla 2.6.1
+		2010/01/02 aggiornata alla 2.7
+		2010/01/30 aggiornata alla 2.8
+		2010/01/30 aggiornata alla 2.8.1
+		2010/03/04 aggiornata alla 2.9	
+		2010/03/06 corretto errore in tc-load 
+		2010/04/02 aggiornata alla 2.10
+			   aggiunta traduzione d tc-functions
+		2010/04/04 aggiornata ondemand,
+			   rimosso flit
+Current:	2010/04/14 tradotti ab e select

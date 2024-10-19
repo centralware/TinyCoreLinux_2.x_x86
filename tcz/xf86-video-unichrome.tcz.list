@@ -1,0 +1,14 @@
+usr/local/lib/libXvMCunichrome.la
+usr/local/lib/libXvMCunichrome.so
+usr/local/lib/libXvMCunichrome.so.1
+usr/local/lib/libXvMCunichrome.so.1.0.0
+usr/local/lib/xorg/modules/drivers/openchrome_drv.la
+usr/local/lib/xorg/modules/drivers/openchrome_drv.so
+usr/local/lib/xorg/modules/drivers/unichrome_drv.la
+usr/local/lib/xorg/modules/drivers/unichrome_drv.so
+usr/local/lib/xorg/modules/drivers/via_drv.la
+usr/local/lib/xorg/modules/drivers/via_drv.so
+usr/local/share/man/man4/openchrome.4
+usr/local/share/man/man4/unichrome.4
+usr/local/share/man/man4/via.4
+usr/local/tce.installed/xf86-video-unichrome

@@ -1,0 +1,13 @@
+Title:          tofrodos.tcz
+Description:    Text file conversion utility between DOS/WIN and UNIX
+Version:        1.7.8
+Author:         Christopher heng
+Original-site:  http://www.thefreecountry.com/tofrodos/index.shtml
+Copying-policy: GPL2
+Size:           8K
+Extension_by:   bmarkus 
+Comments:	Compiled for TC2.0
+		----
+		Type 'todos -h' or 'fromdos -h' for help
+Change-log:     ----
+Current:   	2009/06/06 First version

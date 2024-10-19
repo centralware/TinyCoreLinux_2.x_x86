@@ -1,0 +1,4 @@
+./usr/lib/libudev.so
+./usr/lib/libudev.la
+./lib/libudev.so.0
+./lib/libudev.so.0.6.1

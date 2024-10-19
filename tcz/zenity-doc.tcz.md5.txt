@@ -1,0 +1,1 @@
+45ed43d550eb09c4583b399bf00fcafb  zenity-doc.tcz

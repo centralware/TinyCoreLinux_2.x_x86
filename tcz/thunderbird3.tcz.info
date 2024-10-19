@@ -1,0 +1,23 @@
+Title:          thunderbird3.tcz
+Description:    Graphical email client
+Version:        3.0.3
+Author:         Various
+Original-site:  http://www.mozillamessaging.com
+Copying-policy: Mozilla
+Size:           14.4M
+Extension_by:   bmarkus
+Comments:       Packed for TC2.x
+                ----
+                This is the official binary build of Thunderbird
+                ----
+                PPI compatible
+Change-log:     ----
+                2009/12/12 First version
+                2010/02/26 Updated to 3.0.2
+Current:        2010/03/02 Updated to 3.0.3
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+gtk2.tcz
+libasound.tcz
+dbus-glib.tcz
+nss-nspr.tcz
+libxcb-util.tcz
+libstartup-notification.tcz

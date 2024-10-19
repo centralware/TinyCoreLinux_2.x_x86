@@ -1,0 +1,16 @@
+wine-gl.tcz
+perl5.tcz
+Xorg-7.4.tcz
+gnutls.tcz
+alsa.tcz
+mpg123.tcz
+openssl-0.9.8.tcz
+libxml2.tcz
+libxslt.tcz
+libldap.tcz
+libv4l.tcz
+graphics-libs-1.tcz
+libcups.tcz
+libgphoto2.tcz
+sane-backends.tcz
+libcapi20.tcz

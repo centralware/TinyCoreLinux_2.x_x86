@@ -1,0 +1,14 @@
+Title:          Terminal-locale.tcz
+Description:    Language files for Xfce4 Terminal
+Version:        0.4.4
+Author:         Benedikt Meurer
+Original-site:  www.xfce.org
+Copying-policy: GPL v2
+Size:		988K
+Extension_by:   bmarkus, Arslan S.
+Comments:	Compiled for TC2.x
+		----
+		PPI compatible
+Change-log:   	2009/09/04 First version
+Current:   	2010/02/26 Updated to 0.4.4 (Arslan S.)
+

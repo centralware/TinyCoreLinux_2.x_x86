@@ -1,0 +1,11 @@
+Title:          xine-lib.tcz
+Description:    xine is a free (gpl-licensed) high-performance, portable and reusable multimedia playback engine (TESTING)
+Version:        1.1.2
+Author:         Xine Project Team
+Original-site:  http://www.xine-project.org
+Copying-policy: GPL
+Size:		5.2M
+Extension_by:   Róbinson J. Araújo
+Comments:       Compiled with libXv and libdvdcss support
+Change-log:     
+Current:        2009/05/04 First version

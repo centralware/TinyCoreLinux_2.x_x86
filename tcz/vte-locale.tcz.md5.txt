@@ -1,0 +1,1 @@
+74e2ed38d4317aaa542e7101ba259d33  vte-locale.tcz

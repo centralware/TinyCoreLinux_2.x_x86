@@ -1,0 +1,15 @@
+Title:          vinagre.tcz
+Description:    A VNC Client for the GNOME Desktop.
+Version:        2.28.1
+Author:         Jonh Wendell
+Original-site:  http://projects.gnome.org/vinagre/
+Copying-policy: GPL-3
+Size:		512K
+Extension_by:   Arslan S.
+Comments:	Optional dependency: avahi daemon
+
+		This extension depends on Xorg.
+		This extension has recursive deps.
+		This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/03/31 Original

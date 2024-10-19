@@ -1,0 +1,14 @@
+Title:          v4l-dvb-2.6.29.1-tinycore.tcz
+Description:    V4L, DVB, DAB, webcams for 2.6.29.1-tinycore
+Version:        2.6.29.1-tinycore
+Author:         Various
+Original-site:  http://kernel.org
+Copying-policy: GPL
+Size:		2.0M
+Extension_by:   Curaga
+Comments:       Video4Linux support for webcams, video/audio/radio 
+		devices, digi-tv sticks et cetera.
+
+		This extension is PPI compatible.
+Change-log:     
+Current:        2009/04/11 Original

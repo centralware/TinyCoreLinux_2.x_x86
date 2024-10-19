@@ -1,0 +1,15 @@
+./usr/lib/pkgconfig/udev.pc
+./usr/lib/pkgconfig/libudev.pc
+./usr/include/libudev.h
+./lib/udev/path_id
+./lib/udev/edd_id
+./lib/udev/collect
+./lib/udev/ata_id
+./lib/udev/cdrom_id
+./lib/udev/scsi_id
+./lib/udev/firmware
+./lib/udev/create_floppy_devices
+./lib/udev/v4l_id
+./lib/udev/input_id
+./lib/udev/fstab_import
+./lib/udev/usb_id

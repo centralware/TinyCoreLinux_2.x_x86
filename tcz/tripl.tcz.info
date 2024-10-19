@@ -1,0 +1,13 @@
+Title:                tripl.tcz
+Description:     Commandline tool for single or multiple encryption using loop-aes v3.x
+Version:           0.72
+Author:            wdef
+Original-site:    http://tripl.sourceforge.net
+Copying-policy: GPL
+Size:                 6KB
+Extension_by:   wdef
+Comments:      On 1st run will create an example ~/.triplrc which you should
+                        edit to suit.  Note KERNELPATCH=yes for tinycore. 
+                        Type tripl -h and see tripl home page for usage.
+Change-log:     2009/09/20 Original
+Current:           2009/09/20

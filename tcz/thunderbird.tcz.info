@@ -1,0 +1,22 @@
+Title:          thunderbird.tcz
+Description:    Graphical email client
+Version:        2.0.0.23
+Author:         Various
+Original-site:  http://www.mozillamessaging.com
+Copying-policy: Mozilla
+Size:           11.7M
+Extension_by:   bmarkus 
+Comments:	Packed for TC2.x
+		----
+		This is the official build of Thunderbird
+Change-log:   	2009/07/09 First version
+		2009/07/09 Repacked to keep freedesktop.org menu item
+		2009/07/26 WBAR issue fixed
+		2009/08/22 Upgraded to 2.0.0.23
+Current:	2009/09/16 Converted to squashfs
+
+
+
+
+
+

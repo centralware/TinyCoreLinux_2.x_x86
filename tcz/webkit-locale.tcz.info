@@ -1,0 +1,13 @@
+Title:          webkit-locale.tcz
+Description:    WebKit/GTK+ locale files.
+Version:        1.2.0
+Author:         Various
+Original-site:  http://webkitgtk.org/
+Copying-policy: LGPL/BSD-like
+Size: 		164K
+Extension_by:   Roberto A. Foglietta, Arslan S.
+Comments:       This extension is PPI compatible.
+Change-log:     2009/05/04 First version
+		2009/12/23 Updated to 1.15.4 (Arslan S.)
+		2010/04/12 Updated to 1.2.0 (Arslan S.)
+Current:   	2010/05/01 Rebuilt (Arslan S.)

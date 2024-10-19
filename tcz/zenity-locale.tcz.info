@@ -1,0 +1,11 @@
+Title:		zenity-locale.tcz
+Description:	Display Gtk+ dialog boxes from command line and shell scripts, locale package.
+Version:	2.28.0
+Author:		Glynn Foster, Mike Newman
+Original-site:	http://live.gnome.org/Zenity
+Copying-policy:	LGPL-2
+Size:		416K
+Extension_by:	jls_legalize (unsenepopiu at tin dot it), Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	2010/01/30 First version 2.20.1 by jls_legalize
+Current:	2010/05/15 Updated to 2.28.0 by Arslan S.

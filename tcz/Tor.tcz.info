@@ -1,0 +1,11 @@
+Title:          Tor.tcz
+Description:    Tor is a network of virtual tunnels that allows people and groups to improve their privacy and security on the Internet.
+Version:        0.2.1.26-tinycor_2.11.4
+Author:         The Tor Project
+Original-site:  http://www.torproject.org/
+Copying-policy: BSD
+Size: 		2.219 MB
+Extension_by:   Xianwen Chen
+Comments:       This package is PPI compatible.
+Change-log:     2010/6/18 Tor 0.2.1.26-tinycore_2.11.4
+Current:        2010/6/18 Tor 0.2.1.26-tinycore_2.11.4

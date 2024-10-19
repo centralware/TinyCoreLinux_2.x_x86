@@ -1,0 +1,12 @@
+Title:          tar-locale.tcz
+Description:    The GNU Tape ARchiver program locale data.
+Version:        1.22
+Author:         John Gilmore and Jay Fenlason
+Original-site:  http://www.gnu.org/software/tar/
+Copying-policy: GPL
+Size: 500KB
+Extension_by:   Jason W
+Comments:       This extension is PPI compatible.
+Change-log:     ----
+Current:   	2009/09/25 First version 1.22
+

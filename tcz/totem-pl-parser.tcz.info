@@ -1,0 +1,18 @@
+Title:          totem-pl-parser.tcz
+Description:    totem playlist parser
+Version:        2.28.1
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 		92KB
+Extension_by:   juanito
+Comments:       a simple GObject-based library to parse a host of playlist formats
+                ----------
+                requires the glib2, libxml2, atk, cairo, pango, pixman, fontconfig,
+                expat2 and gtk2 extensions
+                ----------
+                this extension contains:
+                totem-pl-parser-2.28.1 - GPLv2 - http://ftp.acc.umu.se/pub/GNOME/sources/totem-pl-parser/2.28/totem-pl-parser-2.28.1.tar.bz2
+                ----------
+Change-log:     first version
+Current:   	2009/11/08

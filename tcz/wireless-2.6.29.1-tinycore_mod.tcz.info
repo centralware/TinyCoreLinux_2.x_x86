@@ -1,0 +1,17 @@
+Title:		wireless-2.6.29.1-tinycore_mod.tcz
+Description:	Mod for wireless cards requiring Atheros drivers (TESTING)
+Version:        compat-wireless-2.6.30
+Author: 	patches by John W. Linville
+Original-site:  http://linuxwireless.org/en/users
+Copying-policy:	GPL 
+Extension_by:	jpeters & Juanito 
+Comments:	Designed to work with wireless_tools.tcz as replacement
+                for wireless-2.6.29.1-tinycore.tcz (which must be removed).
+		Revised version works well with wireless cards requiring
+ 		Atheros drivers.  Typical useage:
+		  "sudo iwconfig wlan0 channel xx essid "xxxxx"
+                   sudo udhcpc -i wlan0"  
+Size:		1.1M		
+Change-log:     ----
+Current:	2009/07/31 First version
+

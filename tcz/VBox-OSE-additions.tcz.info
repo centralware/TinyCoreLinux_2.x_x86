@@ -1,0 +1,29 @@
+Title:		VBox-OSE-additions.tcz
+Description:	Shared folder support for VirtualBox    (TESTING)
+Version:	3.0.12
+Author:		Sun Microsystems
+Original-site:	http://www.virtualbox.org
+Copying-policy:	GPL2
+Size:		16K
+Extension_by:	Kingdomcome
+Comments:	This is only the shared folder support for running TC/MC
+		inside VirtualBox. Insert kernel module and then use
+		mount.vboxsf to mount folders shared through VirtualBox
+		
+		sudo modprobe vboxvfs
+		sudo mount.vboxsf <sharename> <mountpoint>
+		
+		Depends on VBox-OSE-additions-modules-2.6.29.1-tinycore.tcz
+		
+		This extension is PPI compatible
+Change-log:	2009/08/29 First Version
+		2009/09/02 Reworded info
+			   Made xorg.conf writable
+			   Added code to post-install in attempt
+			   to set xkeymap
+			   Added workaround in VBoxRandR for
+			   tint2 bug in openbox
+		2009/09/08 Fixed bug in post-install script
+			   Reworded info
+Current:	2010/03/07 Bumped to 3.0.12
+			   Split x11 and shared folder parts

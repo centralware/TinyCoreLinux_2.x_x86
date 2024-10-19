@@ -1,0 +1,11 @@
+Title:          tcsh.tcz
+Description:    tcsh shell for tinycore
+Version:        6.17.00
+Author:         Various
+Original-site:  http://www.tcsh.org/MostRecentRelease
+Copying-policy: see source
+Size: 		172K
+Extension_by:   hiro
+Comments:       For these annoying csh scripts;)
+Change-log:     2010/06/03 First version
+Current:	

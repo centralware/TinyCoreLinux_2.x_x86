@@ -1,0 +1,18 @@
+Title:		VBox-OSE.tcz
+Description:	VirtualBox OSE    (TESTING)
+Version:	3.0.12
+Author:		Sun Microsystems
+Original-site:	http://www.virtualbox.org
+Copying-policy:	GPL2
+Size:		11M
+Extension_by:	Kingdomcome
+Comments:	Powerful virtualization software.
+		User manual:
+		http://www.virtualbox.org/manual/UserManual.html
+		
+		Depends on Xorg, hal, QT-4.5, Alsa, glib2, python
+		and VBox-OSE-modules-2.6.29.1-tinycore
+		
+		This extension is PPI compatible
+Change-log:	------
+Current:	2010/03/07 First Version

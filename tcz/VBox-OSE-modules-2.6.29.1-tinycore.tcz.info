@@ -1,0 +1,13 @@
+Title:		VBox-OSE-modules-2.6.29.1-tinycore.tcz
+Description:	VirtualBox OSE modules for 2.6.29.1-tinycore  (TESTING)
+Version:	3.0.12
+Author:		Sun Microsystems
+Original-site:	http://www.virtualbox.org
+Copying-policy:	GPL2
+Size:		132K
+Extension_by:	Kingdomcome
+Comments:	Powerful virtualization software.
+		
+		This extension is PPI compatible
+Change-log:	------
+Current:	2010/03/07 First Version

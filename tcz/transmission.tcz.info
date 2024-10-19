@@ -1,0 +1,20 @@
+Title:		transmission.tcz
+Description:	GTK2 Bittorrent client
+Version:		1.92
+Author:		Charles Kerr, Mitchell Livingston
+Original-site:	www.transmissionbt.com
+Copying-policy:GPL/MIT
+Size:		3.5M
+Extension_by:	Jason W,  jls_legalize (unsenepopiu at tin dot it)
+Comments:	This extension contains the gtk bittorrent app
+			(transmission) as well as transmission-cli,
+			transmission-daemon, and transmission-remote.
+			Depends on GTK2 and it's dependencies, curl.tcz,
+			openssl-0.9.8k.tcz.
+			-----------------------------
+			This extension is PPI compatible.
+Change-log:	2009/05/17 First version 1.61
+			2009/09/11 UPdated to 1.74.
+			2010/02/25 Updated to 1.91 by jls_legalize (unsenepopiu at tin dot it)
+			2010/03/04 recompiled with tc 2.9 by jls_legalize (unsenepopiu at tin dot it)
+Current:		2010/03/21 Updated 2 1.92

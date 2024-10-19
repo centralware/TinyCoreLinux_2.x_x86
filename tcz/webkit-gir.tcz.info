@@ -1,0 +1,11 @@
+Title:          webkit-gir.tcz
+Description:    WebKit/GTK+ introspection data.
+Version:        1.2.0
+Author:         Various
+Original-site:  http://webkitgtk.org/
+Copying-policy: LGPL/BSD-like
+Size: 		16K
+Extension_by:   Arslan S.
+Comments:       This extension is PPI compatible.
+Change-log:     2010/04/12 Original
+Current:   	2010/05/01 Rebuilt

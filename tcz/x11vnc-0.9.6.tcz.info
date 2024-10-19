@@ -1,0 +1,29 @@
+Title:          x11vnc-0.9.6.tcz
+Description:    Remote Native X Display with SSL  (TESTING)
+Version:        0.9.6
+Author:         LibVNCServer
+Original-site:  http://sourceforge.net/projects/libvncserver/
+Copying-policy: GPL
+Size:		1.4M
+Extension_by:   robc
+Comments:       This package requires the 
+		openssl-0.9.8h package and some libraries 
+		from Xorg-7.4 (libXtst, libXinerama, 
+		libXfixes, and libXdamage).		
+		
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://www.karlrunge.com/x11vnc/ 
+		for more information.
+		
+		----------------------------------------------
+		
+		This extension is PPI compatible.
+		
+Change-log:     2009/1/29 Original
+		2009/5/20 Created tcz
+Current:	2009/05/20 Created tcz

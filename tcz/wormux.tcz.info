@@ -1,0 +1,25 @@
+Title:          wormux.tcz
+Description:    A multiplayer turn based 2D game.(TESTING)
+Version:        0.9.0
+Author:         Wormux Team
+Original-site:  www.wormux.org
+Copying-policy: GPL-2
+Size:		74.2M
+Extension_by:   Arslan S.
+Comments:       War is declared ! Have the mascots of your favorite free software titles 
+		battle it out in the Wormux arena using dynamite, grenades, baseball bats 
+		and other bazookas... Exterminate your opponent in a 2D environment with
+		toon-style scenery.
+
+		Each player controls the team of his choice (penguin, gnu, firefox, wilber,...)
+		and must destroy his adversary using more or less casual weapons.
+
+		Supports online play.
+
+		You need OSS or ALSA for sound.
+
+		Xorg is recommended.
+
+		This extension is PPI compatible.
+Change-log:     ---
+Current:        2010/02/16 Original

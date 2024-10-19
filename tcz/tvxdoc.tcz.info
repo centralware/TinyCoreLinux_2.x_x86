@@ -1,0 +1,16 @@
+Title:		tvxdoc.tcz
+Description:	tvxdoc contains documentation for the Plan 9 OS used by Tvx.
+Version:	20100612
+Author:		John David
+Original-site:	http://bitbucket.org/john_david/tvxroot
+Copying-policy:	Lucent-1.02
+Size:		15M
+Extension_by:	John (EBo) David
+Comments:	
+Change-log:	2010/06/10 added tag to repo and dropped mercurial requirement
+	2010/06/06 name change
+	2010/05/22 version bump
+	2010/04/29 split out documentation
+	2010/04/29 updated .info file
+	2010/04/28 first version (20100427)
+Current:	2010/06/12 synchronized sysfromiso and plan9tools

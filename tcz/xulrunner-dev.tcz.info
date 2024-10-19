@@ -1,0 +1,15 @@
+Title:          xulrunner-dev.tcz
+Description:    XULRunner is a Mozilla runtime package.(TESTING)
+Version:        1.9.1.7
+Author:         Mozilla Foundation
+Original-site:  https://developer.mozilla.org/en/XULRunner
+Copying-policy: MPL 1.1
+Size: 		13.4M
+Extension_by:   Arslan S.
+Comments:       XULRunner is a Mozilla runtime package that can be used 
+		to bootstrap XUL+XPCOM applications that are as rich as
+		Firefox and Thunderbird.
+
+                This extension is PPI compatible.
+Change-log:     ---
+Current:   	2010/01/30 Original version 1.9.1.7

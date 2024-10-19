@@ -1,0 +1,14 @@
+Title:          xfi.tcz
+Description:    A simple image viewer.
+Version:        1.19.2
+Author:         Roland Baudin
+Original-site:  http://roland65.free.fr/xfe/
+Copying-policy: GPL
+Size: 290KB
+Extension_by:   Jason W
+Comments:       Depends on fontconfig and Xlibs_support and fox.
+Change-log:     ----
+Current:   	2009/06/03 First version 1.19.2
+
+
+ 

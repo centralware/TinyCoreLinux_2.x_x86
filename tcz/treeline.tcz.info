@@ -1,0 +1,29 @@
+Title:          treeline.tcz
+Description:    Structured information storage
+Version:        1.2.4
+Author:         Doug Bell
+Original-site:  http://treeline.bellz.org/
+Copying-policy: GPL
+Size:		876k
+Extension_by:   robc
+Comments:       This package requires qt-4.5-base,
+		qt-4.5-xml, sip, python, glib2, fontconfig, 
+		pyqt, ispell, expat2, sqlite3, openssl-0.9.8h,
+		and tcl_tk.
+		
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://treeline.bellz.org/
+		for more information.
+		
+		----------------------------------------------
+		
+Change-log:     2009/6/11 Original
+		2009/07/31 Changed deps for updated pyqt
+		2009/08/27 Rebuilt for qt-4.5 and python 2.6.2
+		2009/11/19 Updated to v1.2.4
+Current:	2009/11/19 Updated to v1.2.4

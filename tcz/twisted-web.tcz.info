@@ -1,0 +1,15 @@
+Title:          twisted-web.tcz
+Description:    Twisted web server, programmable in Python.
+Version:        8.2.0
+Author:         James Knight
+Original-site:  http://twistedmatrix.com/trac/wiki/TwistedWeb
+Copying-policy: MIT
+Size:		392K
+Extension_by:   Arslan S.
+Comments:       Twisted Web is a complete web server, aimed at hosting web
+        	applications using Twisted and Python, but fully able to serve 
+		static pages, also.
+		
+		This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/05/13 Original

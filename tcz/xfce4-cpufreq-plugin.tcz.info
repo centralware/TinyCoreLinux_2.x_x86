@@ -1,0 +1,12 @@
+Title:          xfce4-cpufreq-plugin.tcz
+Description:    Cpufreq panel plugin for Xfce4
+Version:        0.0.1
+Author:         Thomas Schreck
+Original-site:  www.xfce.org
+Copying-policy: GPL v2
+Size:           16k
+Extension_by:   bmarkus 
+Comments:	Compiled for TC2.x
+Change-log:   	----
+Current:   	2009/08/09 First version
+

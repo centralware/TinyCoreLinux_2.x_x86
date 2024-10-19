@@ -1,0 +1,11 @@
+Title:          telepathy-glib.tcz
+Description:    Telepathy is a D-Bus framework for unifying real time communication.
+Version:        0.10.0
+Author:         Various
+Original-site:  http://telepathy.freedesktop.org/wiki/
+Copying-policy: GNU Lesser GPL-2.1/BSD-style
+Size:           360K
+Extension_by:   Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:     ---
+Current:        2010/02/23 Original

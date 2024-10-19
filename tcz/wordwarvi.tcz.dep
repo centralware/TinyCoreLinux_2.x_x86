@@ -1,0 +1,11 @@
+atk.tcz
+cairo.tcz
+fontconfig.tcz
+glib2.tcz
+gtk2.tcz
+libogg.tcz
+libportaudio.tcz
+libvorbis.tcz
+ogg-vorbis.tcz
+pango.tcz
+libasound.tcz

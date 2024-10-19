@@ -1,0 +1,12 @@
+Title:          vino-locale.tcz
+Description:    A VNC Server for the GNOME Desktop, locale files.
+Version:        2.28.1
+Author:         GNOME Authors
+Original-site:  http://www.gnome.org
+Copying-policy: GPL-2
+Size:		624K
+Extension_by:   Arslan S.
+Comments:	This extension has recursive deps.
+		This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/03/32 Original

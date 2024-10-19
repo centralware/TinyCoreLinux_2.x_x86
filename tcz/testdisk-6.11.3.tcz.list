@@ -1,0 +1,8 @@
+opt/testdisk-6.11.3/linux/l/linux
+opt/testdisk-6.11.3/linux/photorec.1
+opt/testdisk-6.11.3/linux/photorec_static
+opt/testdisk-6.11.3/linux/testdisk.1
+opt/testdisk-6.11.3/linux/testdisk_static
+usr/local/bin/photorec
+usr/local/bin/testdisk
+usr/local/tce.menu/testdisk-6.11.3

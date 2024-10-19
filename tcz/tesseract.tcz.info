@@ -1,0 +1,13 @@
+Title:          tesseract.tcz
+Description:    an OCR engine
+Version:        2.04
+Author:         HP-LABS -> Google
+Original-site:  http://code.google.com/p/tesseract-ocr/
+Copying-policy: Apache License 2.0
+Size: 1608 K
+Extension_by:   jls_legalize (unsenepopiu at tin dot it)
+Comments:       included english data file
+                ---------------------------------------
+		This extension is PPI compatible.
+Change-log:  ----
+Current:        2009/09/18 - First version

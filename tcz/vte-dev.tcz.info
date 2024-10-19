@@ -1,0 +1,23 @@
+Title:          vte-dev.tcz
+Description:    Inserts terminal capability strings into a tree of tables
+Version:        0.23.5
+Author:         Nalin Dahyabhai
+Original-site:  ftp://ftp.gnome.org/pub/gnome/sources/vte
+Copying-policy: GPL v2
+Size:           348k
+Extension_by:   bmarkus
+Comments:       Dev files
+                ----
+                Compiled for TC2.x
+                ----
+                PPI compatible
+Change-log:     2009/07/11 First version
+                2009/07/18 Updated to 0.20.5
+                2009/08/27 Updated to 0.21.4
+                2009/09/14 Updated to 0.21.5
+                2009/09/14 Converted to squashfs
+                2009/10/27 Updated to 0.23.1
+Current:        2010/02/02 Updated to 0.23.5
+
+
+

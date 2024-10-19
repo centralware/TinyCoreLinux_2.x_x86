@@ -1,0 +1,19 @@
+Title:          tvx.tcz
+Description:	tvx is an adaptation Bryan Ford and Russ Cox's
+		Plan 9 emulator 9vx to run on TinyCoreLinux.
+Version:		20100529
+Author:		Bryan Ford and Russ Cox
+Original-site:	http://pdos.csail.mit.edu/~baford/vm/
+Copying-policy:	Lucent-1.02
+Size:		1.2M
+Extension_by:	John (EBo) David and Ron Minnich
+Comments:	
+Change-log:	2010/05/22 Ron's syscalltrace support
+		added wrapper which takes deals with missing root
+		added link/install into users home
+		added ${HOME} to default path
+		added Tvx-root to Tvx dependency to bootstrap more easily
+	2010/04/30 added versioning to .info file
+	2010/04/16 first version (20091227) based on mercurial
+	2010/04/29 updated .info file
+Current:	2010/05/29 removed -O3 compile flag and name changes

@@ -1,0 +1,33 @@
+Title:		wine-dev.tcz
+Description:	wine - Wine Is Not an Emulator - dev files
+Version:	1.1.43
+Author:		Various
+Original-site:	http://www.winehq.org
+Copying-policy:	LGPL
+Size:		3.5M
+Extension_by:	Curaga, Robert Schumann
+Comments:	This extension lacks 3D support and runs without Xorg. Steps:
+
+			1. winecfg, let download gecko engine (maybe takes some time)
+			2. In winecfg under Graphics uncheck 'Allow window manager to control windows'
+			3. wine myapp.exe
+
+		For 3D, printing, scanning, ldap, etc. support use the wine-gl.tcz extension. The winetricks
+		extension might be helpful when installing original packages by MS.
+	   	--- 
+		This extension is PPI compatible.
+		This extension uses recursion for dependencies and requires tinycore >= 2.10.
+	   	--- 
+		This extension is PPI compatible.
+		This extension uses recursion for dependencies and requires tinycore >= 2.10.
+Change-log:	2008/12/31	Initial version 1.1.11
+		2010/03/03	Bumped to 1.1.39
+		2010/03/06	Adapted new mpg123 version, added libasound.tcz as dep
+		2010/03/07	Removed alsa and v4l. Bloat is in wine-gl.
+		2010/03/09	Bumped to 1.1.40
+		2010/03/18	Bumped to 1.1.41
+		2010/03/21	Dep recursion implemented, moved stdole2.tlb to wine
+		2010/03/24	Adding xcursor again since pink cursor bug should be fixed now
+		2010/03/25	Bumped to 1.1.42
+		2010/04/19	Bumped to 1.1.43
+Current:	2010/04/26	Added libcapi20 as dep

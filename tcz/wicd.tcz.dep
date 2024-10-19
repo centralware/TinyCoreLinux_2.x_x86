@@ -1,0 +1,9 @@
+bash.tcz
+dbus-python.tcz
+libglade.tcz
+libiconv.tcz
+pygtk.tcz
+shared-mime-info.tcz
+wpa_supplicant.tcz
+urwid.tcz
+librsvg.tcz

@@ -1,0 +1,17 @@
+usr/local/include/totem-pl-parser/1/plparser/totem-disc.h
+usr/local/include/totem-pl-parser/1/plparser/totem-pl-parser-builtins.h
+usr/local/include/totem-pl-parser/1/plparser/totem-pl-parser-features.h
+usr/local/include/totem-pl-parser/1/plparser/totem-pl-parser-mini.h
+usr/local/include/totem-pl-parser/1/plparser/totem-pl-parser.h
+usr/local/lib/libtotem-plparser-mini.a
+usr/local/lib/libtotem-plparser-mini.la
+usr/local/lib/libtotem-plparser-mini.so
+usr/local/lib/libtotem-plparser-mini.so.12
+usr/local/lib/libtotem-plparser-mini.so.12.4.4
+usr/local/lib/libtotem-plparser.a
+usr/local/lib/libtotem-plparser.la
+usr/local/lib/libtotem-plparser.so
+usr/local/lib/libtotem-plparser.so.12
+usr/local/lib/libtotem-plparser.so.12.4.4
+usr/local/lib/pkgconfig/totem-plparser-mini.pc
+usr/local/lib/pkgconfig/totem-plparser.pc

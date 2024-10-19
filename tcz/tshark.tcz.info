@@ -1,0 +1,30 @@
+Title:          tshark.tcz
+Description:    Network Protocol Analyzer CLI (TESTING)
+Version:        1.2.8
+Author:         Gerald Combs 
+Original-site:  http://www.wireshark.org/
+Copying-policy: GPLv2
+Size:			7.8M
+Extension_by:   robc
+Comments:     This package requires glib2, libgcrypt,
+		pcre, openssl-0.9.8, libpcap, and their deps.
+		
+		Command Line Interface tool for wireshark.
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://www.wireshark.org/
+		for more information.
+		
+		----------------------------------------------
+		
+Change-log:     2009/05/22 Original
+		2009/06/16 Updated to v1.2.0, rebuilt for TC 2.X
+		2009/09/18 Updated to v1.2.2, split tshark out
+		2009/11/19 Updated to v1.2.4
+		2010/04/05 Updated to v1.2.7
+		2010/06/08 Updated to v1.2.8
+Current:	2010/06/08 Updated to v1.2.8

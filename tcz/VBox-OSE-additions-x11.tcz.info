@@ -1,0 +1,34 @@
+Title:		VBox-OSE-additions-x11.tcz
+Description:	X11 Guest Additions for VirtualBox    (TESTING)
+Version:	3.0.12
+Author:		Sun Microsystems
+Original-site:	http://www.virtualbox.org
+Copying-policy:	GPL2
+Size:		1.8M
+Extension_by:	Kingdomcome
+Comments:	The Guest Additions add functionality to guest OSes with
+		seamless integration of display and mouse.
+		A compatible xorg.conf will be placed in /etc/X11.
+		Using the predescribed bootcode "kmap=" will cause xorg.conf
+		to have the desired keymap.
+		
+		Services will start during boot. Userspace utils can be
+		started from the menu OR automate  by adding the line
+		"VBoxClient-all" to ~/.xsession.
+		Xorg must be restarted for these work.
+		
+		Requires Xorg-7.4.tcz and
+		VBox-OSE-additions-modules-2.6.29.1-tinycore.tcz
+		
+		This extension is PPI compatible
+Change-log:	2009/08/29 First Version
+		2009/09/02 Reworded info
+			   Made xorg.conf writable
+			   Added code to post-install in attempt
+			   to set xkeymap
+			   Added workaround in VBoxRandR for
+			   tint2 bug in openbox
+		2009/09/08 Fixed bug in post-install script
+			   Reworded info
+Current:	2010/03/07 Bumped to 3.0.12
+			   Split x11 and shared folder parts

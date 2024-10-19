@@ -1,0 +1,18 @@
+Title:		xchat2.tcz
+Description:	IRC Client     (TESTING)
+Version:	2.8.6
+Author:		Peter Zelezny
+Original-site:	http://xchat.org
+Copying-policy:	GPLv2
+Size:		828K
+Extension_by:	JasonW/Kingdomcome
+Comments:	This extension requires openssl-0.9.8 gtk2 and deps
+		Compiled with Perl plugin support enabled
+		
+		This extension is PPI compatible
+Change-log:	2008/08/06 First Version
+		2008/12/11 Rebuilt for i486, size, and packed with
+		           cramfs
+		2010/01/04 Rebuilt against Perl 5.10.1
+		2010/03/10 Rebuilt against openssl-0.9.8m
+Current:	2010/04/04 Rebuilt against openssl-0.9.8(n)

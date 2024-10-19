@@ -1,0 +1,27 @@
+Title:		wine-gl.tcz
+Description:	wine-gl - Wine Is Not an Emulator (OpenGL, SSL, etc. Support)
+Version:	1.1.43
+Author:		Various
+Original-site:	http://www.winehq.org
+Copying-policy:	LGPL
+Size:		18.9M
+Extension_by:	Curaga, Robert Schumann
+Comments:	This extension has 3D, cups, sane, ssl support and requires Xorg. Steps:
+
+			1. winecfg, let download gecko engine (maybe takes some time)
+			2. In winecfg under Graphics uncheck 'Allow window manager to control windows'
+			3. wine myapp.exe
+					
+	   	--- 
+		This extension is PPI compatible.
+		This extension uses recursion for dependencies and requires tinycore >= 2.10.
+Change-log:	2008/12/31	Initial version 1.1.11
+		2010/03/03	Bumped to 1.1.39
+		2010/03/06	Added libasound, libltdl, cyrus-sasl and libexif as deps, recompile against mpg123.
+		2010/03/09	Bumped to 1.1.40, added dependencies
+		2010/03/21	Bumped to 1.1.41
+		2010/03/23	Changed deps for 2.10, moved stdole2
+		2010/04/09	Bumped to 1.1.42
+		2010/04/23	Bumped to 1.1.43
+		2010/04/26	Added libcapi20 support
+Current:	2010/04/26-1	Recompiled against openssl-0.9.8 w/patchlevel n

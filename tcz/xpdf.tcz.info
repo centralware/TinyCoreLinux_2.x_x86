@@ -1,0 +1,15 @@
+Title:          xpdf.tcz
+Description:    Xpdf PDF file viewer.
+Version:        3.02pl4
+Author:         Derek B Noonburg
+Original-site:  http://www.foolabs.com/xpdf/
+Copying-policy: GPL
+Size: 		1.7M
+Extension_by:   Jason W
+Comments:       This is the binary version of Xpdf available at
+		their website. The apps pdffonts, pdfimages, pdfinfo, pdftoppm,
+		pdftops, and pdftotext are now handled by the poppler package. 
+		The libxp package is required to operate this one.
+Change-log:     2008/11/01  First version 3.02pl2
+Current:   	2010/02/23  Updated to 3.02pl4
+

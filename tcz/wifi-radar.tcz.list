@@ -1,0 +1,9 @@
+usr/local/etc/wifi-radar/wifi-radar.conf
+usr/local/sbin/wifi-radar
+usr/local/share/applications/wifi-radar.desktop
+usr/local/share/man/man1/wifi-radar.1
+usr/local/share/man/man5/wifi-radar.conf.5
+usr/local/share/pixmaps/wifi-radar.png
+usr/local/tce.icons/wifi-radar
+usr/local/tce.icons/wifi-radar.png
+usr/local/tce.menu/wifi-radar

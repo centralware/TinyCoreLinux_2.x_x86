@@ -1,0 +1,17 @@
+Title:          webkit.tcz
+Description:    WebKit/GTK+ is the new GTK+ port of the WebKit.
+Version:        1.2.0
+Author:         Various
+Original-site:  http://webkitgtk.org/
+Copying-policy: LGPL/BSD-like
+Size: 		10.1M
+Extension_by:   Roberto A. Foglietta, Arslan S.
+Comments:       WebKit is a web content engine, derived from KHTML and KJS from KDE,
+		and used primarily in Apple's Safari browser.  It is made to be
+		embedded in other applications, such as mail readers, or web browsers.
+
+		This extension is PPI compatible.
+Change-log:     2009/05/04 First Version by Roberto A. Foglietta
+		2009/12/23 Updated to 1.15.4 (Arslan S.)
+		2010/04/12 Updated to 1.2.0 (Arslan S.)
+Current:   	2010/05/01 Rebuilt against icu4.4 (Arslan S.)

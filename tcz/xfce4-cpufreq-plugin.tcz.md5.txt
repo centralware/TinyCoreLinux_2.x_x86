@@ -1,0 +1,1 @@
+6af862d203e902dc3d56d2ea5d484c89  xfce4-cpufreq-plugin.tcz

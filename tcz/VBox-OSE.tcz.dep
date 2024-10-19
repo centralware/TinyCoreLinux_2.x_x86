@@ -1,0 +1,13 @@
+hal_support.tcz
+libcap.tcz
+libxslt.tcz
+libIDL.tcz
+SDL.tcz
+curl.tcz
+qt-4.5-xml.tcz
+python.tcz
+Xorg-7.4.tcz
+alsa.tcz
+hal.tcz
+procps.tcz
+VBox-OSE-modules-2.6.29.1-tinycore.tcz

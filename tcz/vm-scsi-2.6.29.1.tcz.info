@@ -1,0 +1,11 @@
+Title:		vm-scsi-2.6.29.1.tcz
+Description:	BusLogic and LSI Logic kernel modules
+Version:	2.6.29.1
+Author:		Linus Torvalds <torvalds@osdl.org>
+Original-site:	http://www.kernel.org/
+Copying-policy:	GPL
+Size:		112K
+Extension_by:	Daniel Barnes
+Comments:	Drivers for VMware SCSI devices
+Change-log:	
+Current:	2009/12/01 Initial release

@@ -1,0 +1,25 @@
+Title:          usb-utils.tcz
+Description:    usb-utils and usb.ids
+Version:        0.86
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 148KB
+Extension_by:   juanito
+Comments:       usb-utils and usb.ids device data
+                requires the libusb extension
+                ----------
+                $ sudo update-usbids.sh [to download latest usb device info]
+                ----------
+                This extension contains:
+                usbutils-0.86 - GPLv2 - http://freefr.dl.sourceforge.net/sourceforge/linux-usb/usbutils-0.86.tar.gz
+                ----------
+Change-log:     2008/09/12
+                Updated to libusb-1 and added libusb wrapper
+                2009/02/11
+                Re-compiled on tc_2.x
+                updated usb-utils 0.73 -> 0.84, libusb-compat 0.1.0 -> 0.1.2
+                2009/07/19
+                split out libusb into separate extension
+                updated 0.84 -> 0.86
+Current:        2009/07/19

@@ -1,0 +1,8 @@
+gtk-vnc.tcz
+libgnome-keyring.tcz
+libpanel-applet.tcz
+vte.tcz
+telepathy-glib.tcz
+shared-mime-info.tcz
+hicolor-icon-theme.tcz
+Xorg-7.4.tcz

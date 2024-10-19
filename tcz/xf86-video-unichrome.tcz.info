@@ -1,0 +1,13 @@
+Title:          xf86-video-unichrome.tcz
+Description:    Graphics driver for VIA Technologies Integrated graphics.
+Version:        Git commit from 2009-11-17 15:19:28
+Author:         Luc Verhaegen
+Original-site:  http://unichrome.sourceforge.net/
+Copying-policy: MIT/X11
+Size:		128K
+Extension_by:   wonderfulll
+Comments:       Unofficial drivers for VIA Technologies graphics cards.
+                For the full list of supported hardware please visit: http://unichrome.sourceforge.net
+                Note: this extension will overwrite your existing Xorg via, openchrome and unichrome drivers. 
+Change-log:     ---
+Current:        2010/03/20 First version

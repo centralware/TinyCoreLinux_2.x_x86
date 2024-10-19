@@ -1,0 +1,11 @@
+Title:          telepathy-farsight.tcz
+Description:    Glue library between telepathy and farsight2.
+Version:        0.0.13
+Author:         Various
+Original-site:  http://telepathy.freedesktop.org/wiki/
+Copying-policy: GNU Lesser GPL-2.1
+Size:           40K
+Extension_by:   Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:     ---
+Current:        2010/02/23 Original

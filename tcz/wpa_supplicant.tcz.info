@@ -1,0 +1,21 @@
+Title:          wpa_supplicant.tcz
+Description:    wpa_supplicant for tiny core (TESTING)
+Version:        0.6.9
+Author:         Jouni Malinen <j@w1.fi>
+Original-site:  http://hostap.epitest.fi/wpa_supplicant
+Copying-policy: GPLv2
+Size: 152K
+Extension_by:   dmoerner
+Comments:       wpa supplicant tools for tiny core
+                Requires the openssl-0.9.8h, wireless-2.6.29.1-tinycore, wireless_tools extensions..
+                ..and the driver for your wireless hardware
+                ----------
+                Example howto:
+                To use this package, you will need to create a configuration file containing the network's information.  This example uses /etc/wpa_supplicant.conf
+                $ sudo wpa_supplicant -Bdd -D wext -i wlan0 -c /etc/wpa_supplicant.conf 
+                $ sudo udhcpc -b -i wlan0
+Changelog:      2008/12/01 Initial packaging
+                2009/08/08 Fixed corrupted .tcz (^thehatsrule^)
+                (juanito) updated 0.5.11 -> 0.6.9
+                added start-up script to create /var/run/wpa_supplicant
+Current:        2009/12/26

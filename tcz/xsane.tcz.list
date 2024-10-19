@@ -1,0 +1,13 @@
+usr/local/bin/scanadf
+usr/local/bin/xcam
+usr/local/bin/xsane
+usr/local/bin/xscanimage
+usr/local/share/pixmaps/xsane.xpm
+usr/local/share/sane/sane-style.rc
+usr/local/share/sane/xsane/xsane-calibration.pnm
+usr/local/share/sane/xsane/xsane-eula.txt
+usr/local/share/sane/xsane/xsane-startimage.pnm
+usr/local/share/sane/xsane/xsane-style.rc
+usr/local/tce.icons/xsane
+usr/local/tce.icons/xsane.png
+usr/local/tce.menu/xsane

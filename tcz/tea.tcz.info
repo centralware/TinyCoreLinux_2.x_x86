@@ -1,0 +1,13 @@
+Title:          tea.tcz
+Description:    TEA Text Editor.(TESTING)
+Version:        26.1.0
+Author:         Peter Semiletov 
+Original-site:  http://tea-editor.sourceforge.net/
+Copying-policy: GPLv3
+Size:		280K
+Extension_by:   Arslan S.
+Comments:       Qt based text editor with many functions.
+
+		This extension is PPI compatible.
+Change-log:     ---
+Current:        2009/12/11 Original

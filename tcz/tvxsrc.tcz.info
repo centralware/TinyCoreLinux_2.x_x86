@@ -1,0 +1,16 @@
+Title:          tvxsrc.tcz
+Description:	tvxsrc contains the updated source code for tvxroot.
+Version:	20100610
+Author:		Ron Minnich
+Original-site:	http://bitbucket.org/rminnich/sysfromiso
+Copying-policy:	Lucent-1.02
+Size:		23M
+Extension_by:	John (EBo) David
+Comments:	
+Change-log:	2010/06/05 name change
+	2010/05/22 version bumb hg #16
+	2010/04/30 split out sources
+	2010/04/29 updated .info file
+	2010/04/28 first version (20100427)
+	2010/04/08 updated 2 429
+Current:	2010/06/10 added tag to repo and dropped mercurial requirement

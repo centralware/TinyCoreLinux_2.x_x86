@@ -1,0 +1,11 @@
+Title:          webkit-gtklauncher.tcz
+Description:    A simple WebKit/GTK+ browser.
+Version:        1.2.0
+Author:         Alp Toker
+Original-site:  http://webkitgtk.org/
+Copying-policy: LGPL/BSD-like
+Size: 		8K
+Extension_by:   Arslan S.
+Comments:       This extension is PPI compatible.
+Change-log:     2010/04/12 Original
+Current:   	2010/05/01 Rebuilt

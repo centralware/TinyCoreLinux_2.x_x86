@@ -1,0 +1,15 @@
+Title:		VBox-OSE-additions-modules-2.6.29.1-tinycore.tcz
+Description:	Guest Additions modules for 2.6.29.1-tinycore    (TESTING)
+Version:	3.0.12
+Author:		Sun Microsystems
+Original-site:	http://www.virtualbox.org
+Copying-policy:	GPL2
+Size:		52K
+Extension_by:	Kingdomcome
+Comments:	The Guest Additions add functionality to guest OSes with
+		seamless integration of display, mouse and file sharing.
+		
+		This extension is PPI compatible
+Change-log:	2009/09/12 First Version
+		2010/03/07 Bumped to 3.0.12
+Current:	2010/03/09 Fixed device perms

@@ -1,0 +1,4 @@
+/usr/local/bin/wpa_passphrase
+/usr/local/sbin/wpa_cli
+/usr/local/sbin/wpa_supplicant
+/usr/local/tce.installed/wpa_supplicant

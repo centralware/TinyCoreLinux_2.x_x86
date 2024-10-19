@@ -1,0 +1,14 @@
+Title:          vlc-doc.tcz
+Description:    VLC documentation files.
+Version:        1.0.6
+Author:         VideoLAN Team
+Original-site:  http://www.videolan.org
+Copying-policy: GPL-2
+Size:		36K
+Extension_by:   Arslan S.
+Comments:       This extension is PPI compatible.
+Change-log:     2009/11/05 First Version
+		2009/11/06 Updated to 1.0.3
+		2009/12/12 Updated to 1.0.4
+Current:  	2010/05/02 Updated to 1.0.6
+  

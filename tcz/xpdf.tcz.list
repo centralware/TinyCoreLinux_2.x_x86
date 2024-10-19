@@ -1,0 +1,16 @@
+usr/local/bin/xpdf
+usr/local/share/xpdf/docs/ANNOUNCE
+usr/local/share/xpdf/docs/CHANGES
+usr/local/share/xpdf/docs/COPYING
+usr/local/share/xpdf/docs/README
+usr/local/share/xpdf/docs/pdffonts.1
+usr/local/share/xpdf/docs/pdfimages.1
+usr/local/share/xpdf/docs/pdfinfo.1
+usr/local/share/xpdf/docs/pdftoppm.1
+usr/local/share/xpdf/docs/pdftops.1
+usr/local/share/xpdf/docs/pdftotext.1
+usr/local/share/xpdf/docs/xpdf.1
+usr/local/share/xpdf/docs/xpdfrc.5
+usr/local/share/xpdf/sample-xpdfrc
+usr/local/tce.installed/xpdf
+usr/local/tce.menu/xpdf

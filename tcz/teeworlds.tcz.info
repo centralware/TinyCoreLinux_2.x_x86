@@ -1,0 +1,21 @@
+Title:          teeworlds.tcz
+Description:    A free online multiplayer game.(TESTING)
+Version:        0.5.2
+Author:         Magnus Auvinen
+Original-site:  www.teeworlds.com
+Copying-policy: Free
+Size:		5.2M
+Extension_by:   Arslan S.
+Comments:       Teeworlds is a free online multiplayer game, available for all major operating
+		systems. Battle with up to 16 players in a variety of game modes, including 
+		Team Deathmatch and Capture The Flag.
+
+		You need OSS or ALSA for sound.
+
+		This extension depends on Xorg.
+
+		For a smooth play you need accelerated graphics by proprietary drivers.
+
+		This extension is PPI compatible.
+Change-log:     ---
+Current:        2009/11/30 Original

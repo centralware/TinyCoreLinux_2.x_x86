@@ -1,0 +1,15 @@
+Title:          usb-serial-2.6.29.1-tinycore.tcz
+Description:    Usb-to-serial and 3G for 2.6.29.1-tinycore
+Version:        2.6.29.1-tinycore
+Author:         Various
+Original-site:  http://kernel.org
+Copying-policy: GPL
+Size:		248.0K
+Extension_by:   Curaga
+Comments:       Support for usb-to-serial converters, usb dialup modems, 
+		and 3G cards not supported by the usb-serial or option 
+		modules (those two are in the base).
+
+		This extension is PPI compatible.
+Change-log:     
+Current:        2009/04/11 Original

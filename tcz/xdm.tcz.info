@@ -1,0 +1,25 @@
+Title:          xdm.tcz
+Description:    xdm
+Version:        1.1.18
+Author:		Various
+Original-site:  https://launchpad.net/ubuntu/+source/xdm
+Copying-policy: GNU GPL
+Size:		104k	
+Extension_by:   Roberto A. Foglietta
+Comments:	In the X Window System, an X display manager runs 
+		as a program, that allows the starting of a session 
+		on an X server from the same or another computer.
+		A display manager presents the user with a login 
+		screen which prompts for a username and password. 
+		A session starts when the user successfully enters 
+		a valid combination of username and password.
+
+		tc@box:~/tmp/tce$ tail -n1 /opt/bootlocal.sh 
+		grep -q xdm /proc/cmdline && sudo xdm
+
+		tc@box:~/tmp/tce$ head -n1 ~/.xsession
+		test -r ./profile &&. ./profile
+
+Change-log:     2009/06/07 Description changed
+		2009/06/05 First version
+Current:        2009/06/07 Description changed
