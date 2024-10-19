@@ -1,0 +1,144 @@
+#!/bin/sh
+#
+######################################################
+# Build script for TinyCore 2.x                      #
+#                                                    #
+# See .info for details                              #
+#                                                    #
+# July 30, 2009                                      #
+######################################################
+#
+# Define package names and tmp directory
+#
+SRCNAM=xfce4-cpufreq-plugin-0.0.1.tar.gz
+WRKDIR=xfce4-cpu-freq-plugin-0.0.1
+EXTNAM=xfce4-cpufreq-plugin
+TMPDIR=/tmp/xfce4-cpufreq-plugin
+#
+# Export variables needed for compilation
+#
+export CFLAGS="-march=i486 -mtune=i686 -Os -pipe"
+export CXXFLAGS="-march=i486 -mtune=i686 -Os -pipe -fno-exceptions -fno-rtti"
+export PKG_CONFIG_PATH=/usr/local/lib/pkgconfig:/usr/lib/pkgconfig
+#
+# Remove dirs and files left from previous creation
+#
+rm -r -f $WRKDIR
+rm -r -f $TMPDIR
+rm -r -f $TMPDIR-dev
+#
+# Crete temporary directory
+#
+mkdir -p $TMPDIR
+#
+# Unpack source in current directory
+#
+tar -xf $SRCNAM
+#
+# Configure it
+#
+cd $WRKDIR
+#
+./configure --prefix=/usr/local
+#
+# Compile
+#
+make
+#
+# Install in temp dir
+#
+make install DESTDIR=$TMPDIR
+#
+# Adjust directory access rigths
+#
+find $TMPDIR/ -type d | xargs chmod -v 755;
+#
+# Strip executables
+#
+find $TMPDIR | xargs file | grep ELF | cut -f 1 -d : | xargs strip --strip-unneeded
+#
+# Delete compilation work directory
+#
+cd ..
+rm -r -f $WRKDIR
+#
+# Create temp dev directory
+#
+mkdir -p $TMPDIR-dev/usr/local/lib
+mkdir -p $TMPDIR-dev/usr/local/share
+mkdir -p $TMPDIR-dev/usr/local/share/xfce4
+#
+# Move files to dev directory
+#
+mv $TMPDIR/usr/local/include $TMPDIR-dev/usr/local
+mv $TMPDIR/usr/local/lib/pkgconfig $TMPDIR-dev/usr/local/lib
+mv $TMPDIR/usr/local/lib/*.a $TMPDIR-dev/usr/local/lib
+mv $TMPDIR/usr/local/lib/*.la $TMPDIR-dev/usr/local/lib
+mv $TMPDIR/usr/local/lib/thunarx-1 $TMPDIR-dev/usr/local/lib
+mv $TMPDIR/usr/local/share/locale $TMPDIR-dev/usr/local/share
+mv $TMPDIR/usr/local/share/gtk-doc $TMPDIR-dev/usr/local/share
+mv $TMPDIR/usr/local/share/xfce4/doc $TMPDIR-dev/usr/local/share/xfce4
+mv $TMPDIR/usr/local/share/man $TMPDIR-dev/usr/local/share
+mv $TMPDIR/usr/local/share/doc $TMPDIR-dev/usr/local/share
+#
+# Create .tce extension in temp dir
+#
+cd  $TMPDIR
+find usr -not -type d > $EXTNAM.filelist
+tar czvf $EXTNAM.tce --numeric-owner -T $EXTNAM.filelist
+advdef -z4 $EXTNAM.tce
+#
+# Create md5 file
+#
+md5sum $EXTNAM.tce > $EXTNAM.tce.md5.txt
+#
+# Cleanup temp directory
+#
+rm -r -f usr  
+#
+# Create .tcz extension
+#
+mkdir $EXTNAM
+cd $EXTNAM
+tar zxvf ../$EXTNAM.tce
+cd ..
+mkfs.cramfs $EXTNAM $EXTNAM.tcz
+#
+# Create md5 file
+#
+md5sum $EXTNAM.tcz > $EXTNAM.tcz.md5.txt
+#
+# Cleanup directory
+#
+rm -r -f $EXTNAM
+#
+# Create dev .tce extension in temp dir
+#
+cd  $TMPDIR-dev
+find usr -not -type d > $EXTNAM-dev.filelist
+tar czvf $EXTNAM-dev.tce --numeric-owner -T $EXTNAM-dev.filelist
+advdef -z4 $EXTNAM-dev.tce
+#
+# Create md5 file
+#
+md5sum $EXTNAM-dev.tce > $EXTNAM-dev.tce.md5.txt
+#
+# Cleanup  dev temp directory
+#
+rm -r -f usr  
+#
+# Create .tcz extension
+#
+mkdir $EXTNAM-dev
+cd $EXTNAM-dev
+tar zxvf ../$EXTNAM-dev.tce
+cd ..
+mkfs.cramfs $EXTNAM-dev $EXTNAM-dev.tcz
+#
+# Create md5 file
+#
+md5sum $EXTNAM-dev.tcz > $EXTNAM-dev.tcz.md5.txt
+#
+# Cleanup directory
+#
+rm -r -f $EXTNAM-dev

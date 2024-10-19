@@ -1,0 +1,104 @@
+#!/bin/sh
+#
+######################################################
+# Build script for TinyCore 2.x                      #
+#                                                    #
+# See .info for details                              #
+#                                                    #
+# August 28, 2009                                    #
+######################################################
+#
+# Define package names and tmp directory
+#
+SRCNAM=vte-0.21.4.tar.bz2
+WRKDIR=vte-0.21.4
+EXTNAM=vtemodule
+TMPDIR=/tmp/vtemodule
+#
+# Export variables needed for compilation
+#
+export CFLAGS="-march=i486 -mtune=i686 -Os -pipe"
+export CXXFLAGS="-march=i486 -mtune=i686 -Os -pipe -fno-exceptions -fno-rtti"
+export PKG_CONFIG_PATH=/usr/local/lib/pkgconfig:/usr/lib/pkgconfig
+#
+# Remove dirs and files left from previous creation
+#
+rm -r -f $WRKDIR
+rm -r -f $TMPDIR
+#
+# Crete temporary directory
+#
+mkdir -p $TMPDIR
+#
+# Unpack source in current directory
+#
+tar -xf $SRCNAM
+#
+# Configure it
+#
+cd $WRKDIR
+#
+./configure --prefix=/usr/local
+#
+# Compile
+#
+make
+#
+# Install in temp dir
+#
+make install DESTDIR=$TMPDIR
+#
+# Remove unneded files
+#
+rm -r -f $TMPDIR/usr/local/bin
+rm -r -f $TMPDIR/usr/local/libexec
+rm -r -f $TMPDIR/usr/local/lib/vte
+rm -r -f $TMPDIR/usr/local/lib/libvte*
+rm -r -f $TMPDIR/usr/local/share/vte
+rm -r -f $TMPDIR/usr/local/lib/pkgconfig/vte.pc
+rm -r -f $TMPDIR/usr/local/share
+rm -r -f $TMPDIR/usr/local/include
+#
+# Adjust directory access rigths
+#
+find $TMPDIR/ -type d | xargs chmod -v 755;
+#
+# Strip executables
+#
+find $TMPDIR | xargs file | grep ELF | cut -f 1 -d : | xargs strip --strip-unneeded
+#
+# Delete compilation work directory
+#
+cd ..
+rm -r -f $WRKDIR
+#
+# Create .tce extension in temp dir
+#
+cd  $TMPDIR
+find usr -not -type d > $EXTNAM.filelist
+tar czvf $EXTNAM.tcel --numeric-owner -T $EXTNAM.filelist
+advdef -z4 $EXTNAM.tcel
+#
+# Create md5 file
+#
+md5sum $EXTNAM.tcel > $EXTNAM.tcel.md5.txt
+#
+# Cleanup temp directory
+#
+rm -r -f usr  
+#
+# Create .tcz extension
+#
+mkdir $EXTNAM
+cd $EXTNAM
+tar zxvf ../$EXTNAM.tcel
+cd ..
+mkfs.cramfs $EXTNAM $EXTNAM.tczl
+#
+# Create md5 file
+#
+md5sum $EXTNAM.tczl > $EXTNAM.tczl.md5.txt
+#
+# Cleanup directory
+#
+rm -r -f $EXTNAM
