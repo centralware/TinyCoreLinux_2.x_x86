@@ -1,0 +1,12 @@
+Title:          gtk-vnc-dev.tcz
+Description:    A VNC viewer widget for GTK+, development files.
+Version:        0.3.10
+Author:         Anthony Liguori, Daniel Berrange, John Wendell
+Original-site:  http://live.gnome.org/gtk-vnc
+Copying-policy: LGPL
+Size:		80K
+Extension_by:   Arslan S.
+Comments:       This extension has recursive deps.
+		This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/03/31 Original

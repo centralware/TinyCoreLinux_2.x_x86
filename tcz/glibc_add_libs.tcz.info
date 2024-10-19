@@ -1,0 +1,18 @@
+Title:          glibc_add_libs.tcz
+Description:    glibc additional libs
+Version:        2.9
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 84KB
+Extension_by:   juanito
+Comments:       glibc libs not included in tinycore_2.x base
+                ----------
+                This extension contains:
+                glibc-2.9.tar.bz2 - GPLv2 - http://ftp.gnu.org/gnu/glibc/glibc-2.9.tar.bz2 [some libs]
+                ----------
+Change-log:     2009/04/16
+                Added symlinks in /usr/lib
+                2009/11/10
+                recompiled to support i486/i586
+Current:        2010/02/28

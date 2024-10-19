@@ -1,0 +1,18 @@
+Title:          gupnp-av.tcz
+Description:    gupnp av helper
+Version:        0.5.2
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 88KB
+Extension_by:   juanito
+Comments:       a collection of helpers for building AV (audio/video) applications using GUPnP
+                ----------
+                requires the libsoup, libxml2, gnutls, libgcrypt, libgpg-error, glib2,
+                gssdp and gupnp extensions
+                ----------
+                This extension contains:
+                gupnp-av-0.5.2 - GPLv2 - http://www.gupnp.org/sources/gupnp-av/gupnp-av-0.5.2.tar.gz
+                ----------
+Change-log:     first version
+Current:        2009/12/28

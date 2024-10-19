@@ -1,0 +1,14 @@
+usr/local/include/gobject-introspection-1.0/girepository.h
+usr/local/include/gobject-introspection-1.0/girffi.h
+usr/local/lib/gobject-introspection/giscanner/_giscanner.a
+usr/local/lib/gobject-introspection/giscanner/_giscanner.la
+usr/local/lib/libgirepository-1.0.a
+usr/local/lib/libgirepository-1.0.la
+usr/local/lib/libgirepository-everything-1.0.a
+usr/local/lib/libgirepository-everything-1.0.la
+usr/local/lib/libgirepository-gimarshallingtests-1.0.a
+usr/local/lib/libgirepository-gimarshallingtests-1.0.la
+usr/local/lib/pkgconfig/gobject-introspection-1.0.pc
+usr/local/lib/pkgconfig/gobject-introspection-no-export-1.0.pc
+usr/local/share/aclocal/introspection.m4
+usr/local/share/gobject-introspection-1.0/Makefile.introspection

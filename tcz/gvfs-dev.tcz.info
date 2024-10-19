@@ -1,0 +1,11 @@
+Title:          gvfs-dev.tcz
+Description:    Userspace virtual filesystem.
+Version:        1.4.3
+Author:         Various
+Original-site:  http://ftp.gnome.org/pub/GNOME/sources/gvfs/
+Copying-policy: GNU Library GPL-2
+Size:           8K
+Extension_by:   Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:     ---
+Current:        2010/03/06 Original

@@ -1,0 +1,17 @@
+usr/local/bin/gnuplot
+usr/local/lib/X11/app-defaults/Gnuplot
+usr/local/libexec/gnuplot/4.2/gnuplot_x11
+usr/local/share/doc/gnuplot/Copyright
+usr/local/share/gnuplot/4.2/PostScript/8859-1.ps
+usr/local/share/gnuplot/4.2/PostScript/8859-15.ps
+usr/local/share/gnuplot/4.2/PostScript/8859-2.ps
+usr/local/share/gnuplot/4.2/PostScript/cp1250.ps
+usr/local/share/gnuplot/4.2/PostScript/cp437.ps
+usr/local/share/gnuplot/4.2/PostScript/cp850.ps
+usr/local/share/gnuplot/4.2/PostScript/cp852.ps
+usr/local/share/gnuplot/4.2/PostScript/koi8r.ps
+usr/local/share/gnuplot/4.2/PostScript/koi8u.ps
+usr/local/share/gnuplot/4.2/PostScript/prologue.ps
+usr/local/share/gnuplot/4.2/gnuplot.gih
+usr/local/share/info/gnuplot.info
+usr/local/share/man/man1/gnuplot.1

@@ -1,0 +1,21 @@
+Title:          gst-plugins-good-locale.tcz
+Description:    GStreamer Good Plug-ins locale files
+Version:        0.10.21
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size:		108K
+Extension_by:   Juanito, Arslan S.
+Comments:       more gstreamer plugins to use with gstreamer/gst-plugins-base
+                ----------
+                requires the glib2, libxml2, gstreamer, libasound, liboil,
+                ogg-vorbis, cairo, pango, pixman, fontconfig, expat2, libtheora, 
+                Xlibs_support, libflac, taglib, ORBit2 and GConf extensions
+                ----------
+                this extension contains:
+                gst-plugins-good-0.10.21 - GPLv2.1 - http://gstreamer.freedesktop.org/src/gst-plugins-good/gst-plugins-good-0.10.21.tar.bz2
+                ----------
+Change-log:     2009/11/08 first version
+		2010/1/08 Updated to 0.10.17 (Arslan S.)
+			-added gconfelements plugin
+Current:        2010/03/16 Updated to 0.10.21 (Arslan S.)

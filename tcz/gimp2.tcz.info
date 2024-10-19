@@ -1,0 +1,23 @@
+Title:          gimp2.tcz
+Description:    gnu image manipulation program
+Version:        2.6.7
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 6.1MB
+Extension_by:   juanito
+Comments:       gimp...
+                ----------
+                requires the glib2, gtk2, atk, cairo, pango, pixman, expat2,
+                fontconfig, graphics-libs-1, libxml2, ttf-bitstream-vera,
+                babl and gegl extensions.
+                can also be used with the SDL, openexr, libopenraw, libavcodec,
+                libavformat, librsvg, libaa, libwmf, libexif, libcroco, libgsf,
+                poppler and Xlibs_support extensions.
+                ----------
+                This extension contains:
+                gimp-2.6.7 - GPLv2 - ftp://ftp.gimp.org/pub/gimp/v2.6/gimp-2.6.7.tar.bz
+                ----------
+Change-log:     2008/12/30
+                updated 2.6.3 -> 2.6.7 and recompiled against latest babl/gegl
+Current:        2009/09/28

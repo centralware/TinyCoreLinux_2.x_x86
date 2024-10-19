@@ -1,0 +1,5 @@
+etc/udev/gpsd.rules
+etc/udev/rules.d/60_gpsd.rules
+lib/udev/gpsd.hotplug
+lib/udev/gpsd.hotplug.wrapper
+usr/local/share/doc/gpsd-hotplug/COPYING

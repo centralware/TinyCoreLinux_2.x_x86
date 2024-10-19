@@ -1,0 +1,16 @@
+Title:          glibc_gconv.tcz
+Description:    glibc gconv files
+Version:        2.9
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 3.0MB
+Extension_by:   juanito
+Comments:       glibc gconv files not included in tinycore_2.x
+                ----------
+                This extension contains:
+                glibc-2.9.tar.bz2 - GPLv2 - http://ftp.gnu.org/gnu/glibc/glibc-2.9.tar.bz2
+                ----------
+Change-log:     2009/04/16
+                recompiled to support i486/i586
+Current:        2010/02/28

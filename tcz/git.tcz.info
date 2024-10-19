@@ -1,0 +1,12 @@
+Title: git.tcz
+Description: Fast Version Control System (TESTING)
+Version: 1.7.1
+Author: Zab
+Original-site: http://www.kernel.org/pub/software/scm/git/docs
+Copying-policy: GPL v2
+Size: 3.5M
+Extension_by: Zab
+Comments: ---
+            
+Change-log: 2010/06/21 Depends on new "tk" extension
+Current: 2010/06/16 First Version

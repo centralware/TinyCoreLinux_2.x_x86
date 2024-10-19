@@ -1,0 +1,24 @@
+Title:          gst-plugins-ugly-locale.tcz
+Description:    GStreamer Ugly Plug-ins locale files
+Version:        0.10.14
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size:		28K
+Extension_by:   Juanito, Arslan
+Comments:       more gstreamer plugins
+                ----------
+                requires the glib2, libxml2, gstreamer, libasound, liboil,
+                ogg-vorbis, cairo, pango, pixman, fontconfig, expat2, libtheora, 
+                Xlibs_support, libmad, libid3tag, libcdio, libmpeg2, liba52 and libdvdread extensions
+                ----------
+                this extension contains:
+                gst-plugins-ugly-0.10.14 - GPLv2.1 - http://gstreamer.freedesktop.org/src/gst-plugins-ugly/gst-plugins-ugly-0.10.14.tar.bz2
+                ----------
+Change-log:     2009/11/08 First Version
+	   	2010/01/10 Rebuild with more libs (Arslan S.)
+			-Added AC3 audio codec (liba52)
+			-Added cd,dvd input plugins
+			-Added mpeg2 decoder
+		2010/01/18 Rebuild with libdvdread (Arslan S.)
+Current:   	2010/03/16 Updated to 0.10.14 (Arslan S.)

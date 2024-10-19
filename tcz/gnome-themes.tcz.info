@@ -1,0 +1,13 @@
+Title:          gnome-themes.tcz
+Description:    A set of desktop themes for GNOME.
+Version:        2.28.1
+Author:         GNOME Maintainers & Authors
+Original-site:  http://www.gnome.org
+Copying-policy: LGPL
+Size:		1.7M
+Extension_by:   Arslan S.
+Comments:       GNOME desktop themes not included in gnome-desktop-base
+
+		This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/04/04 Original

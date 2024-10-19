@@ -1,0 +1,12 @@
+Title:          gtksourceview-dev.tcz
+Description:    A text widget that extends gtk+ 2.x widget GtkTextView, development files.
+Version:        2.8.1
+Author:         Paolo Maggi, Paolo Borelli, Yevgen Muntyan
+Original-site:  http://projects.gnome.org/gtksourceview/
+Copying-policy: GPL/LGPL
+Size:		152K
+Extension_by:   Arslan S.
+Comments:       This extension has recursive deps.
+		This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/04/03 Original

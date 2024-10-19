@@ -1,0 +1,14 @@
+Title:          geany.tcz
+Description:    Geany text editor/IDE.
+Version:        0.16
+Author:         Enrico Troeger
+Original-site:  http://geany.uvena.de/
+Copying-policy: GPL
+Size: 815K
+Extension_by:   Jason W
+Comments:       This extension requires gtk+-2.tcel and it's
+		dependencies.
+Change-log:     ----
+		2009/03/23 First version
+Current:	2010/03/21 Recursive deps
+

@@ -1,0 +1,9 @@
+usr/local/bin/gs
+usr/local/etc/cups/pdftoraster.convs
+usr/local/etc/cups/pstoraster.convs
+usr/local/lib/cups/filter/pdftoraster
+usr/local/lib/cups/filter/pstopxl
+usr/local/lib/cups/filter/pstoraster
+usr/local/share/cups/model/pxlcolor.ppd
+usr/local/share/cups/model/pxlmono.ppd
+usr/local/tce.installed/gs-8.70

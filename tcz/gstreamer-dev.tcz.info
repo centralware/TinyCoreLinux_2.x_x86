@@ -1,0 +1,14 @@
+Title:		gstreamer-dev.tcz
+Description:	a library for constructing graphs of media-handling components dev files
+Version:		0.10.28
+Author:		various
+Original-site:	http://gstreamer.freedesktop.org/
+Copying-policy: LGPL
+Size:		2.0M
+Extension_by:	Roberto A. Foglietta,juanito, jls_legalize (unsenepopiu at tin dot it)
+Comments:	dev files
+				
+			This extension is PPI compatible
+Change-log:     2009/05/04 [juanito] updated 0.10.22 -> 0.10.25 & renamed tczl
+			2009/11/08
+Current:		2010/03/10 Updated 2 0.10.28

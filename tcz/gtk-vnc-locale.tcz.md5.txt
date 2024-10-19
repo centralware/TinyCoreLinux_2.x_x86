@@ -1,0 +1,1 @@
+99ad1a49905b93d589489c61ae36f8f9  gtk-vnc-locale.tcz

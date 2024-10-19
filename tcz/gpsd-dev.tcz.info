@@ -1,0 +1,28 @@
+Title:          gpsd-dev.tcz
+Description:    header and development files for programs using gpsd (TESTING)
+Version:        2.39
+Authors:        Remco Treffkorn <remco@rvt.com>
+                Derrick J. Brashear <shadow@dementia.org>
+                Russ Nelson <nelson@crynwyr.com>
+                Eric S. Raymond <esr@thyrsus.com>
+                Gary E. Miller <gem@rellim.com> 
+                Jeff Francis <jeff@gritch.org>
+                Amaury Jacquot <sxpert@esitcom.org>
+                Chris Kuethe <chris.kuethe@gmail.com>
+                Ville Nuorvala <vnuorval@tcs.hut.fi>
+Original-site:  http://gpsd.berlios.de/
+Copying-policy: BSD
+Size:           148K
+Extension_by:   Arslan S., T. Buctoo
+Comments:       PPI compatible extension, compiled for TC2.x
+				Recursive dep file, equivalent to flat list:
+				expat2.tcz
+				dbus.tcz
+				glib2.tcz
+				dbus-glib.tcz
+				gpsd.tcz
+Change-log:     --------
+                2010/03/14 First version by Arslan S.
+		2010/03/29 Added relevant man pages by T. Buctoo
+Current:        2010/07/10 Moved libgps.so from gpsd-dev to gpsd (mounted extension causes broken symlinks)
+			   Fixed init.d script now returns exit codes properly when status requested by Arslan S.

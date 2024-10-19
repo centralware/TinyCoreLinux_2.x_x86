@@ -1,0 +1,13 @@
+Title:		gupnp-igd.tcz
+Description:	a library to handle UPnP IGD port mapping for GUPnP
+Version:		0.1.6
+Author:		OpenedHand production, Zeeshan Ali
+Original-site:	http://gupnp.org/
+Copying-policy:LGPL-2
+Size:		40K
+Extension_by:	jls_legalize (unsenepopiu at tin dot it)
+Comments:	compiled with python bindings disabled
+			(--disable-python)
+			This extension is PPI compatible
+Change-log:	----------------------
+Current:		2010/03/21 First version (0.1.6)

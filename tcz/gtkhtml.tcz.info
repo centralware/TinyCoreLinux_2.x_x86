@@ -1,0 +1,12 @@
+Title:          gtkhtml.tcz
+Description:    A lightweight HTML rendering/printing/editing engine.
+Version:        3.28.2
+Author:         GNOME Authors
+Original-site:  http://www.gnome.org/
+Copying-policy: GPL/LGPL
+Size:		520K
+Extension_by:   Arslan S.
+Comments:       This extension has recursive deps.
+		This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/03/28 Original

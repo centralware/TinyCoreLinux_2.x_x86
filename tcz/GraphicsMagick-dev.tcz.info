@@ -1,0 +1,22 @@
+Title:          GraphicsMagick-dev.tcz
+Description:    Suite to create, edit and compose bitmap images
+Version:        1.3.8
+Author:         Various
+Original-site:  http://www.graphicsmagick.org
+Copying-policy: GPL
+Size:           143k
+Extension_by:   bmarkus
+Comments:       Dev files
+                ----
+                An ImageMagick alternative with nearly the same 
+                functionality but smaller and faster
+                ----
+                Compiled for TC2.x
+                ----
+                PPI compatible
+Change-log:     2009/10/01 First version
+Current:        2010/02/04 Updated to 1.3.8
+
+
+
+

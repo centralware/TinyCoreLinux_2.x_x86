@@ -1,0 +1,15 @@
+Title:          gnutls-dev.tcz
+Description:    TLS/SSL Protocol Library
+Version:        2.8.4
+Author:         Various
+Original-site:  http://www.gnu.org/software/gnutls/
+Copying-policy: GPL v3
+Size:           422K
+Extension_by:   bmarkus
+Comments:       Dev files
+                ----
+                Compiled for TC2.x
+                ----
+                PPI compatible
+Change-log:     ----
+Current:        2009/09/20 First version

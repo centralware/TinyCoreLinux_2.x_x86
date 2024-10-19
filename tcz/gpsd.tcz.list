@@ -1,0 +1,6 @@
+usr/local/etc/gpsd.rc
+usr/local/etc/init.d/gpsd
+usr/local/lib/libgps.so
+usr/local/lib/libgps.so.18
+usr/local/lib/libgps.so.18.0.0
+usr/local/sbin/gpsd

@@ -1,0 +1,19 @@
+Title:          gtkmm.tcz
+Description:    gtkmm
+Version:        2.18.2
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 2.8MB
+Extension_by:   juanito
+Comments:       gtkmm is the C++ interface for gtk2
+                ----------
+                requires the libsigc++, atk, glib2, glibmm, cairo, cairomm, expat2, fontconfig,
+                pango, pangomm, pixman, Xlibs_support, libxml2, graphics-libs-1, ttf-bitstream-vera
+                and gtk2 extensions
+                ----------
+                This extension contains:
+                gtkmm-2.18.2 - GPLv2.1 - http://ftp.acc.umu.se/pub/gnome/sources/gtkmm/2.18/gtkmm-2.18.2.tar.bz2
+Change-log:     2009/05/19
+                updated 2.14.3 -> 2.18.2
+Current:        2010/01/07

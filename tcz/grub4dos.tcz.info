@@ -1,0 +1,17 @@
+Title:		grub4dos.tcz
+Description:	GRUB bootloader for use with the Microsoft Windows bootmanager
+Version:	0.4.4-2009-06-20
+Author:		Kevin Lawton & the Bochs team
+Original-site:	https://gna.org/projects/grub4dos/
+Copying-policy:	GPL
+Size:		144.0K
+Extension_by:	SvOlli
+Comments:	This package includes anything you need to install Tiny Core
+		Linux inside a Windows NTFS partition without repartitioning.
+		All DOS stuff has been removed.
+		A script for integration of ntfs-3g driver into initrd is
+		available in the Programming and Scripting section of the 
+		forum.
+		----
+Change-log:	----
+Current: 	2010/05/30 initial version

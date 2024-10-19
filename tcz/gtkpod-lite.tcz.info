@@ -1,0 +1,33 @@
+Title:          gtkpod-lite.tcz (TESTING v0.99.14)
+Description:    gtkpod is an iPod interface & library manager for Linux 
+Version:        0.99.14
+Author:         Schuler, Donohoe, Ulrich, et al
+Original-site:  http://www.gtkpod.org/ 
+Copying-policy: GPL2 
+Size:		1.1M
+Extension_by:   juanito, dentonlt
+Comments:       This is a minimal-build version of gtkpod. This build does -not-
+		include support for ogg, flac, m4a/acc, or gnome-vfs. Locale data
+		is also removed. The regular "gtkpod" extension is a feature-full 
+		gtkpod build, but requires 5-10mb in dependent libraries.
+		
+		The gtkpod-lite and gtkpod extensions are not compatible. Not a
+		good idea to install both.
+
+		Gtkpod is a GTK interface for manipulating your iPod contents.
+                Mount your iPod at /mnt/ipod, or change the iPod mount point in
+                gtkpod.
+              
+              	Classic and Nano iPods will need a change to the iPod's SysInfo
+              	file - visit http://www.gtkpod.org/libgpod/ and follow the link
+              	to README.SysInfo.
+              	
+                Requires:
+                gtk2, libglade, libarte, libgnomecanvas, libgpod, libid3tag
+
+                ----------
+Change-log:     2008/09/11 - original by Juanito
+                Added icon and updated menu item to jwm format
+Current:        2009/12/26 - dentonlt bump to 0.99.14, split libgpod library
+		2010/03/23 - dentonlt strip ogg/flac/m4a/aac/gnome-vfs support
+		2010/03/30 - dentonlt fixed photo & disc art support

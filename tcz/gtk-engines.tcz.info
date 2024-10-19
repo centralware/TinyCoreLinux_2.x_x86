@@ -1,0 +1,24 @@
+Title:          gtk-engines.tcz
+Description:    GTK2 theme engines and themes
+Version:        2.17.2
+Author:         Various
+Original-site:  http://ftp.gnome.org/pub/gnome/sources/gtk-engines
+Copying-policy: GPL,LGPL
+Size:		332K
+Extension_by:   Curaga
+Comments:       The themes/engines are licensed as:
+-
+		ClearLooks - GPL
+		Crux - GPL
+		Glide - LGPL
+		HC - LGPL
+		Industrial - GPL
+		Mist - GPL
+		Redmond - LGPL
+		ThinIce - GPL
+-
+		This extension also includes Murrine 0.53.1 (GPL)
+		http://www.cimitan.com/murrine/project/murrine
+Change-log:     2009/01/18 Original
+		2010/01/24 Added default .gtkrc-2.0, stripped some more
+Current:        2010/01/25 Edited startup script

@@ -1,0 +1,18 @@
+Title:          gnome-doc-utils.tcz
+Description:    gnome-doc-utils
+Version:        0.18.0
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 252KB
+Extension_by:   juanito
+Comments:       a collection of documentation utilities for the gnome project
+                ----------
+                requires the docbook_xml_dtd, scrollkeeper, libxml2, 
+                python and python_libxml2 extensions
+                ----------
+                This extension contains:
+                gnome-doc-utils-0.18.0 - GPLv2, LGPLv2.1 - http://ftp.gnome.org/pub/gnome/sources/gnome-doc-utils/0.18/gnome-doc-utils-0.18.0.tar.bz2
+                ----------
+Change-log:     first version
+Current:        2009/11/06

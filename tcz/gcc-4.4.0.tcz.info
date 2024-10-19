@@ -1,0 +1,26 @@
+Title:          gcc-4.4.0.tcz
+Description:    gnu compiler collection
+Version:        4.4.0
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 11.6MB
+Extension_by:   juanito
+Comments:       the gnu compiler collection, including the C and C++ compilers
+                built using the binutils-2.19.1 and base-devs extensions
+                requires the libgmp, libmpfr, ppl and cloog extensions
+                Might need the following extensions:
+                bison, diffutils, file, findutils, flex, gawk, gperf,
+                grep, help2man, m4, make, patch, pkg-config, sed
+                ***note***
+                tinycore-2.x was not built with this version of gcc..
+                ..nor with binutils-2.19.1 - care should be taken when..
+                ..compiling for tinycore-2.x with this.
+                ***note***
+                ----------
+                This extension contains:
+                gcc-4.4.0 - GPLv2 - http://ftp.gnu.org/gnu/gcc/gcc-4.4.0/gcc-4.4.0.tar.bz2
+                http://patches.cross-lfs.org/dev/gcc-4.4.0-branch_update-6.patch
+                ----------
+Change-log:     First version
+Current:        2009/07/19

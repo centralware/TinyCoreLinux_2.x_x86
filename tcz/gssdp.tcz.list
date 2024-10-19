@@ -1,0 +1,13 @@
+/usr/local/include/gssdp-1.0/libgssdp/gssdp.h
+/usr/local/include/gssdp-1.0/libgssdp/gssdp-resource-group.h
+/usr/local/include/gssdp-1.0/libgssdp/gssdp-resource-browser.h
+/usr/local/include/gssdp-1.0/libgssdp/gssdp-error.h
+/usr/local/include/gssdp-1.0/libgssdp/gssdp-client.h
+/usr/local/share/gssdp/gssdp-device-sniffer.ui
+/usr/local/bin/gssdp-device-sniffer
+/usr/local/lib/libgssdp-1.0.a
+/usr/local/lib/libgssdp-1.0.la
+/usr/local/lib/libgssdp-1.0.so
+/usr/local/lib/libgssdp-1.0.so.2
+/usr/local/lib/libgssdp-1.0.so.2.0.0
+/usr/local/lib/pkgconfig/gssdp-1.0.pc

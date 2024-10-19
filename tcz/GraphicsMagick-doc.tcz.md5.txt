@@ -1,0 +1,1 @@
+700d49fbe719ed6215e88cc32fabee4b  GraphicsMagick-doc.tcz

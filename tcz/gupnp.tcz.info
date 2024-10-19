@@ -1,0 +1,19 @@
+Title:          gupnp.tcz
+Description:    upnp framework
+Version:        0.13.2
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 56KB
+Extension_by:   juanito
+Comments:       an object-oriented open source framework for creating UPnP devices
+                and control points
+                ----------
+                requires the libsoup, libxml2, gnutls, libgcrypt, libgpg-error, glib2
+                and gssdp extensions
+                ----------
+                This extension contains:
+                gupnp-0.13.2 - GPLv2 - http://www.gupnp.org/sources/gupnp/gupnp-0.13.2.tar.gz
+                ----------
+Change-log:     first version
+Current:        2009/12/28

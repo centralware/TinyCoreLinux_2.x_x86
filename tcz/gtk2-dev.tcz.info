@@ -1,0 +1,16 @@
+Title:          gtk2-dev.tcz
+Description:    The Gimp Tool Kit dev files. 
+Version:        2.20.1
+Author:         Gnome Foundation
+Original-site:  www.gtk.org
+Copying-policy: GNU Lesser GPL
+Size: 		630kb
+Extension_by:   Jason W
+Comments:       PPI compatible.
+Change-log:     -------
+       		2009/02/20 First version as standalone.
+		2009/10/21 Upgraded to 2.18.3
+ 		2009/12/06 Updated to 2.18.5
+		2010/02/21 Updated to 2.18.7.
+Current:	2010/05/26 Updated to 2.20.1
+

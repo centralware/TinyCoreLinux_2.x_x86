@@ -1,0 +1,14 @@
+Title:          geany-locale.tcz
+Description:    Geany text editor/IDE.
+Version:        0.16
+Author:         Enrico Troeger
+Original-site:  http://geany.uvena.de/
+Copying-policy: GPL
+Size: 970K
+Extension_by:   Jason W
+Comments:       This extension contains locale and dev files and
+		requires gtk+-2.tcel and it's
+		dependencies.
+Change-log:     ----
+Current:	2009/03/23 First version
+

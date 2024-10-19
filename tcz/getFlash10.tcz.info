@@ -1,0 +1,39 @@
+Title:          getFlash10.tcz
+Description:    Download - Setup - Create flash10.tce script.
+Version:        0.1
+Author:         roberts
+Original-site:  http://www.tinycorelinux.com
+Copying-policy: GPL
+Size: 4.0K
+Extension_by:   roberts
+Comments:       Downloads from Adobe.
+                Extracts linux libflashplayer.so
+                Setup libflashplayer for either Minefield, Firefox, Opera, 
+		Seamonkey or all four. Also includes compiled libflashsupport.so 
+		for OSS sound. libflashsupport is licensed under Creative 
+		Commons Attribution 3.0.
+                Finally packages a flash10.tcz to add to your tcz collection.
+.
+                NOTE: You must have already downloaded the browser and OSS.
+                You must have started the browser at least once!
+                You must have OSS started with the sound on menu option.
+                Then select getFlash10 from the Apps menu.
+.
+                If you already have your tce directory setup, then a flash10.tcz
+                will be installed there, otherwise it is in /tmp/tce/.  flash10.tcz
+		will be loaded upon completion of the getflash script.
+.
+                CAUTION: Flash10 requires gtk2 which is quite large.
+		
+		This extension is PPI compatible.
+              
+Change-log:     
+                2008/12/11 Original
+                2009/04/04 Now a smaller download from Adobe Site.
+	        2009/04/11 Added Seamonkey and Firefox support.
+		2009/04/16 Updated to Flash 10
+        	2009/05/06 Converted to tcz (Jason W)
+        	2009/05/18 Fix for 2.0 - Added structure to menu item
+		2009/07/31 Change in archive at Macromedia
+Current:	2009/10/16 Changed to create tcz extension and to 
+			   make PPI compatible. (Jason W)

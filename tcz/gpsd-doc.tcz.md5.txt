@@ -1,0 +1,1 @@
+2f97d2b216305ffcbeb58d44b31754b4  gpsd-doc.tcz

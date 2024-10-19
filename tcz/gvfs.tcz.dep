@@ -1,0 +1,10 @@
+GConf.tcz
+hal.tcz
+libarchive.tcz
+libcdio.tcz
+sqlite3.tcz
+libtasn1.tcz
+libgnome-keyring.tcz
+libsoup.tcz
+libavahi.tcz
+gudev-lib.tcz

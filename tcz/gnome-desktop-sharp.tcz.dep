@@ -1,0 +1,10 @@
+mono.tcz
+gtk-sharp.tcz
+gnome-sharp.tcz
+libgnome-desktop.tcz
+libpanel-applet.tcz
+gtksourceview.tcz
+gtkhtml.tcz
+libwnck.tcz
+vte.tcz
+librsvg.tcz

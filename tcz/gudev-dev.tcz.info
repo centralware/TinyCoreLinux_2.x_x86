@@ -1,0 +1,11 @@
+Title:          gudev-dev.tcz
+Description:    gudev development files.
+Version:        151
+Author:         Various
+Original-site:  http://www.kernel.org/pub/linux/utils/kernel/hotplug/
+Copying-policy: GPL-2
+Size:           40K
+Extension_by:   Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:     ---
+Current:        2010/02/15 Original

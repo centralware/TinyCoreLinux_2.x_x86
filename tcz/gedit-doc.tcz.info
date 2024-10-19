@@ -1,0 +1,12 @@
+Title:          gedit-doc.tcz
+Description:    gedit is a text editor for the GNOME desktop, help documents.
+Version:        2.28.2
+Author:         Paolo Maggi, Paolo Borelli, Steve Frecinaux, Jesse van den Kieboom
+Original-site:  http://projects.gnome.org/gedit/
+Copying-policy: GPL-2
+Size:		1.2M
+Extension_by:   Arslan S.
+Comments:       This extension has recursive deps.
+		This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/04/04 Original

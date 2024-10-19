@@ -1,0 +1,21 @@
+Title:          gtkpod-locale.tcz (TESTING v0.99.14)
+Description:    gtkpod is an iPod interface & library manager for Linux 
+Version:        0.99.14
+Author:         Schuler, Donohoe, Ulrich, et al
+Original-site:  http://www.gtkpod.org/ 
+Copying-policy: GPL2 
+Size:		436K
+Extension_by:   juanito, dentonlt
+Comments:       A gtk2 application for manipulating the contents of your iPod
+                Mount your iPod at /mnt/ipod, or change the iPod mount point in
+                gtkpod.
+              
+       		These are locale/translations files only. The binaries are in the
+		main gtkpod (or gtkpod-lite) extension.        
+	 
+                ----------
+Change-log:     2008/09/11 - original by Juanito
+                Added icon and updated menu item to jwm format
+Current:        2009/12/26 - dentonlt bump to 0.99.14, split libgpod library
+		2010/03/22 - dentonlt add mp4v2 library support (m4a/aac support)
+		2010/03/30 - dentonlt fixed photo & disc art support

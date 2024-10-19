@@ -1,0 +1,12 @@
+Title:          gnome-games-locale.tcz
+Description:    A collection of sixteen small "five-minute" games locale.
+Version:        2.28.2
+Author:         Various
+Original-site:  http://live.gnome.org/GnomeGames/
+Copying-policy: GPL
+Size:		4.0M
+Extension_by:   Arslan S.
+Comments:       This extension uses recursive deps.
+		This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/03/22 Original

@@ -1,0 +1,1 @@
+fbd7fd80839fd11290fc1216d3d6633a  glib2-locale.tcz

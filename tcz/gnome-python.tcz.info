@@ -1,0 +1,19 @@
+Title:          gnome-python.tcz
+Description:    python gnome bindings
+Version:        2.28.0
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 		300KB
+Extension_by:   juanito, Arslan S.
+Comments:       python bindings for gnome
+                ----------
+                requires the glib2, GConf-2.18.0.1.devs, ORBit2-2.14.17_devs,
+                python, openssl-0.9.8h, sqlite3, tcl_tk, libbonobo-2.24.1_devs, libgnome,
+                expat2, dbus, dbus-glib, gnome-vfs_2.24.1_devs and expat2 extensions
+                ----------
+                this extension contains:
+                gnome-python-2.28.0 - GPLv2 - http://ftp.acc.umu.se/pub/GNOME/sources/gnome-python/2.28/gnome-python-2.28.0.tar.bz2
+                ----------
+Change-log:     2009/11/08 first version by juanito
+Current:   	2010/03/12 Rebuilt with updated gnome libraries (Arslan S.)

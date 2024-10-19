@@ -1,0 +1,21 @@
+Title:          gst-plugins-base.tcz
+Description:    GStreamer Base Plug-ins
+Version:        0.10.28
+Author:         various
+Original-site:  http://www.gstreamer.net
+Copying-policy: LGPL
+Size:		1.2M
+Extension_by:   Roberto A. Foglietta, Juanito, Arslan S.
+Comments:       Gstreamer reference plugins, base classes for other plugins, 
+		and helper libraries.
+                ----------
+                requires the glib2, libxml2, gstreamer, libasound, liboil,
+                ogg-vorbis, cairo, pango, pixman, fontconfig, expat2, libtheora &
+                Xlibs_support extensions
+                ----------
+                this extension contains:
+                gst-plugins-base-0.10.28 - http://gstreamer.freedesktop.org/src/gst-plugins-base/gst-plugins-base-0.10.28.tar.bz2
+                ----------
+Change-log:     2009/05/04
+                2009/11/08 [juanito] updated 0.10.22 -> 0.10.25 & renamed tczl
+Current:   	2010/03/16 Updated to 0.10.28

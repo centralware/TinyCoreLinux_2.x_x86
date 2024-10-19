@@ -1,0 +1,11 @@
+usr/local/lib/pkgconfig/gapi-2.0.pc
+usr/local/lib/pkgconfig/glade-sharp-2.0.pc
+usr/local/lib/pkgconfig/glib-sharp-2.0.pc
+usr/local/lib/pkgconfig/gtk-dotnet-2.0.pc
+usr/local/lib/pkgconfig/gtk-sharp-2.0.pc
+usr/local/share/gapi-2.0/atk-api.xml
+usr/local/share/gapi-2.0/gdk-api.xml
+usr/local/share/gapi-2.0/glade-api.xml
+usr/local/share/gapi-2.0/glib-api.xml
+usr/local/share/gapi-2.0/gtk-api.xml
+usr/local/share/gapi-2.0/pango-api.xml

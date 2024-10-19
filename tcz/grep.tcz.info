@@ -1,0 +1,16 @@
+Title:          grep.tcz
+Description:    grep for tc_2.X
+Version:        2.5.4
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 96KB
+Extension_by:   juanito
+Comments:       grep for tinycore_2.x
+                For use with the gcc extension
+                ----------
+                This extension contains:
+                gperf-2.5.4 - GPLv3 - http://ftp.gnu.org/gnu/grep/grep-2.5.4.tar.bz2
+                ----------
+Change-log:     First version
+Current:        2009/04/17

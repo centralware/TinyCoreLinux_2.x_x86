@@ -1,0 +1,11 @@
+Title:          gnote-locale.tcz
+Description:    C++ port of Tomboy notes.
+Version:        0.7.1
+Author:         Debarshi Ray, Hubert Figuiere
+Original-site:  http://live.gnome.org/Gnote
+Copying-policy: GPL-3
+Size:		552K
+Extension_by:   Arslan S.
+Comments:       This extension is PPI compatible.
+Change-log:     ---
+Current:   	2010/03/08 Original

@@ -1,0 +1,20 @@
+Title:  		Giblib-1.2.4
+Description:   		Wraper for imlib2
+Version: 		1.2.4
+Author: 		Tom Gilbert
+Original-site: 		linuxbrit.co.uk/giblib
+Copying-policy: 	free of charge with copywrite notice
+Size:			45.0K
+Extension_by: 		Averyeng
+Comments:   		normal built.
+			./configure
+			make 
+			make install
+		
+			Compile Dep:
+			xorg-dev
+			imlib2
+Change-log:		---
+Current:		2009/04/08
+
+	

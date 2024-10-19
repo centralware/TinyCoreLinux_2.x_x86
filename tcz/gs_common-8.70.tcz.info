@@ -1,0 +1,18 @@
+Title:          gs-8.70.tcz
+Description:    ghostscript printing common files
+Version:        8.70
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 7.1MB
+Extension_by:   juanito
+Comments:       ghostscript files that might be required by the gs-8.70 and
+                libgs-8.70 extensions
+                ----------
+                requires the cairo, expat2, fontconfig, libcups and
+                pixman extensions
+                ----------
+                This extension contains:
+                ghostscript-8.70 - GPLv3 - http://ghostscript.com/releases/ghostscript-8.70.tar.bz2
+Change-log:     first version
+Current:        2009/11/01

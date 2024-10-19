@@ -1,0 +1,24 @@
+Title:          graphviz.tcz
+Description:    Graph Visualization (TESTING)
+Version:        2.24.0
+Author:         Various (http://www.graphviz.org/Credits.php)
+Original-site:  http://www.graphviz.org/
+Copying-policy: Common Public License v1 (http://www.graphviz.org/License.php)
+Size:		2.0M
+Extension_by:   robc
+Comments:		This package requires libgd and perl5
+		
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://www.graphviz.org/
+		for more information.
+		
+		----------------------------------------------
+		
+		
+Change-log:     2009/08/18 Original
+Current:	2009/08/18 Original

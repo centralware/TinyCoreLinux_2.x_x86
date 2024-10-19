@@ -1,0 +1,11 @@
+librsvg.tcz
+libgnomeui.tcz
+libcanberra.tcz
+gnome-python.tcz
+clutter-gtk.tcz
+ggz-client-libs.tcz
+guile.tcz
+python-gtkglext.tcz
+pyopengl.tcz
+shared-mime-info.tcz
+hicolor-icon-theme.tcz

@@ -1,0 +1,1 @@
+31997a27b3a42bb94b2263b1ef346c92  gobject-introspection.tcz

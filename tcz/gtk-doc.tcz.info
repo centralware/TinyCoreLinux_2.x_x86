@@ -1,0 +1,13 @@
+Title:          gtk-doc.tcz
+Description:    gtk-doc api documentation tools.
+Version:        1.13
+Author:         Damon Chaplin, Owen Taylor
+Original-site:  http://www.gtk.org/gtk-doc/
+Copying-policy: GPL-3/GNU Free Documentation License
+Size: 144K
+Extension_by:   Arslan S
+Comments:	GTK-Doc is a project which was started to generate API documentation from 
+		comments added to C code. It is typically used to document the public API of 
+		GTK+ and GNOME libraries, but it can also be used to document application code.
+Change-log:     ---
+Current:   	2010/1/8 Original

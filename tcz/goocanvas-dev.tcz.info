@@ -1,0 +1,15 @@
+Title:          goocanvas-dev.tcz
+Description:    Canvas widget for GTK+ that uses cairo 2D library
+Version:        0.15
+Author:         Damon Chaplin
+Original-site:  http://live.gnome.org/GooCanvas
+Copying-policy: LGPL
+Size:           127k
+Extension_by:   bmarkus
+Comments:       Dev files
+                ----
+                Compiled for TC2.0
+                ----
+                PPI compatible
+Change-log:     2009/06/18 First version
+Current:        2009/10/09 Upgraded to 0.15

@@ -1,0 +1,17 @@
+Title:          gnome-python-dev.tcz
+Description:    python gnome bindings
+Version:        2.28.0
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 		40KB
+Extension_by:   juanito, Arslan S.
+Comments:       python bindings for gnome
+                ----------
+		Requires gnome-python extension.
+                ----------
+                this extension contains:
+                gnome-python-2.28.0 - GPLv2 - http://ftp.acc.umu.se/pub/GNOME/sources/gnome-python/2.28/gnome-python-2.28.0.tar.bz2
+                ----------
+Change-log:     2009/11/08 first version by juanito
+Current:   	2010/03/12 Rebuilt with updated gnome libraries (Arslan S.)

@@ -1,0 +1,32 @@
+Title:          gpsd-hotplug.tcz
+Description:    Hotplugging support for gpsd (TESTING)
+Version:        2.39
+Authors:        Remco Treffkorn <remco@rvt.com>
+                Derrick J. Brashear <shadow@dementia.org>
+                Russ Nelson <nelson@crynwyr.com>
+                Eric S. Raymond <esr@thyrsus.com>
+                Gary E. Miller <gem@rellim.com> 
+                Jeff Francis <jeff@gritch.org>
+                Amaury Jacquot <sxpert@esitcom.org>
+                Chris Kuethe <chris.kuethe@gmail.com>
+                Ville Nuorvala <vnuorval@tcs.hut.fi>
+Original-site:  http://gpsd.berlios.de/
+Copying-policy: BSD
+Size:           8K
+Extension_by:   T. Buctoo
+Comments:       Extension is NOT PPI compatible, compiled for TC2.x
+                Recursive dep file, equivalent to flat list:
+                expat2.tcz
+                dbus.tcz
+                glib2.tcz
+                dbus-glib.tcz
+                gpsd.tcz
+                sqlite3.tcz
+                openssl-0.9.8m.tcz
+                tcl_tk.tcz
+                bzip2-lib.tcz
+                python.tcz
+                dbus-python.tcz
+                Configuration is set by script /usr/local/etc/gpsd.rc
+Change-log:     --------
+Current:        2010/03/29 Initial version

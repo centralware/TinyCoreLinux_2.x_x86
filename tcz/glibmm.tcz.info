@@ -1,0 +1,17 @@
+Title:          glibmm.tcz
+Description:    glibmm
+Version:        2.22.1
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 792KB
+Extension_by:   juanito
+Comments:       glibmm is the C++ interface for glib2
+                ----------
+                requires the libsigc++ and glib2 extensions
+                ----------
+                This extension contains:
+                glibmm-2.22.1 - GPLv2.1 - http://ftp.acc.umu.se/pub/gnome/sources/glibmm/2.22/glibmm-2.22.1.tar.bz2
+Change-log:     2009/05/19
+                updated 2.18.2 -> 2.22.1
+Current:        2010/01/07

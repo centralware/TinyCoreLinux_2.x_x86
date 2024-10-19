@@ -1,0 +1,26 @@
+Title:          gst-plugins-bad-dev.tcz
+Description:    GStreamer Bad Plug-ins development files.
+Version:        0.10.18
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size:		300K
+Extension_by:   Juanito, Arslan S.
+Comments:       more gstreamer plugins
+                ----------
+                requires the glib2, libxml2, gstreamer, libasound, liboil,
+                ogg-vorbis, cairo, pango, pixman, fontconfig, expat2, libtheora, 
+                Xlibs_support,  bzip2-lib, libglade, libdca, openssl-0.9.8m.tcz,
+		libcroco, libgsf, atk, graphics-libs-1, gtk2, libmad, SDL, 
+		libdvdread, libdvdnav, librsvg, libcdaudio and faad extensions
+                ----------
+                this extension contains:
+                gst-plugins-bad-0.10.18 - GPLv2.1 - http://gstreamer.freedesktop.org/src/gst-plugins-bad/gst-plugins-bad-0.10.18.tar.bz2
+                ----------
+Change-log:     2009/11/08 First Version
+		2010/01/10 Updated to 0.10.17 (Arslan S.)
+			-added more plugins such as AAC, DTS audio codecs
+		2010/01/18 Added some plugins (Arslan S.)
+			-added dvdread with menu support 
+			-added audio cd support
+Current:   	2010/03/16 Updated to 0.10.18 (Arslan S.)

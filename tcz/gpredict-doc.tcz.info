@@ -1,0 +1,21 @@
+Title:          gpredict-doc.tcz
+Description:    Real-time satellit tracking and orbit prediction
+Version:        1.1
+Author:         Alexandru Csete, OZ9AEC
+Original-site:  http://gpredict.oz9aec.net
+Copying-policy: GPLv2
+Size:           29k
+Extension_by:   bmarkus
+Comments:       Doc files
+                ----
+                Compiled for TC2.x
+                ----
+                It can track and predict more than 1,200 satellites
+                including amateur radio, miliraty, weather, ISS
+                International Space Station, ...
+                Useful not only for radio communication but
+                for visual inspection of low-orbit objects
+                ---- PPI compatible
+Change-log:     2009/06/19 First version
+                2009/08/12 Freedesktop menu added
+Current:        2009/10/12 Upgraded to 1.1

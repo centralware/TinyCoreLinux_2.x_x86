@@ -1,0 +1,12 @@
+Title:		gnome-vfs-dev.tcz
+Description:	GNOME Virtual File System
+Version:	2.24.2
+Author: 	GNOME Maintainers Team
+Original-site:	http://ftp.gnome.org/pub/GNOME/sources/gnome-vfs/
+Copying-Policy:	GPL-2/GNU Library GPL-2
+Extension_by:	jpeters, Arslan S.
+Comments:       This extension is PPI compatible.
+Size:		852K
+Change-log:     2009/05/26 version 2.24.1
+Current:	2010/02/23 Updated to 2.24.2 (Arslan S.)
+

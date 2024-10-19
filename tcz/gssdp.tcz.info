@@ -1,0 +1,20 @@
+Title:          gssdp.tcz
+Description:    ssdp resource discovery
+Version:        0.7.1
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 56KB
+Extension_by:   juanito
+Comments:       implements resource discovery and announcement over SSDP
+                ----------
+                requires the libsoup, libxml2, gnutls, libgcrypt, libgpg-error and glib2 extensions
+                ----------
+                Note: the main aim for building this extension was libgssdp.
+                In order to use gssdp-device-sniffer, gtk2 and deps are required
+                ----------
+                This extension contains:
+                gssdp-0.7.1 - GPLv2 - http://www.gupnp.org/sources/gssdp/gssdp-0.7.1.tar.gz
+                ----------
+Change-log:     first version
+Current:        2009/12/28

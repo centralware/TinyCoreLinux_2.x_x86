@@ -1,0 +1,27 @@
+Title:          gpsd-clients.tcz
+Description:    Example clients for accessing gpsd (TESTING)
+Version:        2.39
+Authors:        Remco Treffkorn <remco@rvt.com>
+                Derrick J. Brashear <shadow@dementia.org>
+                Russ Nelson <nelson@crynwyr.com>
+                Eric S. Raymond <esr@thyrsus.com>
+                Gary E. Miller <gem@rellim.com> 
+                Jeff Francis <jeff@gritch.org>
+                Amaury Jacquot <sxpert@esitcom.org>
+                Chris Kuethe <chris.kuethe@gmail.com>
+                Ville Nuorvala <vnuorval@tcs.hut.fi>
+Original-site:  http://gpsd.berlios.de/
+Copying-policy: BSD
+Size:           116K
+Extension_by:   Arslan S., T. Buctoo
+Comments:       PPI compatible extension, compiled for TC2.x
+				Recursive dep file, equivalent to flat list:
+                expat2.tcz
+                dbus.tcz
+                glib2.tcz
+                dbus-glib.tcz
+                gpsd.tcz
+                lesstif.tcz
+                ncurses-lib.tcz
+                Change-log:     --------
+Current:        2010/03/29 Initial version
