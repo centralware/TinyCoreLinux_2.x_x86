@@ -1,0 +1,142 @@
+#!/bin/sh
+#
+######################################################
+# Build script for TinyCore 2.x                      #
+#                                                    #
+# See .info for details                              #
+#                                                    #
+# September 9, 2009                                  #
+######################################################
+#
+# Define package names and tmp directory
+#
+SRCNAM=lxterminal-0.1.6.tar.gz
+WRKDIR=lxterminal-0.1.6
+EXTNAM=lxterminal
+TMPDIR=/tmp/lxterminal
+#
+# Export variables needed for compilation
+#
+export CFLAGS="-march=i486 -mtune=i686 -Os -pipe"
+export CXXFLAGS="-march=i486 -mtune=i686 -Os -pipe -fno-exceptions -fno-rtti"
+export PKG_CONFIG_PATH=/usr/local/lib/pkgconfig:/usr/lib/pkgconfig
+#
+# Remove dirs and files left from previous creation
+#
+rm -r -f $WRKDIR
+rm -r -f $TMPDIR
+rm -r -f $TMPDIR-locale
+#
+# Crete temporary directories
+#
+mkdir -p $TMPDIR
+mkdir -p $TMPDIR-locale/usr/local/share
+#
+# Unpack source in current directory
+#
+tar -xf $SRCNAM
+#
+# Configure it
+#
+cd $WRKDIR
+#
+./configure --prefix=/usr/local
+#
+# Compile
+#
+make
+#
+# Install in temp dir
+#
+make install DESTDIR=$TMPDIR
+#
+# Delete compilation work directory
+#
+cd ..
+rm -r -f $WRKDIR
+#
+# Add TC menu
+#
+mkdir -p $TMPDIR/usr/local/tce.icons
+cp $EXTNAM.wbr $TMPDIR/usr/local/tce.icons/$EXTNAM
+cp $EXTNAM.png $TMPDIR/usr/local/tce.icons
+mkdir -p $TMPDIR/usr/local/tce.menu
+cp $EXTNAM.mnu $TMPDIR/usr/local/tce.menu/$EXTNAM
+#
+# Remove unneded files
+#
+rm -r -f  $TMPDIR/usr/local/share/man
+#
+# Adjust directory access rigths
+#
+find $TMPDIR/ -type d | xargs chmod -v 755;
+#
+# Strip executables
+#
+find $TMPDIR | xargs file | grep ELF | cut -f 1 -d : | xargs strip --strip-unneeded
+#
+# Move files to locale directory
+#
+mv $TMPDIR/usr/local/share/locale $TMPDIR-locale/usr/local/share
+#
+# Create .tce extension in temp dir
+#
+cd  $TMPDIR
+find usr -not -type d > $EXTNAM.filelist
+tar czvf $EXTNAM.tce --numeric-owner -T $EXTNAM.filelist
+advdef -z4 $EXTNAM.tce
+#
+# Create md5 file
+#
+md5sum $EXTNAM.tce > $EXTNAM.tce.md5.txt
+#
+# Cleanup temp directory
+#
+rm -r -f usr  
+#
+# Create .tcz extension
+#
+mkdir $EXTNAM
+cd $EXTNAM
+tar zxvf ../$EXTNAM.tce
+cd ..
+mkfs.cramfs $EXTNAM $EXTNAM.tcz
+#
+# Create md5 file
+#
+md5sum $EXTNAM.tcz > $EXTNAM.tcz.md5.txt
+#
+# Cleanup directory
+#
+rm -r -f $EXTNAM
+#
+# Create locale .tce extension in temp dir
+#
+cd  $TMPDIR-locale
+find usr -not -type d > $EXTNAM-locale.filelist
+tar czvf $EXTNAM-locale.tce --numeric-owner -T $EXTNAM-locale.filelist
+advdef -z4 $EXTNAM-locale.tce
+#
+# Create md5 file
+#
+md5sum $EXTNAM-locale.tce > $EXTNAM-locale.tce.md5.txt
+#
+# Cleanup locale temp directory
+#
+rm -r -f usr  
+#
+# Create .tcz extension
+#
+mkdir $EXTNAM-locale
+cd $EXTNAM-locale
+tar zxvf ../$EXTNAM-locale.tce
+cd ..
+mkfs.cramfs $EXTNAM-locale $EXTNAM-locale.tcz
+#
+# Create md5 file
+#
+md5sum $EXTNAM-locale.tcz > $EXTNAM-locale.tcz.md5.txt
+#
+# Cleanup directory
+#
+rm -r -f $EXTNAM-locale
