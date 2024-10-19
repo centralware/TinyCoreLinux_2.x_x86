@@ -1,0 +1,11 @@
+Title:          dvdauthor.tcz
+Description:    Generates DVD movies from mpeg2 stream.
+Version:        0.6.14
+Author:         Scott Smith
+Original-site:  http://dvdauthor.sourceforge.net/
+Copying-policy: GPL-2
+Size: 		140K
+Extension_by:   Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:     ---
+Current:   	2010/01/23 Original

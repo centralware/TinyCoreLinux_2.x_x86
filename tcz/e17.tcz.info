@@ -1,0 +1,17 @@
+Title:          e17.tcz
+Description:    The Enlightenment DR17 Desktop Environment
+Version:        16.999.063
+Authors:        See http://enlightenment.org/p.php?p=contact&l=en
+Original-site:  enlightenment.org
+Copying-policy: BSD
+Size:		12M
+Extension_by:   Althalus
+Comments:       Best used with the noicons bootcode.
+                If e17.tcz is included in onboot.lst,
+                enlightenment should start up as the default wm.
+                Most things should work relatively fine, however 
+                please be aware that e1 is an ongoing development effort.
+                
+Change-log:     First release 2010-03-06
+                2010-03-08 Fixed permissions, fixed mixer gadget, set wm
+Current:        2010-03-31 Updated SVN Version

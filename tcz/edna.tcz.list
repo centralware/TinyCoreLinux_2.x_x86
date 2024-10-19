@@ -1,0 +1,17 @@
+usr/local/bin/MP3Info.py
+usr/local/bin/edna
+usr/local/bin/edna.py
+usr/local/bin/ezt.py
+usr/local/etc/edna.conf
+usr/local/share/edna/resources/folder.png
+usr/local/share/edna/resources/play.png
+usr/local/share/edna/resources/save.png
+usr/local/share/edna/resources/text.png
+usr/local/share/edna/templates/default.ezt
+usr/local/share/edna/templates/default_complex.ezt
+usr/local/share/edna/templates/stats.ezt
+usr/local/share/edna/templates/style-xml.ezt
+usr/local/share/edna/www/images/chalk.jpg
+usr/local/share/edna/www/index.html
+usr/local/tce.installed/edna
+usr/local/tce.menu/edna

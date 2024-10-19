@@ -1,0 +1,17 @@
+Title:          dbus-glib.tcel
+Description:    dbus-glib for tc_2.x
+Version:        0.82
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 136KB
+Extension_by:   juanito
+Comments:       dbus-glib for tinycore
+                Requires the dbus, glib2 and expat2 extensions
+                ----------
+                This extension contains:
+                dbus-glib-0.82 - GPLv2 - http://dbus.freedesktop.org/releases/dbus-glib/dbus-glib-0.82.tar.gz
+Change-log:     First version
+                2008/09/30
+                updated 0.80 -> 0.82, re-compiled against dbus /usr/local/etc/dbus-1
+Current:        2009/09/22

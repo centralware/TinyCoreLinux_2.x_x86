@@ -1,0 +1,11 @@
+Title:          dejavu-fonts-ttf.tcz
+Description:    Dejavu Fonts.
+Version:        2.25
+Author:         Stephan Roh
+Original-site:  http://dejavu.sourceforge.net/
+Copying-policy: OpenSource
+Size: 4.5M
+Extension_by:   Jason W
+Comments:       Installs into /usr/local/share/fonts.
+Change-log:     First version
+Current:        2008/08/05

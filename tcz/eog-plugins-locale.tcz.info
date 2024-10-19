@@ -1,0 +1,11 @@
+Title:          eog-plugins-locale.tcz
+Description:    The Eye of GNOME image viewer plugins, locale.
+Version:        2.28.1
+Author:         Lucas Rocha
+Original-site:  http://live.gnome.org/EyeOfGnome/Plugins
+Copying-policy: GPL-2
+Size:		44K
+Extension_by:   Arslan S.
+Comments:       This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/05/15 Original

@@ -1,0 +1,13 @@
+Title:          edbus.tcz
+Description:    The Enlightenment DR17 Desktop Environment
+Version:        16.999.063
+Author:        See http://enlightenment.org/p.php?p=contact&l=en
+Original-site:  enlightenment.org
+Copying-policy: BSD
+Size:           164kb
+Extension_by:   Althalus
+Comments:       No attempt at configuration for TC has been made. 
+                It's up to the user to make it work the way you want.
+                
+Change-log:     
+Current:        First release 2010-03-06

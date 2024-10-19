@@ -1,0 +1,15 @@
+Title:		esound-dev.tcz
+Description:	Mixes several digitized audio streams.
+Version:	0.2.41
+Author: 	GNOME Maintainers Team	
+Original-site:	http://ftp.gnome.org/pub/GNOME/sources/esound
+Copying-policy:	GNU Library GPL-2 
+Extension_by:	Arslan S.
+Comments:       Mixes several digitized audio streams for playback 
+		by a single device.
+		
+		This extension is PPI compatible.
+Size:		28K
+Change-log:     ---
+Current:	2010/01/29 Original 0.2.41
+

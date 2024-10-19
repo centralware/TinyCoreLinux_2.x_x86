@@ -1,0 +1,1 @@
+3a1f79cb305d25f23572de4f07157ef8  DeviceKit-power-dev.tcz

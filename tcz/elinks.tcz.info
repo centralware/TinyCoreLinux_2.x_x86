@@ -1,0 +1,20 @@
+Title:		elinks.tcz
+Description:	Elinks - Full-Featured Text WWW Browser
+Version:	0.11.6
+Author:		Open Source project originating from Links project
+                written by Mikulas Patocka
+Original-site:  http://elinks.or.cz
+Copying-policy:	GNU General Public License
+Extension_by:	jpeters
+Comments:	Features:
+		Standard, IPv6, gzip, Periodic Saving, Timer, Cascading 
+		Style Sheets, Protocol (File, FTP, HTTP, URI rewrite, User 
+                protocols), MIME (Option system, Mailcap, Mimetypes files), 
+                LED indicators, Bookmarks, Cookies, Form History, Global 
+                History, Goto URL History, Search History
+Size:		2.2M 
+Change-log	2009/04/12 First version
+		2009/04/15 Added SSL/TLS support
+Current:	2009/05/10 Compiled for tc2 
+
+

@@ -1,0 +1,13 @@
+glib2.tcz
+gtk2.tcz
+dbus-glib.tcz
+GConf.tcz
+python.tcz
+libexif.tcz
+libstartup-notification.tcz
+libexempi.tcz
+librsvg.tcz
+libglade.tcz
+libgnome-desktop.tcz
+shared-mime-info.tcz
+hicolor-icon-theme.tcz

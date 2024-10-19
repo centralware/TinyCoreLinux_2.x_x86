@@ -1,0 +1,15 @@
+Title:          elementary.tcz
+Description:    The Enlightenment DR17 Desktop Environment
+Version:        16.999.063
+Authors:        See http://enlightenment.org/p.php?p=contact&l=en
+Original-site:  enlightenment.org
+Copying-policy: LGPL
+Size:		3.6M
+Extension_by:   Althalus
+Comments:       A library of widgets designed to allow developers
+                easier access to GUI elements when developing EFL
+                applications.
+                
+                
+Change-log:     First release 2010-03-06
+Current:        2010-03-31 Updated

@@ -1,0 +1,21 @@
+Title:          doxygen.tcz
+Description:    Doxygen is a documentation system for C++, C, Java, Objective-C, Python, 
+		IDL (Corba and Microsoft flavors), Fortran, VHDL, PHP, C#, and to some extent D.
+Version:        1.6.3
+Author:         Dimitri van Heesch
+Original-site:  http://www.stack.nl/~dimitri/doxygen/
+Copying-policy: GPL-2
+Size: 		2M
+Extension_by:   Arslan S.
+Comments:       Doxygen is a tool for writing software reference documentation. 
+		The documentation is written within code, and is thus relatively easy to keep up to date. 
+		Doxygen can cross reference documentation and code, 
+		so that the reader of a document can easily refer to the actual code.
+
+		Online manual:
+		http://www.stack.nl/~dimitri/doxygen/manual.html
+
+		This extension is PPI compatible.
+
+Change-log:     2009/10/16 Original 1.6.1
+Current:        2010/04/29 Updated to 1.6.3 & splitted doxygen-gui(doxywizard)

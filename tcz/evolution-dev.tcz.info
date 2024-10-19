@@ -1,0 +1,12 @@
+Title:          evolution-dev.tcz
+Description:    Mail, calendar and address book suite for GNOME, development files. (TESTING)
+Version:        2.28.2
+Author:         Evolution Team
+Original-site:  http://projects.gnome.org/evolution/
+Copying-policy: GPL/LGPL/MPL/OpenLDAP
+Size:		472K
+Extension_by:   Arslan S.
+Comments:       This extension has recursive deps.
+		This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/03/30 Original

@@ -1,0 +1,12 @@
+Title:          evolution-data-server.tcz
+Description:    Responsible for managing mail, calendar, addressbook, tasks and memo information.
+Version:        2.28.2
+Author:         GNOME Authors
+Original-site:  http://www.gnome.org/
+Copying-policy: LGPL
+Size:		2.8M
+Extension_by:   Arslan S.
+Comments:       This extension has recursive deps.
+		This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/03/28 Original

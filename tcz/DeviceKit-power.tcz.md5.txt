@@ -1,0 +1,1 @@
+85b7dab845725aa2cdb84d4d3784d9d4  DeviceKit-power.tcz

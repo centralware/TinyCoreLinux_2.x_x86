@@ -1,0 +1,10 @@
+./usr/bin/dbclient
+./usr/bin/dropbearconvert
+./usr/bin/ssh
+./usr/bin/dropbear
+./usr/bin/scp
+./usr/bin/dropbearkey
+./usr/sbin/dropbearmulti
+./usr/local/etc/init.d/dropbear
+./etc/dropbear/banner
+./etc/init.d/dropbear

@@ -1,0 +1,11 @@
+Title:          desktop-file-utils.tcz
+Description:    Utilities for working with desktop entries.
+Version:        0.15
+Author:         Havoc Pennington, Alex Larsson, Vincent Untz
+Original-site:  http://www.freedesktop.org/wiki/Software/desktop-file-utils
+Copying-policy: GPL-2
+Size:           36K
+Extension_by:   Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:     ---
+Current:        2010/02/25 Original

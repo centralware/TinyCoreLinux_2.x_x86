@@ -1,0 +1,12 @@
+libnotify.tcz
+libunique.tcz
+gobject-introspection.tcz
+nss-nspr.tcz
+libsoup-gnome.tcz
+libxcb-util.tcz
+libstartup-notification.tcz
+libavahi.tcz
+webkit.tcz
+seed.tcz
+shared-mime-info.tcz
+hicolor-icon-theme.tcz

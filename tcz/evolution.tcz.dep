@@ -1,0 +1,11 @@
+libgnomeui.tcz
+gtkhtml.tcz
+libgnome-desktop.tcz
+gst-plugins-base.tcz
+libnotify.tcz
+librsvg.tcz
+libiconv.tcz
+evolution-data-server.tcz
+hicolor-icon-theme.tcz
+gnome-icon-theme.tcz
+shared-mime-info.tcz

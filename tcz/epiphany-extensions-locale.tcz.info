@@ -1,0 +1,11 @@
+Title:		epiphany-extensions-locale.tcz
+Description:	Epiphany Web Browser extensions, locale.
+Version:	2.29.6
+Author:		GNOME Maintainers
+Original-site:	http://projects.gnome.org/epiphany/
+Copying-policy:	GPL-2
+Size:		428K
+Extension_by:	Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:	--
+Current:	2010/05/08 Original

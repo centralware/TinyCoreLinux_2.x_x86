@@ -1,0 +1,11 @@
+Title:          evince-dev.tcz
+Description:    Evince development files.
+Version:        2.28.2
+Author:         Various
+Original-site:  http://projects.gnome.org/evince/
+Copying-policy: GPL-2
+Size: 		464K
+Extension_by:   Arslan S.
+Comments:       This extension is PPI compatible.
+Change-log:     ---
+Current:   	2010/03/05 Original

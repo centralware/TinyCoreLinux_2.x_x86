@@ -1,0 +1,11 @@
+Title:          DeviceKit-power.tcz
+Description:    DeviceKit is a set of projects to replace HAL.(TESTING)
+Version:        014
+Author:         David Zeuthen, Richard Hughes
+Original-site:  http://www.freedesktop.org/wiki/Software/DeviceKit
+Copying-policy: GPL-2
+Size:           88K
+Extension_by:   Arslan S.
+Comments:	---
+Change-log:     ---
+Current:        2010/02/15 Original

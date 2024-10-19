@@ -1,0 +1,17 @@
+usr/local/bin/e_dbus_hal
+usr/local/bin/e_dbus_test
+usr/local/bin/e_dbus_test_client
+usr/local/include/E_DBus.h
+usr/local/include/E_Hal.h
+usr/local/lib/libedbus-ver-svn-05.so.0
+usr/local/lib/libedbus-ver-svn-05.so.0.5.0
+usr/local/lib/libedbus.a
+usr/local/lib/libedbus.la
+usr/local/lib/libedbus.so
+usr/local/lib/libehal-ver-svn-05.so.0
+usr/local/lib/libehal-ver-svn-05.so.0.5.0
+usr/local/lib/libehal.a
+usr/local/lib/libehal.la
+usr/local/lib/libehal.so
+usr/local/lib/pkgconfig/edbus.pc
+usr/local/lib/pkgconfig/ehal.pc

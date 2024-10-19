@@ -1,0 +1,11 @@
+usr/local/bin/chattr
+usr/local/bin/lsattr
+usr/local/sbin/badblocks
+usr/local/sbin/debugfs
+usr/local/sbin/dumpe2fs
+usr/local/sbin/e2image
+usr/local/sbin/e2label
+usr/local/sbin/filefrag
+usr/local/sbin/findfs
+usr/local/sbin/mklost+found
+usr/local/sbin/resize2fs

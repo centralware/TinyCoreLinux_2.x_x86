@@ -1,0 +1,12 @@
+Title: expect.tcz
+Description: A Tcl/Tk tool for automating interactive applications (TESTING)
+Version: 5.44.1.15
+Author: Zab
+Original-site: http://expect.nist.gov
+Copying-policy: Public Domain
+Size: 196.0K
+Extension_by: Zab
+Comments: ---
+            
+Change-log: 2010/06.21 Fix License
+Current: 2010/06/21 First Version

@@ -1,0 +1,16 @@
+Title:          enlightenment.tcz
+Description:    The Enlightenment DR17 Desktop Environment
+Version:        16.999.063
+Authors:        See http://enlightenment.org/p.php?p=contact&l=en
+Original-site:  enlightenment.org
+Copying-policy: BSD
+Size:		11M
+Extension_by:   Althalus
+Comments:       No attempt at configuration for TC has been made. 
+                It's up to the user to make it work the way you want.
+                If enlightenment.tcz is included in onboot.lst,
+                enlightenment should start up as the default wm
+                Best to use 'noicons' boot option.
+                
+Change-log:     First release 2010-03-06
+Current:        2010-03-08 Fixed permissions, fixed mixer gadget, set wm

@@ -1,0 +1,13 @@
+Title:          evas.tcz
+Description:    The Enlightenment DR17 Desktop Environment
+Version:        16.999.063
+Authors:        See http://enlightenment.org/p.php?p=contact&l=en
+Original-site:  enlightenment.org
+Copying-policy: BSD
+Size:		3.5M
+Extension_by:   Althalus
+Comments:       One of the core libraries forming the EFL
+                
+                
+Change-log:     First release 2010-03-06
+Current:        Updated 2010-03-31

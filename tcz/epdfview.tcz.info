@@ -1,0 +1,12 @@
+Title:          epdfview.tcz
+Description:    Small GTK2 PDF viewer.
+Version:        0.10.0
+Author:         Jordi Fita 
+Original-site:  http://trac.emma-soft.com/epdfview/
+Copying-policy: GPL
+Size: 444K
+Extension_by:   Jason W
+Comments:       ---------
+Change-log:     First version
+Current:        2008/10/22
+

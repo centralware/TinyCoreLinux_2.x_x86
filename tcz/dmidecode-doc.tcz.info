@@ -1,0 +1,16 @@
+Title:          dmidecode-doc.tcz
+Description:    Dumps system's hardware info based on SMBIOS/DMI
+Version:        2.10
+Author:         Alan Cox and many contributors
+Original-site:  http://www.nongnu.org/dmidecode/
+Copying-policy: GPL v2
+Size:           8k
+Extension_by:   bmarkus
+Comments:       Doc files
+                ----
+                Compiled for TC2.x
+                ----
+                PPI compatible
+Change-log:     ----
+Current:        2009/11/17 First version
+

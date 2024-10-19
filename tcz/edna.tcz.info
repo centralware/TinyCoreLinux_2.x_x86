@@ -1,0 +1,103 @@
+Title:		edna.tcz
+Description:	Edna lets you access your MP3 collection from any networked
+		computer with a media player that supports streaming audio.
+Version:        0.6
+Author:		Greg Stein
+Original-site:	http://edna.sourceforge.net/
+Copying-policy: GPLv2
+Size:		32K
+Extension_by:   combo3
+Comments:       This extension is PPI compatible
+                ----------------------------------------------------------------------------------
+		Installation Notes
+
+		Python is required but not included as a dependency
+		to allow for user version preferences.
+
+		- python.tcz (current ver. 2.6.4) works as is without modification.
+
+		- python-2.5.2.tcz requires a symlink to /usr/local/bin/python which can
+		  be created like this:
+
+		  sudo ln -s /usr/local/bin/python2.5 /usr/local/bin/python
+
+		- python-2.5.2-minimal does not work at the moment.
+
+
+		Optional Extensions
+
+		pyogg-vorbis.tcz  - required if you want to stream ogg-vorbis files
+		tcp-wrappers.tcz - to filter network traffic
+		sshfs-fuse-2.2.tcz - to allow access via Secure Shell (SSH)
+
+
+		Configuration
+
+		Your configuration file is located at: /home/tc/.edna/edna.conf
+	
+		The only option which must be set prior to use is the location
+		of your mp3 directory in the [sources] section. (default not set)
+
+		Other options you may want to change are:
+
+		1. The port number (default 8080)
+		2. User and password authentication (default none)
+		3. Logging options (default standard out)
+		3. Server customization and appearance
+	
+
+		Running Edna
+
+		********************* Important ***********************
+		Make sure the directory pointed to in your config file
+		is mounted and accessible prior to starting edna.
+		*******************************************************
+		
+		1. From the window manager menu:
+
+		 applications -> Edna -> [Start] [Stop] [Restart]
+
+		2. From a terminal:
+
+		sudo edna start
+		sudo edna stop
+		sudo edna restart
+ 
+
+		Accessing Your Music
+	
+		1. From the edna host:
+
+		localhost:8080
+		127.0.0.1:8080
+
+		2. From a local network client - enter the LAN address of edna host
+
+		ex. 192.168.0.100:8080
+
+		3. From a remote client - enter your IP address
+		
+		
+		Boot Startup
+
+		To start edna at system boot, add the following line to /opt/bootlocal.sh
+		
+		/usr/local/bin/edna start
+	
+		Note: make sure the command to mount your mp3 directory comes beforehand.
+
+		
+		Addendum
+		
+		The configuration template is located at: /usr/local/etc/edna.config
+		
+		Should you accidentally erase the config file in your home directory 
+		and find yourself without a backup copy, simply run:
+		
+		sudo edna
+		
+		... and a new one will be created, ready for modification.
+
+
+Change-log:     ----------
+Current:        2009/11/02 First Version

@@ -1,0 +1,14 @@
+usr/local/bin/edje_cc
+usr/local/bin/edje_decc
+usr/local/bin/edje_recc
+usr/local/bin/inkscape2edc
+usr/local/include/Edje.h
+usr/local/include/Edje_Edit.h
+usr/local/lib/libedje-ver-pre-svn-05.so.0
+usr/local/lib/libedje-ver-pre-svn-05.so.0.9.93
+usr/local/lib/libedje.a
+usr/local/lib/libedje.la
+usr/local/lib/libedje.so
+usr/local/lib/pkgconfig/edje.pc
+usr/local/share/edje/include/edje.inc
+usr/local/share/mime/packages/edje.xml

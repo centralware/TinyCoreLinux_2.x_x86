@@ -1,0 +1,11 @@
+Title:          eog-dev.tcz
+Description:    The Eye of GNOME image viewer, development package.
+Version:        2.28.2
+Author:         GNOME Maintainers
+Original-site:  http://projects.gnome.org/eog/
+Copying-policy: GPL-2
+Size:		32K
+Extension_by:   Arslan S.
+Comments:       This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/05/14 Original

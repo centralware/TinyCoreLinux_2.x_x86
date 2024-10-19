@@ -1,0 +1,20 @@
+Title:          dreamchess.tcz
+Description:    3D Chess Game.
+Version:        0.2
+Author:         Various
+Original-site:  http://www.dreamchess.org/
+Copying-policy: GPL-3
+Size: 		4.8M
+Extension_by:   Arslan S.
+Comments:      	This extension depends on Xorg.
+		
+		If you wish there is a music pack
+		http://www.dreamchess.org/downloads.html
+
+		For a smooth play graphics drivers recommended.
+
+		Note: You must have OSS or ALSA running. Otherwise game does not launch.
+
+		This extension is PPI compatible.
+Change-log:     ---
+Current:   	2010/1/8 Original

@@ -1,0 +1,19 @@
+Title:		dosbox.tcz
+Description:	an x86 emulator with sound and graphics from old DOS(TESTING)
+Version:	0.72
+Author:		Lead developer: Peter Veenstra and others
+Original-site:	http://www.dosbox.com
+Copying-policy:	GNU-GPL
+Size:		1.280Kb
+Extension_by:	Onyarian
+Comments:	This extension requires:
+		SDL and libmad
+		This extension contains:
+		dosbox-0.72.tar.gz
+		Files:
+		/usr/local/bin/dosbox
+		/usr/local/share/man/man1/dosbox.1
+		/usr/local/tce.menu/dosbox
+		------------------------
+Change-log:	2009/04/05
+Current:	2009/04/05

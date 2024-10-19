@@ -1,0 +1,15 @@
+Title:		django-1.1.1.tcz
+Description:	Django Web Development Framework
+Version:	1.1.1
+Author:		Django Software Foundation
+Original-site:	http://djangoproject.com/
+Copying-policy:	BSD License
+Size:		812k
+Extension_by:	Althalus
+Comments:	The Django web development framework for python.
+                Requires Python. 
+                If you want to use SQLite databases, be sure to
+                use the pysqlite2.tcz extension as well.
+		
+Change-log:	First version
+Current:	2009/11/07

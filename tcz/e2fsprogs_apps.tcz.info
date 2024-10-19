@@ -1,0 +1,14 @@
+Title:          e2fsprogs_apps.tcz
+Description:    e2fsprogs_apps
+Version:        1.39
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 84KB
+Extension_by:   juanito
+Comments:       e2fsprogs apps not included in tc_2.x base
+                ----------
+                This extension contains:
+                e2fsprogs-1.39 - GPL/BSD - http://prdownloads.sourceforge.net/e2fsprogs/e2fsprogs-1.39.tar.gz [some binaries]
+Change-log:     First version
+Current:        2009/05/22

@@ -1,0 +1,15 @@
+Title:          dell-2.6.29.1-tinycore.tcz
+Description:    dell kernel modules
+Version:        2.6.29.1
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 12KB
+Extension_by:   juanito
+Comments:       dell dcdbas and dell_rbu kernel modules for use with libsmbios
+                ----------
+                This extension contains:
+                linux-2.6.29.1 - GPL - http://www.kernel.org/pub/linux/kernel/v2.6/linux-2.6.29.1.tar.bz2
+                ----------
+Change-log:     first version
+Current:        2009/12/07
