@@ -1,0 +1,11 @@
+Title:          banshee-locale.tcz
+Description:    Banshee is a music management and playback application for GNOME, locale files.
+Version:        1.6.0
+Author:         Various
+Original-site:  http://banshee-project.org/
+Copying-policy: MIT
+Size:		1.5M
+Extension_by:   Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/04/20 Original

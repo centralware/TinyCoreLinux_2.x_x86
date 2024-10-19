@@ -1,0 +1,16 @@
+Title:		bzr.tcz
+Description:	Bazaar VCS     (TESTING)
+Version:	2.1.0
+Author:		The Bazaar Team
+Original-site:	http://bazaar.canonical.com/
+Copying-policy:	GPLv2
+Size:		4.4M
+Extension_by:	Kingdomcome
+Comments:	A version control system. Part of the GNU Project and
+		used on launchpad and elsewhere
+		
+		Depends on python.tcz
+		
+		This extension is PPI compatible
+Change-log:	----
+Current:	2010/03/12 First Version

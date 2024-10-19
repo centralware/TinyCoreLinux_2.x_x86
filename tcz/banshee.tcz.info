@@ -1,0 +1,11 @@
+Title:          banshee.tcz
+Description:    Banshee is a music management and playback application for GNOME.
+Version:        1.6.0
+Author:         Various
+Original-site:  http://banshee-project.org/
+Copying-policy: MIT
+Size:		2.1M
+Extension_by:   Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/04/20 Original

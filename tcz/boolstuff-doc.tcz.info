@@ -1,0 +1,15 @@
+Title:          boolstuff-doc.tcz
+Description:    Disjunctive Normal Form boolean expression C++ library
+Version:        0.1.12
+Author:         Pierre Sarrazin
+Original-site:  http://sarrazip.com/dev/boolstuff.html
+Copying-policy: GPL v2
+Size:           21K
+Extension_by:   bmarkus
+Comments:       Doc files
+                ----
+                Compiled for TC2.x
+                ----
+                PPI compatible
+Change-log:     ----
+Current:        2009/12/05 First version

@@ -1,0 +1,16 @@
+Title:          bind-dev.tcz
+Description:    DNS server and utilities
+Version:        9.6.1-P1
+Author:         Various
+Original-site:  http://www.isc.org
+Copying-policy: ISC
+Size:           1.0M
+Extension_by:   bmarkus
+Comments:       Dev files
+                ----
+                Compiled for TC2.x
+                ----
+                PPI compatible
+Change-log:     2009/06/16 First version
+Current:        2009/09/16 Updated to 9.6.1-P1
+

@@ -1,0 +1,3 @@
+usr/local/etc/bftpd.conf
+usr/local/sbin/bftpd
+usr/local/tce.installed/bftpd

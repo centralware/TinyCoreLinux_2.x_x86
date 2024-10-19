@@ -1,0 +1,17 @@
+Title:          btpd.tcz
+Description:    BitTorrent Protocol Daemon
+Version:        0.15
+Author:         Richard Nyberg
+Original-site:  www.murmeldjur.se/btpd/
+Copying-policy: See /usr/local/share/btpd/COPYRIGHT in the extension.
+Size: 60K
+Extension_by:   Jason W
+Comments:	Example use of this extensin:
+		--
+		$ btpd -p 12345 --bw-out 200 --max-peers 40
+		$ btcli add -d myfile.torrent.d /home/tc/myfile.torrent
+		--     
+		This extension requires openssl-0.9.8h.tcel.
+		This extension is PPI compatible.
+Change-log:     ----
+Current:   	2009/03/20 First version

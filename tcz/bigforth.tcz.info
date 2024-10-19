@@ -1,0 +1,11 @@
+Title:          bigforth.tcz
+Description:    Forth interpreter, compiler and IDE
+Version:        2.3.1
+Author:         Bernd Paysan
+Original-site:  http://www.jwdt.com/~paysan/bigforth.html
+Copying-policy: GPL v3
+Size:           1.5M
+Extension_by:   bmarkus 
+Comments:	Compiled for TC2.x
+Change-log:   	----
+Current:   	2009/08/11 First version

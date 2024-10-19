@@ -1,0 +1,39 @@
+Title:          base-dev.tcz
+Description:    dev files for tc_2.X
+Version:        2.9
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 6.4MB
+Extension_by:   juanito
+Comments:       base tinycore_2.x headers and static libs
+                For use with the gcc extension
+                ----------
+                This extension contains:
+                e2fsprogs-1.39 - GPL/BSD - http://sourceforge.net/project/showfiles.php?group_id=2406&package_id=2374 e2fsprogs-1.39.tar.gz [headers, static libs]
+                fltk-1.1.9 - FLTK/LGPL - http://distro.ibiblio.org/pub/linux/distributions/damnsmall/alpha/src/fltk-1.1.9-source.tar.bz2 [headers, static libs]
+                gcc-4.2.2 - GPLv2 - http://ftp.gnu.org/gnu/gcc/gcc-4.2.2/gcc-4.2.2.tar.bz2 [libstdc++.a/.la]
+                glibc-2.9 - GPLv2 - http://ftp.gnu.org/gnu/glibc/glibc-2.9.tar.bz2 [headers, static libs]                
+                jpeg-6.2b - Free - ftp://ftp.uu.net/graphics/jpeg/jpegsrc.v6b.tar.gz [headers, static libs]
+                libpng-1.2.29 - GPLv2 - http://distro.ibiblio.org/pub/linux/distributions/damnsmall/alpha/src/libpng-1.2.29.tar.gz [headers, static libs]
+                linux-2.6.29.1 - GPLv2 - http://distro.ibiblio.org/pub/linux/distributions/tinycorelinux/2.x/release/src/linux-2.6.29.1-patched.tar.bz2 [sanitised headers]
+                ncurses-5.6 - GPLv2 - ftp://invisible-island.net/ncurses/ncurses-5.6.tar.gz [headers]
+                sysfsutils-2.1.0 - GPLv2 - http://distro.ibiblio.org/pub/linux/distributions/damnsmall/alpha/src/sysfsutils-2.1.0.tar.gz [headers, static libs]
+                util-linux-ng-2.16.1 - GPLv2 - http://www.kernel.org/pub/linux/utils/util-linux-ng/v2.16/util-linux-ng-2.16.1.tar.bz2 [dev files for blkid/uuid]
+                zlib-1.2.3 - Free - http://www.zlib.net/zlib-1.2.3.tar.gz [headers, static libs]
+                ----------
+Change-log:     2009/04/17
+                Added /usr/lib/libstdc++.a/.la
+                Re-packed using squashfs
+                2009/06/01
+                removed symlinks moved to glibc_add-libs, removed libmad devs
+                removed libpng.so -> libpng12.so
+                2009/11/10
+                adjusted dev files for new libblkid/libuuid in base
+                2009/11/27
+                removed popt headers following removal from base
+                2010/01/02
+                removed some /usr/lib/*.so symlinks duplicated with base
+                2010/01/16
+                replaced recompiled glibc and libstdc++ dev files
+Current:        2010/02/28

@@ -1,0 +1,9 @@
+usr/local/bin/beaver
+usr/local/share/beaver/include/Makefile
+usr/local/share/beaver/include/beaver.h
+usr/local/share/beaver/resource/beaver.conf.default
+usr/local/share/beaver/resource/standard.xml
+usr/local/share/beaver/resource/wordfile.default
+usr/local/tce.icons/beaver2
+usr/local/tce.icons/beaver2.png
+usr/local/tce.menu/beaver2

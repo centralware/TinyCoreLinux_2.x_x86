@@ -1,0 +1,16 @@
+usr/local/bin/dig
+usr/local/bin/host
+usr/local/bin/isc-config.sh
+usr/local/bin/nslookup
+usr/local/bin/nsupdate
+usr/local/sbin/dnssec-dsfromkey
+usr/local/sbin/dnssec-keyfromlabel
+usr/local/sbin/dnssec-keygen
+usr/local/sbin/dnssec-signzone
+usr/local/sbin/lwresd
+usr/local/sbin/named
+usr/local/sbin/named-checkconf
+usr/local/sbin/named-checkzone
+usr/local/sbin/named-compilezone
+usr/local/sbin/rndc
+usr/local/sbin/rndc-confgen

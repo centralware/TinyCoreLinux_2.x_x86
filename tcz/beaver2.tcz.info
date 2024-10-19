@@ -1,0 +1,16 @@
+Title:          beaver2.tcz
+Description:    beaver gtk2 text editor
+Version:        0.4.0rc1
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 76KB
+Extension_by:   juanito
+Comments:       Beaver is an Early AdVanced EditoR - gtk2 version
+                ----------
+                requires gtk2 extensions
+                ----------
+                This extension contains:
+                beaver-0.4.0rc1 - GPLv2 -  http://www.nongnu.org/beaver/dloads/tarballs/beaver-0.4.0rc1.tar.gz
+Change-log:     first version
+Current:        2009/10/04

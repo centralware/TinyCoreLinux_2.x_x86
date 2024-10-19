@@ -1,0 +1,23 @@
+Title:          binutils-2.19.1.tcz
+Description:    binutils
+Version:        2.19.1
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 1.8MB
+Extension_by:   juanito
+Comments:       the binutils linker, assembler, and other tools for handling..
+                ..object files
+                built to use with the gcc-4.4.0 extension
+                ***note***
+                tinycore-2.x was not built with this version of binutils..
+                ..nor with gcc-4.4.0 - care should be taken when..
+                ..compiling for tinycore-2.x with this.
+                ***note***
+                ----------
+                This extension contains:
+                binutils-2.19.1 - GPLv2 - http://ftp.gnu.org/gnu/binutils/binutils-2.19.1.tar.bz2
+                http://patches.cross-lfs.org/dev/binutils-2.19.1-branch_update-5.patch
+                ----------
+Change-log:     First version
+Current:        2009/07/19
