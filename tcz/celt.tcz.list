@@ -1,0 +1,11 @@
+usr/local/bin/celtdec
+usr/local/bin/celtenc
+usr/local/include/celt/celt.h
+usr/local/include/celt/celt_header.h
+usr/local/include/celt/celt_types.h
+usr/local/lib/libcelt.a
+usr/local/lib/libcelt.la
+usr/local/lib/libcelt.so
+usr/local/lib/libcelt.so.0
+usr/local/lib/libcelt.so.0.0.0
+usr/local/lib/pkgconfig/celt.pc

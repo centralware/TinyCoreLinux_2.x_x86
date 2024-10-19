@@ -1,0 +1,17 @@
+Title:          clamav-dev.tcz
+Description:    An anti-virus utility for Unix-like systems dev files.
+Version:        0.96
+Author:         Tomasz Kojm
+Original-site:  http://www.clamav.net/
+Copying-policy: GPL
+Size:		4.0K
+Extension_by:   Jason W
+Comments:       ------
+Change-log:     ------
+                2009/03/19 First version.
+ 	        2009/04/04 Updated to 0.95
+        	2009/04/08 Updated to 0.95.1
+		2009/06/13 Updated to 0.95.2
+		2009/11/03 Updated to 0.95.3 and added bz2 support.
+Current:	2010/04/07 Updated to 0.95.6
+

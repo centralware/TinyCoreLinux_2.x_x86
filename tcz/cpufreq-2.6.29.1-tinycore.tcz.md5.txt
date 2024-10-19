@@ -1,0 +1,1 @@
+c5e9474ddcc3d1e03b125c09321adfe5  cpufreq-2.6.29.1-tinycore.tcz

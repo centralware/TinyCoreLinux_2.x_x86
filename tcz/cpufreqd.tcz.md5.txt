@@ -1,0 +1,1 @@
+8890a5ce429c6f23e8e9ec03362a46e9  cpufreqd.tcz

@@ -1,0 +1,46 @@
+Title:          chromium-browser.tcz
+Description:    Chromium Web Browser.
+Version:        6.0.462.0 (51950)
+Author:         Chromium Authors
+Original-site:  http://code.google.com/chromium/
+Copying-policy: BSD-style
+Size:		22.6M
+Extension_by:   Arslan S.
+Comments:       dejavu-fonts-ttf.tcz is recommended.  
+
+		For Freedesktop users only:
+		-xdg-utils.tcz is recommend. (This is needed to detect and launch preferred applications.)
+
+		-Remember chromium for linux is still in beta stage. So it has known
+		issues. For example there are reported flashplayer crashes.
+		http://code.google.com/p/chromium/issues/list
+		
+		-Also note that this is not Google Chrome. This is Chromium, the open
+		source project behind Google Chrome. Chrome is the official build of
+		Google. To see the differences between Chromium and Chrome:
+		http://code.google.com/p/chromium/wiki/ChromiumBrowserVsGoogleChrome
+
+		-One of the best features of Chromium is the extensions. Extensions
+		can be reached from the main menu. Note that some extensions are 
+		not yet supported on linux.
+
+		-The other nice feature is the themes. You can download and install themes or
+		even create yourself. Options->Personal Stuff->Appearance click "Get themes"
+		
+		-How to create themes:
+		http://code.google.com/p/chromium/wiki/ThemeCreationGuide
+
+		This is built from source for i686.
+		
+		This extension is PPI compatible.
+
+Change-log:  	2009/12/17 First Version
+	     	2009/12/19 Updated info
+	     	2009/12/31 Updated to 4.0.286.0
+				-Now wrapper passes user flags to the browser
+				-Making chromium the default browser fixed for Freedesktops
+	     	2010/03/02 Updated to 5.0.343.0 (40399)
+		2010/03/08 Recovered desktop entry and fixed dep list	
+		2010/05/13 Updated to 5.0.376.0 (44267)
+		2010/06/05 Updated to 6.0.424.0 (48744)
+Current:	2010/07/09 Updated to 6.0.462.0 (51950)

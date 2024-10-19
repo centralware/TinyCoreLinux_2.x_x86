@@ -1,0 +1,14 @@
+Title:          cfdisk.tcz
+Description:    Cfdisk partitioning utility
+Version:        2.14.1
+Author:         Karel Zak and others.
+Original-site:  www.kernel.org/pub/linux/utils/util-linux-ng/ 
+Copying-policy: GPL
+Size: 28K
+Extension_by:   Jason W
+Comments:       This is the cfdisk utility from the util-linux-ng-
+		2.14.1 package.
+Change-log:     2008/10/16 First version
+Current:        2008/11/12 Rebuilt for i486 and size optimization
+		and removed version number from name.
+

@@ -1,0 +1,14 @@
+Title:          curl.tcz
+Description:    Client and library for network transfers.
+Version:        7.20.0
+Author:         Daniel Stenberg
+Original-site:  http://curl.haxx.se/
+Copying-policy: MIT
+Size:		376K
+Extension_by:   Jason W
+Comments:       ---------
+Change-log:     2008/09/10 First version
+        	2008/12/12 Rebuilt for i486, size, cramfs.
+		2009/11/26 Updated and rebuilt against openssl-0.9.8k.
+		2010/02/18 Updated to 7.20.0 and hardlinked against openssl-0.9.8k.
+Current:	2010/03/28 Rebuilt against openssl-0.9.8m

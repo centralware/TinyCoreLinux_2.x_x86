@@ -1,0 +1,17 @@
+Title:          cairomm.tcz
+Description:    cairomm
+Version:        1.8.4
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 144KB
+Extension_by:   juanito
+Comments:       cairomm is the C++ interface for cairo
+                ----------
+                requires the libsigc++, cairo, expat2, fontconfig, pixman and Xlibs_support extensions
+                ----------
+                This extension contains:
+                cairomm-1.8.4 - GPLv2 - http://www.cairographics.org/releases/cairomm-1.8.4.tar.gz
+Change-log:     2009/05/19
+                updated 1.8.0 -> 1.8.4
+Current:        2010/01/07

@@ -1,0 +1,18 @@
+Title:          cairo.tcz
+Description:    Multi-platform 2D graphics library
+Version:        1.8.10
+Author:         Carl Worth
+Original-site:  http://cairographics.org/
+Copying-policy: LGPL
+Size: 		278KB
+Extension_by:   Jason W
+Comments:       Requires fontconfig.tcz, graphics-libs-1.tcz, pixman.tcz
+		expat2.tcz.
+Change-log:     -------
+       		2009/02/19 First version as standalone.
+ 		2009/07/03 Updated to 1.8.8
+		2010/02/21 Updated to 1.8.10
+Current:	2010/03/21 Recursive dep file.
+	
+
+

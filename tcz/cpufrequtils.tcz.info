@@ -1,0 +1,18 @@
+Title:          cpufrequtils.tcz
+Description:    cpu frequency utilities
+Version:        006
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 32KB
+Extension_by:   juanito
+Comments:       utilties to control cpu frequency
+                ----------
+                This extension contains:
+                cpufrequtils-006 - GPLv2 - http://www.kernel.org/pub/linux/utils/kernel/cpufreq/cpufrequtils-006.tar.bz2
+                ----------
+Change-log:     2009/04/28
+                moved user.tar.gz -> start-up script
+                2009/10/10
+                updated 005 -> 006 and split out cpufreqd
+Current:        2009/11/28

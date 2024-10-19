@@ -1,0 +1,12 @@
+Title:          celt.tcz
+Description:    Ultra-low delay audio codec
+Version:        0.7.0
+Author:         Jean-Marc Valin
+Original-site:  http://www.celt-codec.org/
+Copying-policy: BSD
+Size:           104.0K
+Extension_by:   helander
+Comments:	
+		This extension is PPI compatible.
+Change-log:	----
+Current:	2010/01/15 Initial Version

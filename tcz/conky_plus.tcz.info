@@ -1,0 +1,22 @@
+Title:          conky_plus.tcz
+Description:    conky system monitor
+Version:        1.8.0
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 128KB
+Extension_by:   juanito
+Comments:       light-weight system monitor for X, with more deps/features
+                ----------
+                Compiled to match xlibs in base, hence no double-buffering unless the..
+                ..Xorg-7.4 extension is used instead of Xlibs_support
+                ----------
+                also looks better if a fonts extension like ttf-bitstream-vera is used
+                ----------
+                Modify /usr/local/etc/conky/conky.conf to suit your taste
+                ----------
+                This extension contains:
+                conky-1.8.0 - BSD/GPL - http://garr.dl.sourceforge.net/sourceforge/conky/conky-1.8.0.tar.bz2
+                ----------
+Change-log:     first version
+Current:        2010/04/03

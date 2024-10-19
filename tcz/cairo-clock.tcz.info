@@ -1,0 +1,21 @@
+Title:          cairo-clock.tcz
+Description:    MacSlow's Cairo Clock.
+Version:        0.3.4
+Author:         Mirco "MacSlow" Müller
+Original-site:  http://macslow.thepimp.net/
+Copying-policy: GPL-2
+Size: 		496K
+Extension_by:   Arslan S.
+Comments:      	This extension requires Xorg with enabled Composite extension
+		and a compositing window manager.
+
+		Currently we have only xfwm4 as a compositing window manager.
+
+		So xfce4 is recommended.
+
+		Also in xfce4 enable compositing from
+		settings->window manager tweaks->compositor->enable display compositing
+
+		This extension is PPI compatible.
+Change-log:     ---
+Current:   	2010/1/2 Original

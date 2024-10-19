@@ -1,0 +1,12 @@
+Title:          clutter-gtk-dev.tcz
+Description:    OpenGL based interactive canvas library GTK+ Widget development files.
+Version:        0.10.2
+Author:         Iain Holmes, Neil Roberts, Emmanuele Bassi
+Original-site:  http://www.clutter-project.org/
+Copying-policy: GPL
+Size:		52K
+Extension_by:   Arslan S.
+Comments:       This extension has recursive deps.
+		This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/03/22 Original

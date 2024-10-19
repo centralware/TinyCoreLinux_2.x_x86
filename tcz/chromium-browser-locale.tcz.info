@@ -1,0 +1,15 @@
+Title:          chromium-browser-locale.tcz
+Description:    Chromium Web Browser, locale files.
+Version:        6.0.462.0 (51950)
+Author:         Chromium Authors
+Original-site:  http://code.google.com/chromium/
+Copying-policy: BSD style
+Size:		2.2M
+Extension_by:   Arslan S.
+Comments:       This extension is PPI compatible.
+Change-log:	2009/12/17 First Version
+		2009/12/31 Updated to 4.0.286.0 (35374)
+		2010/03/02 Updated to 5.0.343.0 (40399)
+		2010/05/13 Updated to 5.0.376.0 (44267)
+		2010/06/05 Updated to 6.0.424.0 (48744)
+Current:	2010/07/09 Updated to 6.0.462.0 (51950)

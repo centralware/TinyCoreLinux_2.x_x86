@@ -1,0 +1,26 @@
+Title:          ccache.tcz
+Description:    Compiler Cache (TESTING)
+Version:        2.4
+Author:         Andrew Tridgell
+Original-site:  http://ccache.samba.org/
+Copying-policy: GPLv2
+Size:		16k
+Extension_by:   robc
+Comments:       This package requires compiletc
+		
+		Change CC="gcc" to CC="ccache gcc" in the 
+		Makefile or with ./configure.
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://ccache.samba.org/
+		for more information.
+		
+		----------------------------------------------
+		
+Change-log:     2009/5/19 Original
+		2009/6/26 Rebuilt for 2.X, use seperated gcc and binutils
+Current:	2009/06/26 Rebuilt for 2.X, use seperated gcc and binutils

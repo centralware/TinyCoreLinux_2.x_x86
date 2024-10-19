@@ -1,0 +1,11 @@
+Title:          CurlFtpFS.tcz
+Description:    CurlFtpFS is a filesystem for accessing FTP hosts based on FUSE and libcurl.
+Version:        0.9.2-tinycor_2.11.4
+Author:         Robson Braga Araujo
+Original-site:  http://curlftpfs.sourceforge.net/ 
+Copying-policy: GPL
+Size: 		68 KB
+Extension_by:   Xianwen Chen
+Comments:       This package is PPI compatible.
+Change-log:     2010/6/19 0.9.2-tinycore_2.11.4
+Current:        2010/6/19 0.9.2-tinycore_2.11.4

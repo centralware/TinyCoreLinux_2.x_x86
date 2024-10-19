@@ -1,0 +1,11 @@
+Title:          ConsoleKit-dev.tcz
+Description:    ConsoleKit  is a framework for defining and tracking users, login sessions, and seats.
+Version:        0.4.1
+Author:         William Jon McCann
+Original-site:  http://www.freedesktop.org/wiki/Software/ConsoleKit
+Copying-policy: GPL-2
+Size:           4K
+Extension_by:   Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:     ---
+Current:        2010/02/13 Original

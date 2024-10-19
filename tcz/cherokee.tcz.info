@@ -1,0 +1,31 @@
+Title:          cherokee.tcz
+Description:    Cherokee HTTP Web Server
+Version:        0.99.24
+Author:         Alvaro Lopez Ortega
+Original-site:  www.cherokee-project.com
+Copying-policy: GPL v2
+Size:           836KB
+Extension_by:   evofx
+Comments:       Depends on openssl-0.9.8h.
+                python or python-minimal is optional for cherokee-admin (Web-based Admin GUI) to work.
+
+                This extension is PPI Compatible.
+                Just add /usr/local/etc/cherokee/cherokee.conf into your /opt/.filetool.lst
+
+                Cherokee is a lighweight, very fast, flexible and easy to configure Web Server.
+                Its performance is comparable to nginx, with less RAM utilized under high load.
+
+                It supports:
+                FastCGI, SCGI, PHP, CGI, SSI, TLS and SSL encrypted connections, Virtual hosts, 
+                Authentication, on the fly encoding, Load Balancing, Apache compatible log files, 
+                Data Base Balancing, Reverse HTTP Proxy, Traffic Shaper and others.
+
+                An optional user friendly interface called cherokee-admin is provided for a no-hassle 
+                browser-based configuration of the server. The conf file can also be edited manually.
+                Check out the benchmarks and documentation to learn more, and give it a try to 
+                squeeze your hardware to the fullest!
+
+Change-log:     2009/10/14 Original
+                2009/10/16 Reduced the package size to just 836KB
+Current:        2009/10/16 Reduced the package size to just 836KB by removing unnecessary:
+                           share/doc, share/aclocal, include, .a and .la files.

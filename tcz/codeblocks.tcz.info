@@ -1,0 +1,15 @@
+Title:          codeblocks.tcz
+Description:    Cross-platform Integrated Development Environment.
+Version:        8.02svn6155
+Author:         Various
+Original-site:  www.codeblocks.org
+Copying-policy: GPL-3
+Size:           12.7M
+Extension_by:   Arslan S.
+Comments:	compiletc is recommended.
+		
+		Optional: gtk2-dev, wxgtk-dev
+
+		This extension is PPI compatible.
+Change-log:     2010/02/10 Original
+Current:        2010/02/12 Updated to 8.02svn6155

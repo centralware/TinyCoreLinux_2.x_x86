@@ -1,0 +1,11 @@
+Title:          compizconfig-python.tcz
+Description:    Compiz config settings library python bindings.
+Version:        0.8.4
+Author:         various
+Original-site:  http://www.compiz.org/
+Copying-policy: GPL-2
+Size:		40K
+Extension_by:   Arslan S.
+Comments:       This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/05/27 Original
