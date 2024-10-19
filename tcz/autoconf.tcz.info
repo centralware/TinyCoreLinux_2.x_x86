@@ -1,0 +1,17 @@
+Title:          autoconf.tcz
+Description:    autoconf for tinycore_2.x
+Version:        2.65
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size:		1.2M
+Extension_by:   juanito, wonderfulll
+Comments:       autoconf for tinycore_2.x
+                requires perl_xml.tcz
+                ----------
+                This extension contains:
+                autoconf-2.65 - GPLv2 - http://ftp.gnu.org/gnu/autoconf/autoconf-2.65.tar.bz2
+                ----------
+Change-log:     2009/05/08 First version
+                2010/03/21 updated to 2.65
+Current:        2010/03/21

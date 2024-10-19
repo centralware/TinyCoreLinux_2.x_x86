@@ -1,0 +1,19 @@
+Title:          automake.tcz
+Description:    automake for tinycore_2.x
+Version:        1.10.2
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 480KB
+Extension_by:   juanito
+Comments:       automake for tinycore_2.x
+                requires perl_xml.tcz and autoconf.tcz
+                ..depending on the cvs/git/svn repo,
+                may also require libtool and gettext extensions
+                ----------
+                This extension contains:
+                automake-1.10.2 - GPLv2 - http://ftp.gnu.org/gnu/automake/automake-1.10.2.tar.bz2
+                ----------
+Change-log:     2009/05/08
+                Updated 1.10 -> 1.10.2
+Current:        2009/05/11

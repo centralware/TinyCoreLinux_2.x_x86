@@ -1,0 +1,18 @@
+Title:          alsa-config.tcz
+Description:    alsa config files for tinycore
+Version:        1.0.20
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 1.28MB
+Extension_by:   jasonw
+Comments:       
+                ----------
+                This extension contains:
+                alsa-lib-1.0.20 - GPLv2.1 - ftp://ftp.alsa-project.org/pub/lib/alsa-lib-1.0.20.tar.bz2
+                alsa-utils-1.0.20 - GPLv2 - ftp://ftp.alsa-project.org/pub/utils/alsa-utils-1.0.20.tar.bz2
+                ----------
+                
+Change-log:    
+Current:	2010/01/25 First version 1.0.20
+

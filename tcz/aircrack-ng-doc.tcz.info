@@ -1,0 +1,15 @@
+Title:          aircrack-ng-doc.tcz
+Description:    Set of auditing tools for wireless networks
+Version:        1.0
+Author:         Thomas d'Otreppe
+Original-site:  http://www.aircrack-ng.org
+Copying-policy: GPL v2
+Size:           616K
+Extension_by:   bmarkus
+Comments:       Doc files
+                ----
+                Compiled for TC2.x
+                ----
+                PPI compatible
+Change-log:     ----
+Current:        2009/10/18 First version

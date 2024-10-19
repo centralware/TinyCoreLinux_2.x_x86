@@ -1,0 +1,32 @@
+Title:          915resolution.tcz
+Description:    Changes to video BIOS for Intel 800/900 series graphics chipsets (TESTING)
+Version:        0.5.3
+Author:         Steve Tomljenovic
+Original-site:  http://www.geocities.com/stomljen/
+Copying-policy: Public Domain
+Size: 		8K
+Extension_by:   florian, Roberto A. Foglietta
+Comments:       Tool to modify the video BIOS of the 800 and 900 series Intel
+                graphics chipsets. This includes the 830, 845G, 855G, and 865G
+                chipsets, as well as 915G, 915GM, 945G, 946GZ, G965, and Q965
+                chipsets. This modification may be necessary to display certain
+                graphics resolutions with an X server, and especially with the
+                default XVesa that ships with Tiny Core Linux.
+
+                Note that modifications to the video BIOS are transient, not
+                permanent. So, you need to set the configuration every time you
+                start the machine (and before you start up the X server).
+                Obvious place to invoke 915resolution in Tiny Core Linux is thus
+                from /opt/bootlocal.sh
+
+                Usage: /usr/local/sbin/915resolution [-l] [Mode# X Y] [depth]
+                Use the -l flag to get the list of modes and resolution from the
+                video bios. And use without -l flag to modify one mode with new
+                resolution and optionally new bits/pixel depth.
+
+                ------
+                Note: this version has been patched in order to work on eeepc too
+
+Change-log:     2009/04/15 patched for eeepc
+		2008/12/25 First version
+Current:        2009/04/15 patched for eeepc

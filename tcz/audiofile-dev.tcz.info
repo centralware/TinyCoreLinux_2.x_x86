@@ -1,0 +1,12 @@
+Title:          audiofile-dev.tcz
+Description:    A library for accessing various audio file formats.
+Version:        0.2.6
+Author:         Michael Pruett
+Original-site:  http://www.68k.org/~michael/audiofile/
+Copying-policy: LGPL
+Size: 106K
+Extension_by:   Jason W
+Comments:       This extension is PPI compatible.
+Change-log:     ---------
+Current:        2009/02/12 First version.
+

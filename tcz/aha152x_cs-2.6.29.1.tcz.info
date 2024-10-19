@@ -1,0 +1,13 @@
+Title:          aha152x_cs-2.6.29.1.tcz
+Description:    adaptec slim-scsi driver
+Version:        2.6.29.1
+Author:         Various
+Original-site:  www.kernel.org
+Copying-policy: GPL
+Size: 24KB
+Extension_by:   juanito
+Comments:       This is the kernel module for the adaptec 16bit SlimSCSI 1460 pcmcia card
+		It was built from the vanilla 2.6.29.1 kernel source.
+		This extension is PPI compatible.
+Change-log:     First version
+Current: 	2010/01/23

@@ -1,0 +1,11 @@
+Title:          alsa-dev.tcz
+Description:    alsa sound for tinycore dev files
+Version:        1.0.20
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 1.28MB
+Extension_by:   juanito/jasonw
+Comments:       Development files for alsa
+Change-log:     ----
+Current:	2009/06/13 alsa-lib/alsa-utils 1.0.20

@@ -1,0 +1,1 @@
+cce0d1d5a700a2109cd88db52caca013  aic7xxx-2.6.29.1.tcz

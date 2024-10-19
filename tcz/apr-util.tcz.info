@@ -1,0 +1,26 @@
+Title:			apr-util.tcz
+Description:	Apache Portable Runtime Companion Library
+Version:		1.3.9
+Author:			Apache Software Foundation
+Original-site:	http://apr.apache.org/
+Copying-policy:	Apache License, Version 2.0
+Size:		72k
+Extension_by:	robc
+Comments:	This extension depends on apr and expat2.
+		
+		15/16 tests passed, 93.8% pass rate.
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://apr.apache.org/
+		for more information.
+		
+		----------------------------------------------
+		
+		This extension is PPI compatible
+
+Change-log:	2010/06/07 Original
+Current:	2010/06/07 Original

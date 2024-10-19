@@ -1,0 +1,14 @@
+Title:          alsa-modules-2.6.29.1-tinycore.tcz
+Description:    Alsa modules for 2.6.29.1-tinycore
+Version:        2.6.29.1-tinycore
+Author:         Various
+Original-site:  http://kernel.org
+Copying-policy: GPL
+Size:		1.4M
+Extension_by:   Curaga
+Comments:       For some analog TV cards the sound part depends on the 
+		video part (ie the v4l extension).
+
+		This extension is PPI compatible.
+Change-log:     
+Current:        2009/04/11 Original

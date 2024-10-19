@@ -1,0 +1,24 @@
+Title:			apr-dev.tcz
+Description:	Apache Portable Runtime Library Development Files
+Version:		1.4.2
+Author:			Apache Software Foundation
+Original-site:	http://apr.apache.org/
+Copying-policy:	Apache License, Version 2.0
+Size:		328k
+Extension_by:	robc
+Comments:		
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://apr.apache.org/
+		for more information.
+		
+		----------------------------------------------
+		
+		This extension is PPI compatible
+
+Change-log:	2010/06/07 Original
+Current:	2010/06/07 Original

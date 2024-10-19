@@ -1,0 +1,15 @@
+Title:          asterisk-doc.tcz
+Description:    Open Source PBX and telephony toolkit
+Version:        1.6.1.6
+Author:         Various
+Original-site:  http://asterisk.org
+Copying-policy: GPL v2
+Size:           143k
+Extension_by:   bmarkus
+Comments:       Doc and sample configuration files
+                ----
+                Compiled for TC2.x
+                ----
+                PPI compatible
+Change-log:     ----
+Current:        2009/10/19 First version

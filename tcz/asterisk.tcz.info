@@ -1,0 +1,21 @@
+Title:          asterisk.tcz
+Description:    Open Source PBX and telephony toolkit
+Version:        1.6.1.6
+Author:         Various
+Original-site:  http://asterisk.org
+Copying-policy: GPL v2
+Size:           19.3M
+Extension_by:   bmarkus
+Comments:       Binaries only
+                ----
+                Compiled for TC2.x
+                ----
+                Run 'sudo asterisk' to start
+                Run 'sudo asterisk -r' to connect running system
+                ----
+                See sample config files in /usr/local/etc/asterisk
+                or man pages provided by asterisk-doc.tcz for help 
+                ----
+                PPI compatible
+Change-log:     ----
+Current:        2009/10/19 First version

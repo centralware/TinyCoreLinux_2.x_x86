@@ -1,0 +1,14 @@
+Title:          audacious-locale.tcz
+Description:    Audacious media player locale data.
+Version:        2.2
+Author:         William Pitcock (nenolod)		 
+Original-site:  audacious-media-player.org/
+Copying-policy: GPL
+Size:		300K
+Extension_by:   Jason W
+Comments:       Depends on libmowgli, libmcs, gtk2 and dependencies,
+		libmad, lame, dbus, dbus-glib.
+Change-log:     2008/11/07 First Version.
+Current:   	2010/03/07 Update to 2.2
+
+

@@ -1,0 +1,15 @@
+Title:          aic7xxx-2.6.29.1.tcz
+Description:    Adaptec scsi hardware drivers.
+Version:        1
+Author:         Various
+Original-site:  www.kernel.org
+Copying-policy: GPL
+Size: 184K
+Extension_by:   Jason W
+Comments:       This is the kernel modules for the aic7xxx line of
+		Adaptec scsi hard drives.  It was built from the 
+		vanilla 2.6.29.1 kernel source.
+		This extension is PPI compatible.
+Change-log:     2008/10/08 First version
+   		2009/01/31 Made PPI compatible.
+Current: 	2009/04/22 Upgraded to 2.6.29.1 kernel    

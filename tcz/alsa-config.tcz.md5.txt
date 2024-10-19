@@ -1,0 +1,1 @@
+2e36a6914150e81d51cd988996ddefe3  alsa-config.tcz

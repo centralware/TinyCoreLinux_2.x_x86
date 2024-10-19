@@ -1,0 +1,3 @@
+usr/local/bin/avrdude
+usr/local/etc/avrdude.conf
+usr/local/share/man/man1/avrdude.1

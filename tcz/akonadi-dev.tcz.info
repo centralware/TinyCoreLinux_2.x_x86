@@ -1,0 +1,22 @@
+Title:          akonadi-dev.tcz
+Description:    PIM Storage Service Development Files (TESTING)
+Version:        1.3.0
+Author:         Volker Krause, Till Adam, Tobias Koenig, Kevin Krammer
+Original-site:  http://pim.kde.org/akonadi/
+Copying-policy: LGPL
+Size:		12k
+Extension_by:   robc
+Comments:
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://pim.kde.org/akonadi/
+		for more information.
+		
+		----------------------------------------------
+		
+Change-log:     2010/01/26 Original
+Current:	2010/01/26 Original

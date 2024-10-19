@@ -1,0 +1,17 @@
+Title:          avrdude.tcz
+Description:    AVR Downloader/UploaDEr TESTING
+Version:        5.10
+Author:         http://www.nongnu.org/avrdude/
+Original-site:  http://www.nongnu.org/avrdude/
+                http://www.very-clever.com/download/nongnu/avrdude/
+Copying-policy: GNU GPL v2
+Size: 220.0kB
+Extension_by:   mc2avr
+Comments:       -----------------------------
+                # quick test with usbasp programmer and AVRTiny85:
+                avrdude -c usbasp -p t85
+                *** note ***
+                does not work unter vmware (for me)
+                -----------------------------
+Change-log:     First version
+Current:        2010/07/20 Original
