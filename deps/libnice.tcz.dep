@@ -1,0 +1,11 @@
+glib2.tcz
+gstreamer.tcz
+gssdp.tcz
+gst-plugins-base.tcz
+gupnp-igd.tcz
+gupnp.tcz
+gnutls.tcz
+libgcrypt.tcz
+libgpg-error.tcz
+libsoup.tcz
+libxml2.tcz

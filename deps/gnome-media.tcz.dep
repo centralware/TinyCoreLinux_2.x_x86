@@ -1,0 +1,17 @@
+glib2.tcz
+libxml2.tcz
+gstreamer.tcz
+GConf.tcz
+ORBit2.tcz
+libglade.tcz
+gtk2.tcz
+atk.tcz
+pango.tcz
+cairo.tcz
+pixman.tcz
+fontconfig.tcz
+expat2.tcz
+dbus.tcz
+dbus-glib.tcz
+libIDL.tcz
+ 

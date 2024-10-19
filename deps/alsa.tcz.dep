@@ -1,0 +1,10 @@
+alsa-modules-2.6.29.1-tinycore.tcz
+input-2.6.29.1-tinycore.tcz
+bash.tcz
+libasound.tcz
+libpci.tcz
+pci-utils.tcz
+dialog.tcz
+alsa-config.tcz
+hwmon-2.6.29.1-tinycore.tcz
+ 

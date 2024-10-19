@@ -1,0 +1,12 @@
+libv4l.tcz
+hal.tcz
+gst-plugins-good.tcz
+evolution-data-server.tcz
+libgnome-desktop.tcz
+dbus-glib.tcz
+gtk2.tcz
+librsvg.tcz
+shared-mime-info.tcz
+hicolor-icon-theme.tcz
+libiconv.tcz
+

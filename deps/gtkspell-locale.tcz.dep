@@ -1,0 +1,14 @@
+atk.tcz
+cairo.tcz
+glib2.tcz
+fontconfig.tcz
+expat2.tcz
+libxml2.tcz
+graphics-libs-1.tcz
+pixman.tcz
+pango.tcz
+Xlibs_support.tcz
+gtk2.tcz
+enchant.tcz
+gtkspell.tcz
+

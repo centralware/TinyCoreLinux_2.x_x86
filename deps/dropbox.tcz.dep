@@ -1,0 +1,14 @@
+Xlibs_support.tcz
+atk.tcz
+bzip2-lib.tcz
+cairo.tcz
+dbus-glib.tcz
+dbus.tcz
+expat2.tcz
+fontconfig.tcz
+gtk2.tcz
+openssl-0.9.8m.tcz
+pango.tcz
+pixman.tcz
+sqlite3.tcz
+python.tcz

@@ -1,0 +1,13 @@
+expat2.tcz
+flac.tcz
+fluidsynth.tcz
+fontconfig.tcz
+glib2.tcz
+jack.tcz
+libasound.tcz
+libsndfile.tcz
+ogg-vorbis.tcz
+qt-4.5-base.tcz
+readline.tcz
+openssl-0.9.8m.tcz
+

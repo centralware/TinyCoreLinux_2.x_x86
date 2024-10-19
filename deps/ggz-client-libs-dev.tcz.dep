@@ -1,0 +1,12 @@
+libgpg-error.tcz
+libgcrypt.tcz
+gnutls.tcz
+libtasn1.tcz
+libggz.tcz
+expat2.tcz
+ggz-client-libs.tcz
+libgpg-error-dev.tcz
+libgcrypt-dev.tcz
+gnutls-dev.tcz
+libggz-dev.tcz
+expat2-dev.tcz

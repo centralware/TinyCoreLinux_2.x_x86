@@ -1,0 +1,12 @@
+evolution-data-server.tcz
+glib2-dev.tcz
+libxml2-dev.tcz
+gtk2-dev.tcz
+sqlite3-dev.tcz
+libbonobo-dev.tcz
+libical-dev.tcz
+libsoup-dev.tcz
+GConf-dev.tcz
+libglade-dev.tcz
+libgweather-dev.tcz
+nss-nspr-dev.tcz

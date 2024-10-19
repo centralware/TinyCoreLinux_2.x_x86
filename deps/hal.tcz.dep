@@ -1,0 +1,12 @@
+expat2.tcz
+glib2.tcz
+dbus.tcz
+dbus-glib.tcz
+libpci.tcz
+pci-utils.tcz
+libusb.tcz
+usb-utils.tcz
+udevadm.tcz
+acl.tcz
+
+

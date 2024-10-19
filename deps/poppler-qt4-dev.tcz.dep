@@ -1,0 +1,15 @@
+glib2.tcz
+expat2.tcz
+fontconfig.tcz
+graphics-libs-1.tcz
+libxml2.tcz
+gtk2.tcz
+poppler.tcz
+qt-4.5-base.tcz
+qt-4.5-xml.tcz
+poppler-qt4.tcz
+qt-4.5-dev.tcz
+poppler-dev.tcz
+openssl-0.9.8m.tcz
+openssl-0.9.8m-dev.tcz
+

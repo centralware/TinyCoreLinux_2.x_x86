@@ -1,0 +1,16 @@
+libiconv.tcz
+libsamplerate.tcz
+ogg-vorbis.tcz
+flac.tcz
+libsndfile.tcz
+libid3tag.tcz
+libltdl.tcz
+curl.tcz
+openssl-0.9.8m.tcz
+libmad.tcz
+libavcodec.tcz
+libavutil.tcz
+libavformat.tcz
+libasound.tcz
+
+ 

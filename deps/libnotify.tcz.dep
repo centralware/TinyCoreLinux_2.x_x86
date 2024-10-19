@@ -1,0 +1,12 @@
+atk.tcz
+cairo.tcz
+dbus.tcz
+dbus-glib.tcz
+expat2.tcz
+fontconfig.tcz
+glib2.tcz
+gtk2.tcz
+pango.tcz
+pixman.tcz
+Xlibs_support.tcz
+ 

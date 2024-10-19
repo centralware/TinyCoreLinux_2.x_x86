@@ -1,0 +1,18 @@
+zenity.tcz
+expat2.tcz 
+glib2.tcz 
+graphics-libs-1.tcz 
+libxml2.tcz 
+fontconfig.tcz 
+ttf-bitstream-vera.tcz 
+gtk2.tcz atk.tcz 
+cairo.tcz 
+pango.tcz 
+pixman.tcz 
+Xlibs_support.tcz 
+libglade.tcz 
+libgnomecanvas.tcz 
+libart.tcz 
+dbus.tcz 
+dbus-glib.tcz 
+libnotify.tcz

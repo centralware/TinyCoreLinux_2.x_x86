@@ -1,0 +1,12 @@
+SDL.tcz
+openssl-0.9.8m.tcz
+xvid.tcz
+libtheora.tcz
+libasound.tcz
+libmad.tcz
+libavcodec.tcz
+libavformat.tcz
+libavutil.tcz
+faad.tcz
+ogg-vorbis.tcz
+libswscale.tcz

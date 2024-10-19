@@ -1,0 +1,13 @@
+libxml2.tcz
+glib2.tcz
+libgsf.tcz
+expat2.tcz
+dbus.tcz
+dbus-glib.tcz
+openssl-0.9.8m.tcz
+GConf.tcz
+ORBit2.tcz
+gnome-vfs.tcz
+libbonobo.tcz
+libIDL.tcz
+

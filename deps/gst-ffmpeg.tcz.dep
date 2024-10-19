@@ -1,0 +1,15 @@
+glib2.tcz
+libxml2.tcz
+gstreamer.tcz
+libasound.tcz
+liboil.tcz
+ogg-vorbis.tcz
+cairo.tcz
+pango.tcz
+pixman.tcz
+fontconfig.tcz
+expat2.tcz
+libtheora.tcz
+Xlibs_support.tcz
+gst-plugins-base.tcz
+bzip2-lib.tcz

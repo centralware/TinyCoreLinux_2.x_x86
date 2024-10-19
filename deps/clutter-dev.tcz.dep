@@ -1,0 +1,11 @@
+glib2.tcz
+pango.tcz
+cairo.tcz
+gtk2.tcz
+Xorg-7.4.tcz
+clutter.tcz
+glib2-dev.tcz
+pango-dev.tcz
+cairo-dev.tcz
+gtk2-dev.tcz
+Xorg-7.4-dev.tcz

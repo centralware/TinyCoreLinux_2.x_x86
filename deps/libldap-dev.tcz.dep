@@ -1,0 +1,6 @@
+libgpg-error.tcz
+libgcrypt.tcz
+gnutls.tcz
+openssl-0.9.8m.tcz
+cyrus-sasl.tcz
+libldap.tcz

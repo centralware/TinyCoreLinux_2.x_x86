@@ -1,0 +1,15 @@
+glib2.tcz
+gtk2.tcz
+atk.tcz
+cairo.tcz
+pango.tcz
+pixman.tcz
+expat2.tcz
+fontconfig.tcz
+graphics-libs-1.tcz
+libxml2.tcz
+ttf-bitstream-vera.tcz
+babl.tcz
+gegl.tcz
+Xlibs_support.tcz
+ 

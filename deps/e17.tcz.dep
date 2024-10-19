@@ -1,0 +1,17 @@
+eina.tcz
+ecore.tcz
+evas.tcz
+edje.tcz
+e_dbus.tcz
+efreet.tcz
+eet.tcz
+embryo.tcz
+openssl-0.9.8m.tcz
+fontconfig.tcz
+Xlibs_support.tcz
+lua.tcz
+dbus.tcz
+expat2.tcz
+lxmenu-data.tcz 
+libasound.tcz
+

@@ -1,0 +1,10 @@
+libxml2.tcz
+libxslt.tcz
+perl5.tcz
+sqlite3.tcz
+openssl-0.9.8m.tcz
+tcl_tk.tcz
+python.tcz
+docbook_xml_dtd.tcz
+libxml2-dev.tcz
+docbook_xsl.tcz

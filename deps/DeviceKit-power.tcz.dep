@@ -1,0 +1,11 @@
+glib2.tcz
+expat2.tcz
+dbus.tcz
+dbus-glib.tcz
+eggdbus.tcz
+Linux-PAM.tcz
+policykit.tcz
+libusb.tcz
+usb-utils.tcz
+udev-lib.tcz
+gudev-lib.tcz

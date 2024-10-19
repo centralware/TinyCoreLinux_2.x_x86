@@ -1,0 +1,13 @@
+SDL.tcz
+Xlibs_support.tcz
+expat2.tcz
+fontconfig.tcz
+libasound.tcz
+qt-3.3.8b-xorg.tcz
+flac.tcz
+lame.tcz
+libmad.tcz
+libsamplerate.tcz
+libsndfile.tcz
+ogg-vorbis.tcz
+ 

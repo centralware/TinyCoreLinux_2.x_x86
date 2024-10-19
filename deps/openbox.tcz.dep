@@ -1,0 +1,16 @@
+atk.tcz
+cairo.tcz
+expat2.tcz
+fontconfig.tcz
+glib2.tcz
+graphics-libs-1.tcz
+gtk2.tcz
+libglade.tcz
+libstartup-notification.tcz
+libxml2.tcz
+pango.tcz
+pixman.tcz
+ttf-bitstream-vera.tcz
+Xlibs_support.tcz
+libxcb.tcz
+libxcb-util.tcz

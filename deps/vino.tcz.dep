@@ -1,0 +1,11 @@
+gtk2.tcz
+libavahi.tcz
+GConf.tcz
+gnutls.tcz
+libsoup.tcz
+libgnome-keyring.tcz
+telepathy-glib.tcz
+libunique.tcz
+libnotify.tcz
+shared-mime-info.tcz
+Xorg-7.4.tcz

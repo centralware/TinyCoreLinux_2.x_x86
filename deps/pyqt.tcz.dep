@@ -1,0 +1,11 @@
+python.tcz
+sqlite3.tcz
+openssl-0.9.8m.tcz
+tcl_tk.tcz
+sip.tcz
+qt-4.5-base.tcz
+qt-4.5-xml.tcz
+glib2.tcz
+fontconfig.tcz
+expat2.tcz
+ 

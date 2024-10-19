@@ -1,0 +1,14 @@
+curl.tcz
+openssl-0.9.8m.tcz
+ogg-vorbis.tcz
+libasound.tcz
+hwmon-2.6.29.1-tinycore.tcz
+libpci.tcz
+alsa.tcz
+alsa-modules-2.6.29.1-tinycore.tcz
+input-2.6.29.1-tinycore.tcz
+bash.tcz
+pci-utils.tcz
+dialog.tcz
+alsa-config.tcz
+

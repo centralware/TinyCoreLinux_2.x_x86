@@ -1,0 +1,8 @@
+libgpg-error.tcz
+libgcrypt.tcz
+gnutls.tcz
+libtasn1.tcz
+libggz.tcz
+libgpg-error-dev.tcz
+libgcrypt-dev.tcz
+gnutls-dev.tcz

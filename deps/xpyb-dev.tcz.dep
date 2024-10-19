@@ -1,0 +1,11 @@
+libxcb-dev.tcz
+Xorg-7.4-dev.tcz
+expat2-dev.tcz
+openssl-0.9.8m-dev.tcz
+pixman-dev.tcz
+fontconfig-dev.tcz
+python-dev.tcz
+python.tcz
+sqlite3.tcz
+tcl_tk.tcz
+openssl-0.9.8m.tcz

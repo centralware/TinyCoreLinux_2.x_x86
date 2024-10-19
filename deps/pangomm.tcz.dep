@@ -1,0 +1,10 @@
+libsigc++.tcz
+glib2.tcz
+glibmm.tcz
+cairo.tcz
+cairomm.tcz
+expat2.tcz
+fontconfig.tcz
+pango.tcz
+pixman.tcz
+Xlibs_support.tcz

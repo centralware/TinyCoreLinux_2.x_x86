@@ -1,0 +1,11 @@
+qt-4.5-base.tcz
+qt-4.5-dbus.tcz
+glib2.tcz
+openssl-0.9.8m.tcz
+mysql.tcz
+perl5.tcz
+qt-4.5-sql.tcz
+qt-4.5-xml.tcz
+boost.tcz
+soprano.tcz
+clucene.tcz

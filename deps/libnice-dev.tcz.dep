@@ -1,0 +1,9 @@
+glib2-dev.tcz
+gstreamer-dev.tcz
+gst-plugins-base-dev.tcz
+gupnp-igd-dev.tcz
+gnutls-dev.tcz
+libgcrypt-dev.tcz
+libgpg-error-dev.tcz
+libsoup-dev.tcz
+libxml2-dev.tcz

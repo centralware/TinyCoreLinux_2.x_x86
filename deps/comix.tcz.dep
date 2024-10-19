@@ -1,0 +1,16 @@
+python.tcz
+gtk2.tcz
+pygobject.tcz
+glib2.tcz
+atk.tcz
+pango.tcz
+cairo.tcz
+pixman.tcz
+fontconfig.tcz
+expat2.tcz
+Xlibs_support.tcz
+pycairo.tcz
+pil.tcz
+shared-mime-info.tcz
+pygtk.tcz
+ 

@@ -1,0 +1,9 @@
+expat2.tcz
+fontconfig.tcz
+jack.tcz
+libasound.tcz
+qt-4.5-base.tcz
+qt-4.5-dbus.tcz
+qt-4.5-xml.tcz
+glib2.tcz
+openssl-0.9.8m.tcz

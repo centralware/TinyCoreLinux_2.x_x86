@@ -1,0 +1,14 @@
+openssl-0.9.8m.tcz
+gtk2.tcz
+atk.tcz
+cairo.tcz
+pango.tcz
+glib2.tcz
+fontconfig.tcz
+expat2.tcz
+libxml2.tcz
+graphics-libs-1.tcz
+pixman.tcz
+libstdc++-5.0.7.tcz
+Xlibs_support.tcz
+ 

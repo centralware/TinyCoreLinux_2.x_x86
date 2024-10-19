@@ -1,0 +1,13 @@
+file.tcz
+expat2.tcz
+glib2.tcz
+graphics-libs-1.tcz
+fontconfig.tcz
+gtk2.tcz
+atk.tcz
+cairo.tcz
+pango.tcz
+pixman.tcz
+Xlibs_support.tcz
+rsync.tcz
+ 

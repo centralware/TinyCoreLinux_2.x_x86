@@ -1,0 +1,11 @@
+libmad.tcz
+SDL.tcz
+expat2.tcz
+fontconfig.tcz
+qt-4.5-base.tcz
+ogg-vorbis.tcz
+pixman.tcz
+openssl-0.9.8m.tcz
+Xorg-7.4.tcz
+glib2.tcz
+
