@@ -1,0 +1,21 @@
+Title:          nbtscan.tcz
+Description:    NetBIOS Name Network Scanner
+Version:        1.5.1
+Author:         Alla Bezroutchko
+Original-site:  www.inetcat.net/software/nbtscan.html
+Copying-policy: GPL
+Size:           12K
+Extension_by:   bmarkus
+Comments:       Binary only
+                ----
+                Run without arguments to get help
+                ----
+                No dependencies, only base required
+                ----
+                Compiled for TC2.x
+                ----
+                PPI compatible
+Change-log:     2009/06/01 First version
+                2009/06/02 .tcz recreated using cramfs for smaller size
+                2009/09/15 Recompiled wit GCC 4.2.2
+Current:        2009/09/18 Converted to squashfs

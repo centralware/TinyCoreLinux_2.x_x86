@@ -1,0 +1,27 @@
+Title:          ndiswrapper.tcz
+Description:    ndiswrapper
+Version:        1.54
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 100KB
+Extension_by:   juanito
+Comments:       ndiswrapper for tc_2.x
+                ----------
+                Requires the perl5 and wireless_tools extensions
+                ----------
+                example howto:
+                $ sudo ndiswrapper -i /mnt/sda1/drivers/ndiswrapper/bcmwl5.inf
+                $ sudo ndiswrapper -l
+                $ sudo ndiswrapper -m
+                $ sudo modprobe ndiswrapper
+                ----------
+                Note: you can now make an extension out of everything in
+                .. /etc/ndiswrapper and use it with the ndiswrapper extension
+                ..to avoid having to use the perl5 extension
+                ----------
+                This extension contains:
+                ndiswrapper-1.54 - GPL - http://freefr.dl.sourceforge.net/sourceforge/ndiswrapper/ndiswrapper-1.54.tar.gz
+Change-log:     2009/03/13
+                Re-compiled for tc_2.x
+Current:        2009/06/19

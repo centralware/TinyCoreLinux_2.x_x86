@@ -1,0 +1,14 @@
+Title:		midori-locale.tcz
+Description:	Midori is a lightweight browser based on WebKit/GTK+.
+Version:	0.2.4
+Author:		Christian Dywan
+Original-site:	http://www.twotoasts.de/index.php?/pages/midori_summary.html
+Copying-policy:	LGPL-2.1
+Size:		536K
+Extension_by:	Arslan S., jls_legalize (unsenepopiu at tin dot it)
+Comments:	Midori locale version.
+				
+		This extension is PPI compatible.
+Change-log:	2009/12/23 First version by Arslan S.
+		2010/02/25 Updated to 0.2.3 by jls_legalize (unsenepopiu at tin dot it)
+Current:	2010/03/13 Updated to 0.2.4 (Arslan S.)

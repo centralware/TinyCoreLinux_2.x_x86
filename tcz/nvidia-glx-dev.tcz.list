@@ -1,0 +1,10 @@
+usr/local/include/nvidia-glx/GL/gl.h
+usr/local/include/nvidia-glx/GL/glext.h
+usr/local/include/nvidia-glx/GL/glx.h
+usr/local/include/nvidia-glx/GL/glxext.h
+usr/local/include/nvidia-glx/cuda/cuda.h
+usr/local/include/nvidia-glx/cuda/cudaGL.h
+usr/local/include/nvidia-glx/vdpau/vdpau.h
+usr/local/include/nvidia-glx/vdpau/vdpau_x11.h
+usr/local/lib/libGL.la
+usr/local/lib/libXvMCNVIDIA.a

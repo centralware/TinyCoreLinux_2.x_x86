@@ -1,0 +1,4 @@
+usr/local/lib/modules/2.6.29.1-tinycore/kernel/misc/ndiswrapper.ko
+usr/local/sbin/loadndisdriver
+usr/local/sbin/ndiswrapper
+usr/local/sbin/ndiswrapper-buginfo

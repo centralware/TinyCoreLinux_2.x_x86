@@ -1,0 +1,12 @@
+Title:          nilfs.tcz
+Description:    log-structured filesystem
+Version:        2.0.14 (module)/2.0.12 (utils)
+Author:         nilfs team
+Original-site:  http://www.nilfs.org/
+Copying-policy: GPL
+Size:		160K
+Extension_by:   SvOlli
+Comments:       contains kernel modules and userspace tools
+Change-log:     ----
+Current:	2009/06/12 first version (2.0.14/2.0.12)
+

@@ -1,0 +1,30 @@
+Title:		mupdf.tcz
+Description:	A small, lightweight PDF viewer
+Version:	0.6
+Author:		Artifex Software
+Original-site:	http://ccxvii.net/mupdf
+Copying-policy:	GPLv3
+Size:		4MB
+Extension_by:	peterc
+Comments:	MuPDF is a lightweight PDF viewer and toolkit written in 
+		portable C.
+
+		Manual:
+		Left click to pan, right click to select and copy text.
+		Hold down shift when scrolling to zoom. Your navigation
+		history is saved when following links, use 'T' to go
+		back.
+		
+		L, R		Rotate page in 90&deg; increments
+		+, -		Zoom in and out
+		W		Shrink wrap window
+		N, space	Next page
+		B, backspace	Previous page
+		Shift-N		Skip 10 pages forward
+		Shift-B		Skip 10 pages backward
+		M		Mark page for snap back
+		T		Pop back to last mark
+		123G		Go to page
+
+Change-log:	2010/07/03 Original
+Current:	2010/07/03 Original

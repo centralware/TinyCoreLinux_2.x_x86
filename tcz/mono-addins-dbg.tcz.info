@@ -1,0 +1,11 @@
+Title:          mono-addins-dbg.tcz
+Description:    A generic framework for creating extensible applications and libraries, debugging symbols.
+Version:        0.4.0
+Author:         Lluis Sanchez Gual
+Original-site:  http://www.mono-project.com/
+Copying-policy: MIT
+Size:		176K
+Extension_by:   Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/05/10 Original

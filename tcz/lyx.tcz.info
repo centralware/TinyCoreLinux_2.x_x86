@@ -1,0 +1,54 @@
+Title:          lyx.tcz
+Description:    LyX is a document processor.(TESTING)
+Version:        1.6.5
+Author:         LyX Team, see http://www.lyx.org/Credits
+Original-site:  http://www.lyx.org
+Copying-policy: GPLv2
+Size:		10M
+Extension_by:   Arslan S.
+Comments:       LyX combines the power and flexibility of TeX/LaTeX with the ease of 
+		use of a graphical interface. LyX needs a full TeX distribution to generate 
+		DVI,PDF,PS outputs. A full Tex Live installation takes about 2G disk space. 
+		So instead of an installation use iso/DVD option. 
+
+		To summarize things to do:
+		1) Mount texlive2008.iso (download 1.2G compressed image and decompress)
+		2) Run tl-portable (in base directory of iso)(you need perl5 extension)
+		3) Run lyx
+		4) Tools->Reconfigure then restart LyX to configure tex live installation properly.
+		   (This step may not be required if you are running LyX for the first time.)
+
+		Also you can install texlive on a persistent location such as i do
+		I have installed texlive on /home/tc/.local/TexLive2008 and added its bin path to ~/.profile
+
+		LyX needs more than Tex Live for full functionality.
+		Here are some suggested extensions:
+		Image converter --> ImageMagick, GraphicsMagick 		
+		Spell checker --> ispell, aspell
+		DVI viewer --> xdvi (available with TeX Live)
+		PDF viewer --> xpdf, epdfview or gsview
+		PS viewer --> gsview
+		
+		Note: Some conversions depend on gs.tcz and cups.tcz
+
+		For more information see:
+		http://www.lyx.org/AdditionalSoftware		
+
+		Note: Installing these programs is not enough usually. You have to specify
+		appropriate commands to invoke them in Tools->Preferences inside LyX.
+		
+		For example you installed GraphicsMagick as image converter
+		Go to Tools->Preferences->File Handling->Converters
+		add from PNG format to EPS format with command "gm convert $$i $$o"
+		For file viewers, Tools->Preferences->File Handling->File formats 
+		Choose a file format and enter the name of binary to textbox "Viewer"
+ 
+		Built without native language support(Gui is english only).
+		(Anyways nls does not work for some reason)
+		
+		This extension is PPI compatible.
+
+Change-log:     2009/10/29 First Version
+		-Added desktop and wbar menu entries
+		-International doc examples included
+Current:        2009/12/13 Updated to 1.6.5

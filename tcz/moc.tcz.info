@@ -1,0 +1,21 @@
+Title:          moc.tcz
+Description:    Console audio player
+Version:        2.4.4
+Author:         Damian Pietras
+Original-site:  http://moc.daper.net
+Copying-policy: GPL v2
+Size:           135k
+Extension_by:   bmarkus
+Comments:       Binaries only
+                ----
+                Plugins for:
+                mp3 vorbis flac sndfile ffmpeg
+                ----
+                Compiled for TC2.x
+                ----
+                PPI compatible
+Change-log:     2009/09/14 First version
+                2009/09/14 Changed from cramfs to squashfs
+Current:        2009/10/16 Recompiled to support more formats
+
+

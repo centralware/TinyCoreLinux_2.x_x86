@@ -1,0 +1,8 @@
+usr/local/bin/luajit-2.0.0-beta2
+usr/local/bin/luajit
+usr/local/share/luajit-2.0.0-beta2/jit/bc.lua
+usr/local/share/luajit-2.0.0-beta2/jit/v.lua
+usr/local/share/luajit-2.0.0-beta2/jit/dump.lua
+usr/local/share/luajit-2.0.0-beta2/jit/dis_x86.lua
+usr/local/share/luajit-2.0.0-beta2/jit/dis_x64.lua
+usr/local/share/luajit-2.0.0-beta2/jit/vmdef.lua

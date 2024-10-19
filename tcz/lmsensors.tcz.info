@@ -1,0 +1,18 @@
+Title:          lmsensors.tcz
+Description:    Support for detecting and reading sensors
+Version:        3.1.1
+Author:         Various
+Original-site:  http://www.lm-sensors.org
+Copying-policy: GPL
+Size:		112K
+Extension_by:   Curaga
+Comments:       1. sudo sensors-detect
+		2. sensors
+-
+		Perl is only required for sensors-detect and 
+		sensors-conf-convert. Libsensors (for other apps reading 
+		the sensors) and the provided apps work without.
+
+		Most common sensors are CPU temperature and fan speed.
+Change-log:     
+Current:        2009/09/13 Original

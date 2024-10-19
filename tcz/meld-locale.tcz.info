@@ -1,0 +1,15 @@
+Title:		meld-locale.tcz
+Description:	visual diff and merge tool locale files
+Version:		1.3.1
+Author:		Stephen Kennedy <steve9000@users.sourceforge.net>
+Original-site:	http://meld.sourceforge.net/
+Copying-policy:GPL/MIT
+Size:		268K
+Extension_by:	jls_legalize (unsenepopiu at tin dot it)	
+Comments:	locale files
+	                ------------------------
+        	        Dep file is recursive
+			----------------------------------------	
+			This extension is PPI compatible
+Change-log:	2009/10/26 First packging 1.3.1
+Current:		2010/03/28 Recompiled & Repackaged

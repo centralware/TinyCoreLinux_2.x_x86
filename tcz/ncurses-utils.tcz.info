@@ -1,0 +1,13 @@
+Title:          ncurses-utils.tcz
+Description:    Ncurses utilities.
+Version:        5.6
+Author:         Zeyd Ben-Halim, Eric S. Raymond, Thomas Dickey and Jurgen Pfeifer
+Original-site:  http://www.gnu.org/software/ncurses/
+Copying-policy: MIT
+Size: 356K
+Extension_by:   Jason W
+Comments:       This extension contains the ncurses commands that are not in base 
+		TC.  It uses the /usr/share/terminfo already in base.
+		Included commands are: clear, infocmp, tack, tic, toe, tput.
+Change-log:     
+Current:        2009/02/12 First version.

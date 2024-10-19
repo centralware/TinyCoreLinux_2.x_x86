@@ -1,0 +1,49 @@
+Title:          lirc.tcz
+Description:    Linux Infrared Remote Control
+Version:        0.8.6
+Author:         Karsten Scheibler & Christoph Bartelmus
+Original-site:  http://www.lirc.org
+Copying-policy: GPL
+Size:		256k
+Extension_by:   robc
+Comments:	A config file is needed for a remote/tv. The
+		default location of this file is /etc/lirc.conf.	
+		There are many remote/tv config files available 
+		at the lirc website. Otherwise use irrecord and 
+		follow the instructions.
+		Inluded modules:
+			lirc_atiusb
+			lirc_bt829
+			lirc_dev
+			lirc_ene0100
+			lirc_i2c
+			lirc_igorplugusb
+			lirc_imon
+			lirc_it87
+			lirc_ite8709
+			lirc_mceusb
+			lirc_sasem
+			lirc_serial
+			lirc_sir
+			lirc_streamzap
+			lirc_ttusbir
+			lirc_wpc8769l
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://www.lirc.org 
+		for more information.
+		
+		----------------------------------------------
+		
+		This extension is PPI compatible.
+		
+Change-log:     2009/03/26 Original
+		2009/05/12 Added all (not bttv) modules to /usr/local/lib/modules/
+		2009/06/10 Updated to version 0.8.5, rebuilt for TC 2.X
+		2009/06/18 Rebuilt with transmitter support
+		2009/10/08 Updated to version 0.8.6
+Current:	2009/10/12 corrected bug in /usr/local/tce.installed/lirc (jls_legalize)

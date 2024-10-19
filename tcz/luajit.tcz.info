@@ -1,0 +1,41 @@
+Title:          luajit.tcz (TESTING)
+Description:    Lua Just-In-Time Compiler
+Version:        2.0.0-beta2
+Author:         Mike Pall
+Original-site:  http://luajit.org/luajit.html
+Copying-policy: MIT License
+Size:           144.0K
+Extension_by:   vitex
+Comments:       From http://luajit.org/luajit.html:
+                
+                  LuaJIT implements the full set of language features 
+                  defined by Lua 5.1. The virtual machine (VM) is API- 
+                  and ABI-compatible to the standard Lua interpreter 
+                  and can be deployed as a drop-in replacement.
+
+                  LuaJIT offers more performance, at the expense of 
+                  portability. It currently runs on all popular 
+                  operating systems based on x86 CPUs (Linux, Windows, 
+                  OSX etc.). It will be ported to x64 CPUs and other 
+                  platforms in the future, based on user demand and 
+                  sponsoring. 
+
+                -----------------------------------------------------
+
+                This extension contains the LuaJIT compiler. See the
+                luajit-dev extension for the developmental files from 
+                the LuaJIT distribution.
+
+                This is a beta release of the higher-performance 
+                version 2 of LuaJIT. 
+
+                This extension was built with the TC-standard compiler
+                options "-march=i486 -mtune=i686 -Os -pipe".  LuaJIT
+                is designed for i686 or better, so performance is not 
+                optimal.  I have no way to verify that this version 
+                actually works on the i486 or i586 architectures.
+
+                -----------------------------------------------------
+
+Change-log:     ----------
+Current:	2010/01/01 First version

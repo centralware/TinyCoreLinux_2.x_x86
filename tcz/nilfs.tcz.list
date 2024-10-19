@@ -1,0 +1,17 @@
+usr/local/bin/chcp
+usr/local/bin/dumpseg
+usr/local/bin/lscp
+usr/local/bin/lssu
+usr/local/bin/mkcp
+usr/local/bin/rmcp
+usr/local/etc/nilfs_cleanerd.conf
+usr/local/lib/libnilfs.la
+usr/local/lib/libnilfs.so
+usr/local/lib/libnilfs.so.0
+usr/local/lib/libnilfs.so.0.0.0
+usr/local/lib/modules/2.6.29.1-tinycore/kernel/fs/nilfs/nilfs2.ko
+usr/local/sbin/mkfs.nilfs2
+usr/local/sbin/mount.nilfs2
+usr/local/sbin/nilfs_cleanerd
+usr/local/sbin/umount.nilfs2
+usr/local/tce.installed/nilfs

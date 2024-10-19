@@ -1,0 +1,11 @@
+Title:          mono-doc.tcz
+Description:    Cross platform, open source .NET framework, documentation files.
+Version:        2.6.3
+Author:         Miguel de Icaza, Paolo Molaro, Dietmar Maurer
+Original-site:  http://www.mono-project.com/
+Copying-policy: GPL-2, LGPL-2 and MIT
+Size:		7.7M
+Extension_by:   Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:  	2010/04/10 First Version
+Current:     	2010/04/18 Added init script to copy monodoc.xml to file system

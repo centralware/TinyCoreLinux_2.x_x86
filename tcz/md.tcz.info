@@ -1,0 +1,11 @@
+Title:          md.tcz
+Description:    md kernel modules for Linux Software RAID
+Version:        2.6.29.1-tinycore
+Author:         Various
+Original-site:  http://kernel.org/
+Copying-policy: GPL
+Size:           638K
+Extension_by:   N. Carigon
+Comments:       Source - http://distro.ibiblio.org/pub/linux/distributions/tinycorelinux/2.x/release/src/linux-2.6.29.1-patched.tar.bz2
+Change-log:     Initial version
+Current:        2009/05/12

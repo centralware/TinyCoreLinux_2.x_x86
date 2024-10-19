@@ -1,0 +1,11 @@
+Title:          mono-debugger.tcz
+Description:    Debugger for mono (TESTING).
+Version:        2.6.3
+Author:         Martin Baulig, Miguel de Icaza
+Original-site:  http://www.mono-project.com/
+Copying-policy: MIT X11
+Size:		1M
+Extension_by:   Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/05/12 Original

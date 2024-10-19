@@ -1,0 +1,12 @@
+Title:          mdadm.tcz
+Description:    A tool for managing Linux Software RAID arrays
+Version:        2.6.9
+Author:         Neil Brown
+Original-site:  http://neil.brown.name/blog/mdadm
+Copying-policy: GPL
+Size:           510K
+Extension_by:   N. Carigon
+Comments:       Requires - md.tcz
+                Source - http://www.kernel.org/pub/linux/utils/raid/mdadm/mdadm-2.6.9.tar.gz
+Change-log:     Initial version
+Current:        2009/05/12

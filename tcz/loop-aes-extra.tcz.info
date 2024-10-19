@@ -1,0 +1,14 @@
+Title:          loop-aes-extra.tcz
+Description:    Extra encryption modules for loop-aes
+Version:        3.2f
+Author:         Jari Ruusu
+Original-site:  http://loop-aes.sf.net
+Copying-policy: GPL
+Size:		20K
+Extension_by:   Curaga
+Comments:       The encryption modules for Serpent, Blowfish, and 
+		Twofish.
+.
+		PPI compatible
+Change-log:     
+Current:        2009/04/30 Original

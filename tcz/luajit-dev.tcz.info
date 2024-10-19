@@ -1,0 +1,36 @@
+Title:          luajit-dev.tcz (TESTING)
+Description:    Developmental files for luajit
+Version:        2.0.0-beta2
+Author:         Mike Pall
+Original-site:  http://luajit.org/luajit.html
+Copying-policy: MIT License
+Size:           284.0K
+Extension_by:   vitex
+Comments:       From http://luajit.org/luajit.html:
+                
+                  LuaJIT implements the full set of language features 
+                  defined by Lua 5.1. The virtual machine (VM) is API- 
+                  and ABI-compatible to the standard Lua interpreter 
+                  and can be deployed as a drop-in replacement.
+
+                  LuaJIT offers more performance, at the expense of 
+                  portability. It currently runs on all popular 
+                  operating systems based on x86 CPUs (Linux, Windows, 
+                  OSX etc.). It will be ported to x64 CPUs and other 
+                  platforms in the future, based on user demand and 
+                  sponsoring. 
+
+                -----------------------------------------------------
+
+                This extension contains the developmental files from
+                the LuaJIT distribution.  See the luajit extension
+                for the compiler.
+
+                These files are needed if the comparable ones from 
+                the lua extension are are not installed or if you 
+                wish to link against the LuaJIT libraries.
+
+                -----------------------------------------------------
+
+Change-log:     ----------
+Current:	2010/01/01 First version

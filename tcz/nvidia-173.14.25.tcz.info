@@ -1,0 +1,19 @@
+Title:          nvidia-173.14.25.tcz
+Description:    NVIDIA legacy drivers
+Version:        173.14
+Author:         NVIDIA Corporation
+Original-site:  http://www.nvidia.com 
+Copying-policy: Distributable
+Size: 		12.83MB
+Extension_by:   John Moorman
+Comments:       This is for older NVIDIA cards and depends on Xorg.  It works
+		for my 5700. If /etc/X11/xorg.conf does not exist it will be
+		created for you. If you already have an xorg.conf you can edit
+		it manually or run "sudo nvidia-xconfig" to generate nvidia
+		driver entries.  This extension will also add etc/X11/xorg.conf
+		to /opt/.filetool.lst if there is notalready a line containing
+		xorg.conf  
+Change-log:     2010/04/19 First version 173.14
+Current:	2010/04/19 First version 173.14
+
+

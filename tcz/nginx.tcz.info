@@ -1,0 +1,17 @@
+Title:          nginx.tcz
+Description:    High-performance HTTP server (TESTING)
+Version:        0.7.62
+Author:         Igor Sysoev
+Original-site:  http://nginx.net
+Copying-policy: See /usr/local/share/doc/nginx/LICENSE
+Size:           180K
+Extension_by:   bmarkus
+Comments:       Binaries only
+                ----
+                Compiled for TC2.x
+                ----
+                Compiled without SSL support
+                ----
+                PPI compatible
+Change-log:     ---
+Current:        2009/10/16 First version

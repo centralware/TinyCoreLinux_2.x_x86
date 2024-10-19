@@ -1,0 +1,7 @@
+glib2.tcz
+gtk2.tcz
+GConf.tcz
+libcanberra.tcz
+libxcb-util.tcz
+libstartup-notification.tcz
+zenity.tcz

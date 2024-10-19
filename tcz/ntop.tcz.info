@@ -1,0 +1,26 @@
+Title:          ntop.tcz
+Description:    Network Traffic Probe (TESTING)
+Version:        3.3.10
+Author:         Luca Deri
+Original-site:  http://www.ntop.org/
+Copying-policy: GPLv2
+Size:		5.5M
+Extension_by:   robc
+Comments:		This package requires rrdtool, cairo,
+		libxml2, expat2, graphics-libs-1, pixman,
+		fontconfig, pango, glib2, openssl-0.9.8h,
+		libevent, and libgdbm
+		
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://www.ntop.org/
+		for more information.
+		
+		----------------------------------------------
+		
+Change-log:     2009/08/12 Original
+Current:	2009/08/12 Original

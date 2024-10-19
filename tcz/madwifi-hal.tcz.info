@@ -1,0 +1,23 @@
+Title:          madwifi-hal.tcz
+Description:    Multimode Atheros Driver for WiFi on Linux
+Version:        0.10.5.6-r4068
+Author:         Sam Leffler
+Original-site:  http://madwifi-project.org/
+Copying-policy: GPL
+Size:		380K
+Extension_by:   N. Carigon
+Comments:       This software contains a Linux kernel driver for 
+                Atheros-based Wireless LAN devices.  The driver 
+                supports station, AP, ad-hoc, and monitor modes 
+                of operation.  The Atheros driver depends on a 
+                device-independent implementation of the 802.11 
+                protocols that originated in the BSD community 
+                (NetBSD in particular).  
+                
+                The driver functions as a normal network device 
+                and uses the Wireless Extensions API.  As such 
+                normal Linux tools can and should be used with 
+                it.  Where the wireless extensions are lacking 
+                private ioctls have been added.
+Change-log:     2009/08/22 Initial release
+Current:        2009/08/22

@@ -1,0 +1,17 @@
+Title:          mtd-2.6.29.1-tinycore.tcz
+Description:    MTD for 2.6.29.1-tinycore
+Version:        2.6.29.1-tinycore
+Author:         Various
+Original-site:  http://kernel.org
+Copying-policy: GPL
+Size:		292.0K
+Extension_by:   Curaga
+Comments:       Memory Technology Device support. Commonly used for 
+		flash chips without a chip in between (ie not for usb 
+		sticks). Can also be used to use otherwise unaccessible 
+		ram for storage or swap (ever wondered why your graphics 
+		card needs 2gb? it doesn't, use a part of it for swap :)
+
+		This extension is PPI compatible.
+Change-log:     
+Current:        2009/04/11 Original

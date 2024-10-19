@@ -1,0 +1,11 @@
+Title:          mono-basic-dbg.tcz
+Description:    Visual Basic Compiler and Runtime, debugging symbols (TESTING).
+Version:        2.6.2
+Author:         Rolf Bjarne Kvinge, Wade Berrier
+Original-site:  http://www.mono-project.com/
+Copying-policy: LGPL-2
+Size:		180K
+Extension_by:   Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/05/11 Original

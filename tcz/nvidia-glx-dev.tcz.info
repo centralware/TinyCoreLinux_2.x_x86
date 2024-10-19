@@ -1,0 +1,13 @@
+Title:          nvidia-glx-dev.tcz
+Description:    Dev files from NVIDIA Linux drivers package.(TESTING)
+Version:        190.53
+Author:         NVIDIA
+Original-site:  http://www.nvidia.com
+Copying-policy: Distributable
+Size: 		248K
+Extension_by:   Arslan S.
+Comments:      	This extension depends on Xorg.
+		
+		This extension is PPI compatible.
+Change-log:     ---
+Current:   	2010/01/15 Original

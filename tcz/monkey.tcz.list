@@ -1,0 +1,10 @@
+usr/local/bin/monkey
+usr/local/etc/init.d/banana
+usr/local/share/monkey/cgi-bin/test.pl
+usr/local/share/monkey/conf/modules.conf
+usr/local/share/monkey/conf/monkey.conf
+usr/local/share/monkey/conf/monkey.deny
+usr/local/share/monkey/conf/monkey.mime
+usr/local/share/monkey/htdocs/htdocs.tar.gz
+usr/local/tce.installed/monkey
+usr/local/tce.menu/monkey

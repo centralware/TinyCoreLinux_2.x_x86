@@ -1,0 +1,14 @@
+memcached.tcz
+   cyrus-sasl.tcz
+      openssl-0.9.8.tcz
+   libevent.tcz
+      python-2.6.tcz
+         sqlite3.tcz
+         openssl-0.9.8.tcz
+         tk.tcz
+            tcl.tcz
+            Xorg-7.5-lib.tcz
+            libxft.tcz
+               fontconfig.tcz
+                  expat2.tcz
+         bzip2-lib.tcz

@@ -1,0 +1,17 @@
+Title:          ncurses-lib-dev.tcz
+Description:    ncurses libraries not part of base TC system
+Version:        5.6
+Author:         Various
+Original-site:  http://invisible-island.net/ncurses/
+Copying-policy: MIT
+Size:           373K
+Extension_by:   bmarkus
+Comments:       libform, libmenu & libpanel
+                ----
+                Dev file
+                ----
+                Compiled for TC2.x
+                ----
+                PPI compatible
+Change-log:     ----
+Current:        2009/09/27 First version

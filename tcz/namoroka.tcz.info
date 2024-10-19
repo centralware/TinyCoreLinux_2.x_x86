@@ -1,0 +1,20 @@
+Title:          namoroka.tcz
+Description:    Unbranded Firefox web browser - custom build
+Version:        3.6.6
+Author:         The Mozilla Community
+Original-site:  www.mozilla.com/firefox/ 
+Copying-policy: MPL
+Size:		15M
+Extension_by:   Jason W
+Comments:       This is a custom build of Firefox.
+                Depends on gtk2 and it's deps.  This extension
+		conflicts with Minefield but not the official Firefox 
+		extension.  This is a fairly basic build with less
+		dependencies than the official Firefox.  The maximum 
+		cacne size is 20MB and the urlclassifier is disabled.
+                This extension is PPI compatible.
+Change-log:     2010/02/02	First version 3.6
+		2010/03/23 	Updated to 3.6.2
+		2010/04/05 	Updated to 3.6.3
+		2010/06/23 	Updated to 3.6.4
+Current:	2010/06/30	Updated to 3.6.6

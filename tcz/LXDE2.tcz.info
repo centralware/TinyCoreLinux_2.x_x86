@@ -1,0 +1,21 @@
+Title:          LXDE2.tcz
+Description:    LXDE meta extension with PCManFM2 (TESTING)
+Version:        0.3
+Author:         B. Markus
+Original-site:  No site, contact bmarkus@hasix.org
+Copying-policy: Free
+Size:           12k
+Extension_by:   bmarkus
+Comments:       LXDE packed with PCManFM2, the next generation file and desktop manager
+                ----
+                Binaries only
+                ----
+                Compiled for TC2.x
+                ----
+                PPI compatible
+                ----
+                Dep file is recursive
+Change-log:     2010/04/07 First version
+                2010/04/09 Dropped lxterminal dependency, configuration changes
+Current:        2010/04/29 Fixed menu://applications/ bug
+

@@ -1,0 +1,17 @@
+Title:          nss-nspr-dev.tcz
+Description:    Netscape Portable Runtime with Mozilla Network Security Services dev files
+Version:        nss: 3.12.4 nspr: 4.8.2
+Author:         The Mozilla Community
+Original-site:  http://www.mozilla.org/projects/security/pki/nss/
+		http://www.mozilla.org/projects/nspr/
+Copying-policy: MPL 1.1/GPL 2.0/LGPL
+Size: 1.1M
+Extension_by:   Jason W, Arslan S
+Comments:       ----
+Change-log:     2009/04/16 First version 3.11.7/4.6.7
+Current:   	2009/12/15 Updated nss to 3.12.4 and nspr to 4.8.2 (Arslan S)
+		-built with system sqlite
+		-added sqlite3.tcz as a dependency
+		-corrected pkgcofig files
+
+

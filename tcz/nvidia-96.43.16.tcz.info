@@ -1,0 +1,21 @@
+Title:          nvidia-96.43.16.tcz
+Description:    NVIDIA really legacy drivers
+Version:        96.43
+Author:         NVIDIA Corporation
+Original-site:  http://www.nvidia.com 
+Copying-policy: Distributable
+Size: 		9.43MB
+Extension_by:   John Moorman
+Comments:       This is for old NVIDIA cards and depends on Xorg.  It works
+		for my geforce 4 mx 440. If /etc/X11/xorg.conf does not exist it
+		will be created for you. If you already have an xorg.conf you
+		can edit it manually or run "sudo nvidia-xconfig" to generate
+		nvidia driver entries.  This extension will also add
+		etc/X11/xorg.conf to /opt/.filetool.lst if there is not already
+		a line containing xorg.conf.  In addition it will add the line
+		pointing to the tls directory to /etc/ld.so.conf and add
+		/etc/ld.so.conf to /opt/.filetool.lst.  
+Change-log:     2010/04/29 First version 96.43
+Current:	2010/04/29 First version 96.43
+
+
