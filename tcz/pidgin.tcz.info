@@ -1,0 +1,21 @@
+Title:		   pidgin.tcz
+Description:	   A multi-protocol instant messaging (IM) client
+Version:		   2.6.6
+Author:		   Sean Egan
+Original-site:	   http://pidgin.im/
+Copying-policy:GPL
+Size:		   3.1M
+Extension_by:   jls_legalize (unsenepopiu at tin dot it)
+Comments:	   voice & video work but don't use the audio & video call menu item,
+			   use audio call and video call menu items.
+			   The program is launched with LDPRELOAD... if libv4l is installed.
+			   I found that I could not always use voice/video so I added in the pidgin
+			   preferences this STUN server: stun.ekiga.net
+			   ----------------------------------------
+			   This extension is PPI compatible
+Change-log:	   2009/04/28 First Version by Róbinson J. Araújo
+			   2009/11/28 updated to 2.6.3
+			   2009/11/30 updated to 2.6.4
+			   2010/01/12 updated to 2.6.5
+			   2010/02/13 recompiled with voice & video support
+Current:		   2010/02/18 updated to 2.6.6

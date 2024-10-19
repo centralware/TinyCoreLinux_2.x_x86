@@ -1,0 +1,14 @@
+Title:          pycairo.tcz
+Description:    Python bindings for cairo 
+Version:        1.8.8
+Author:         The GNOME Project
+Original-site:  http://www.cairographics.org/pycairo
+Copying-policy: GPLv2
+Size: 31K
+Extension_by:   jls_legalize (unsenepopiu at tin dot it)
+Comments:       Pycairo is a set of Python bindings for 
+		the cairo graphics library.
+Changelog:      ------
+        	2009/03/25 Initial packaging
+Current:	2009/08/28 Upgraded to 1.8.8, built for python
+		2.6.2 by Jason W.

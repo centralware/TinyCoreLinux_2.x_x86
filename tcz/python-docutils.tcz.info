@@ -1,0 +1,19 @@
+Title:          python-docutils.tcz
+Description:    Docutils is an open-source text processing system written in python.
+Version:        snapshot /2009/12/23
+Author:         David Goodger
+Original-site:  http://docutils.sourceforge.net/
+Copying-policy: GPL-2/Python License 2.1.1/Some files public domain
+Size: 		464K
+Extension_by:   Arslan S.
+Comments:       Docutils is an open-source text processing system for processing 
+		plaintext documentation into useful formats, such as HTML or LaTeX. 
+		It includes reStructuredText, the easy to read, easy to use, 
+		what-you-see-is-what-you-get plaintext markup language.
+
+		TeX Live is recommended.
+		
+		This extension is PPI compatible.
+
+Change-log:     ---
+Current:   	2009/12/28 Original

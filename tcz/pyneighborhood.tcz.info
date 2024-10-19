@@ -1,0 +1,15 @@
+Title:		pyneighborhood.tcz
+Description:	GUI for SMB/CIFS     (TESTING)
+Version:	0.5.0
+Author:		Betz Stefan
+Original-site:	https://launchpad.net/pyneighborhood
+Copying-policy:	GPLv3
+Size:		112.0K
+Extension_by:	Kingdomcome
+Comments:	Depends on samba, pygtk, libglade, shared-mime-info,
+		filesystems-26.29.1-tinycore and deps.
+		
+		
+		This extension is PPI compatible
+Change-log:	----
+Current:	2010/01/05 First Version

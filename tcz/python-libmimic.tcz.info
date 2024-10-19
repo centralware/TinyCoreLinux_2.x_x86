@@ -1,0 +1,11 @@
+Title:          python-libmimic.tcz
+Description:    Python bindings for libmimic.
+Version:        1.0.4
+Author:		Ole Andre Vadla Ravnas
+Original-site:  http://sourceforge.net/projects/farsight/files/libmimic
+Copying-policy: Lesser GPL-2.1
+Size:		8.0K
+Extension_by:   Arslan S.
+Comments:       This extension is PPI compatible.
+Change-log:     ---
+Current:        2010/03/10 Original

@@ -1,0 +1,1 @@
+7c542423e6fca50b3a07f671b348458f  pyusb.tcz

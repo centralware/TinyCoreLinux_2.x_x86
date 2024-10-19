@@ -1,0 +1,11 @@
+Title:          policykit-gnome-dev.tcz
+Description:    D-Bus service to bring up authentication dialogs.
+Version:        0.96
+Author:         David Zeuthen 
+Original-site:  http://www.freedesktop.org/wiki/Software/PolicyKit
+Copying-policy: GNU Library GPL-2
+Size:           16K
+Extension_by:   Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:     ---
+Current:        2010/03/06 Original

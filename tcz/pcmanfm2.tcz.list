@@ -1,0 +1,6 @@
+usr/local/bin/pcmanfm2
+usr/local/share/applications/pcmanfm2.desktop
+usr/local/share/pcmanfm2/ui/about.ui
+usr/local/share/pcmanfm2/ui/autorun.ui
+usr/local/share/pcmanfm2/ui/desktop-pref.ui
+usr/local/share/pcmanfm2/ui/pref.ui

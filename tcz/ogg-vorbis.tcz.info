@@ -1,0 +1,15 @@
+Title:          ogg-vorbis.tcz
+Description:    Ogg Vorbis libraries and tools.
+Version:        1.2.0
+Author:         Xiphorus
+Original-site:  http://www.xiph.org/ogg/vorbis/
+Copying-policy: GPL
+Size: 1.9M
+Extension_by:   Jason W
+Comments:       Package contains:
+		libogg-1.1.3.tar.gz
+		libvorbis-1.2.0.tar.gz
+		libao-0.8.8.tar.gz
+		vorbis-tools-1.2.0.tar.gz
+Change-log:     2008/07/23 First version
+Current:        2009/01/10 Rebuilt for i486, size, cramfs.

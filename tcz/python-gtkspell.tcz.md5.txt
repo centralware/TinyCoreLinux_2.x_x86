@@ -1,0 +1,1 @@
+b98439d2be6aacaeb49c64c49f1d40d7  python-gtkspell.tcz

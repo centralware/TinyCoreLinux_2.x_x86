@@ -1,0 +1,20 @@
+Title:          obex.tcz
+Description:    openobex for tinycore
+Version:        1.4
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 772KB
+Extension_by:   juanito
+Comments:       openobex for tinycore
+                Requires bt.tcz and its dependencies or irda-utils.tcz and fuse for obexfs
+                ----------
+                This extension contains:
+                openobex-1.4 - GPLv2 - http://sourceforge.net/project/showfiles.php?group_id=8960&package_id=9047 openobex-1.4.tar.gz
+                obexftp-0.23 - GPLv2 - http://triq.net/obexftp/obexftp-0.23-alpha.tar.bz2
+                obexfs-0.11 - GPLv2 - http://triq.net/obexftp/obexfs-0.11.tar.gz
+Change-log:     2008/09/30
+                Updated obexftp -> 0.23-alpha
+                2008/10/08
+                Added libiconv (dependency)
+Current:        2008/10/23

@@ -1,0 +1,18 @@
+Title:          pangomm.tcz
+Description:    pangomm
+Version:        2.26.0
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 172KB
+Extension_by:   juanito
+Comments:       pangomm is the C++ interface for pango
+                ----------
+                requires the libsigc++, glib2, glibmm, cairo, cairomm, expat2, fontconfig,
+                pango, pixman and Xlibs_support extensions
+                ----------
+                This extension contains:
+                pangomm-2.26.0 - GPLv2.1 - http://ftp.acc.umu.se/pub/gnome/sources/pangomm/2.26/pangomm-2.26.0.tar.bz2
+Change-log:     2009/05/19
+                updated 2.14.1 -> 2.26.0
+Current:        2010/01/07

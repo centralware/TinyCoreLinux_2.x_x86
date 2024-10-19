@@ -1,0 +1,12 @@
+Title:          pygtksourceview.tcz
+Description:    Python bindings for gtksourceview.
+Version:        2.8.0
+Author:         Gian Mario Tagliaretti
+Original-site:  http://projects.gnome.org/gtksourceview/pygtksourceview.html
+Copying-policy: LGPL
+Size:		36K
+Extension_by:   Arslan S.
+Comments:       This extension has recursive deps.
+		This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/04/03 Original

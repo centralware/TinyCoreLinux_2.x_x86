@@ -1,0 +1,8 @@
+usr/local/include/polkit-gtk-1/polkitgtk/polkitgtk.h
+usr/local/include/polkit-gtk-1/polkitgtk/polkitgtktypes.h
+usr/local/include/polkit-gtk-1/polkitgtk/polkitlockbutton.h
+usr/local/lib/girepository-1.0/PolkitGtk-1.0.typelib
+usr/local/lib/libpolkit-gtk-1.a
+usr/local/lib/libpolkit-gtk-1.la
+usr/local/lib/pkgconfig/polkit-gtk-1.pc
+usr/local/share/gir-1.0/PolkitGtk-1.0.gir

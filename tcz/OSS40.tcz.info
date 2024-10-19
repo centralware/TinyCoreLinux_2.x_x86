@@ -1,0 +1,39 @@
+Title:          OSS40.tcz
+Description:    Open Sound System 4.0 for 2.6.29.1-tinycore
+Version:        build 1016
+Author:         4Front Technologies
+Original-site:  http://www.opensound.com
+Copying-policy: GPL
+Size:		3.9M
+Extension_by:   u54749
+Comments:       This is a really awesome application that does many 
+		different things I think the Core community will benefit 
+		from :)
+
+		This is an older version of OSS (v4.0) compiled from source.
+		The current version (v4.1) seems to have issues with some 
+		audio chipsets notably with the Crystal CS4xxx series.  Use
+		this extension only if OSS.tcem doesn't work for you.
+-
+		The command to start OSS 4.0 is "sudo soundon".
+		To test OSS use command "osstest"
+-
+		The optional GUI mixer depends on GTK2; the 
+		command-line mixer, ossmix, works in all systems.
+-
+		All apps coming with OSS4 included, some of them:
+		ossplay		Wave player
+		ossrecord	Wave recorder
+		ossmix		Console mixer
+		ossxmix		GTK2 mixer
+		osstest		A sound test
+		ossinfo		Displays information about your sound
+-
+		Detected hardware and saved volume settings are in 
+		/usr/lib/oss/etc, so you might want to add that to your 
+		backup.
+-
+		Note: to compile apps that use OSS, no need to have OSS 
+		loaded. The header file is in compiletc.
+Change-log:     
+Current:	2008/08/09 Original 4.0 for 2.6.29.1-tinycore

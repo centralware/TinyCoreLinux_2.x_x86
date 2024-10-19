@@ -1,0 +1,9 @@
+usr/local/lib/libslp.so.1.0.1
+usr/local/lib/libslp.so
+usr/local/lib/libslp.so.1
+usr/local/bin/slptool
+usr/local/share/doc/openslp/COPYING
+usr/local/etc/slp.spi
+usr/local/etc/slp.reg
+usr/local/etc/slp.conf
+usr/local/sbin/slpd

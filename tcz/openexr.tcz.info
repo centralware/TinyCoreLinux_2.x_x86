@@ -1,0 +1,19 @@
+Title:          libopenexr.tcz
+Description:    hdr image file format
+Version:        1.6.1
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 416KB
+Extension_by:   juanito
+Comments:       a high dynamic-range (HDR) image file format developed by..
+                Industrial Light & Magic for use in computer imaging applications.
+                ----------
+                requires the ilmbase extension
+                can be used by the gegl extension
+                ----------
+                This extension contains:
+                openexr-1.6.1 - (c) 2006, Industrial Light & Magic - http://download.savannah.nongnu.org/releases/openexr/openexr-1.6.1.tar.gz
+                ----------
+Change-log:     first release
+Current:        2009/09/28

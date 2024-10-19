@@ -1,0 +1,12 @@
+Title:		ORBit2-dev.tcz
+Description:	ORBit2 dev files.
+Version:	2-14.17
+Author: 	GNOME Maintainers Team	
+Original-site:	http://projects.gnome.org/ORBit2/
+Copying-Policy:	GPL-2,GNU Library GPL-2 
+Extension_by:	jpeters, Arslan S. 
+Comments:       This extension is PPI compatible.
+Size:		452K		
+Change-log:     2009/05/25
+Current:	2010/01/27 Rebuilt & separated dev (Arslan S.)
+

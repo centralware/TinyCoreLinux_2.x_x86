@@ -1,0 +1,11 @@
+Title:		open-vm-tools-dev.tcz
+Description:	The open source VMware tools
+Version:	2009.11.16-210370
+Author:		VMware.com <info@vmware.com>
+Original-site:	http://open-vm-tools.sourceforge.net/
+Copying-policy:	LGPL
+Size:		200K
+Extension_by:	Daniel Barnes
+Comments:	This extension is PPI compatible.
+Change-log:	
+Current:	2009/12/01 Initial release

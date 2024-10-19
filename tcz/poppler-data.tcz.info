@@ -1,0 +1,12 @@
+Title:          poppler-data.tcz
+Description:    Poppler encoding data.
+Version:        0.4.0
+Author:         Kristian Hogsberg, Derek Noonburg, Albert Astals Cid
+Original-site:  poppler.freedesktop.org/
+Copying-policy: GPL/Adobe
+Size: 3.9M
+Extension_by:   Jason W, Arslan S.
+Comments:       This extension is PPI compatible.
+Change-log:     2008/10/22 First version 0.2.1
+Current:        2010/02/21 Updated to 0.4.0 (Arslan S.)
+

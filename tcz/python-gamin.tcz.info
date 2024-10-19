@@ -1,0 +1,11 @@
+Title:          python-gamin.tcz
+Description:    Python bindings of gamin.
+Version:        0.1.10
+Author:         Daniel Veillard
+Original-site:  http://www.gnome.org/~veillard/gamin/
+Copying-policy: GPL-2
+Size:		12K
+Extension_by:   Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:     ---
+Current:	2010/03/09 Original

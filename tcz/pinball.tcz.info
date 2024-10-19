@@ -1,0 +1,23 @@
+Title:          pinball.tcz
+Description:    Emilia Pinball game.(TESTING)
+Version:        0.3.1
+Author:         Henrik Enqvist
+Original-site:  http://pinball.sourceforge.net/
+Copying-policy: GPLv2
+Size:		4.6M
+Extension_by:   Arslan S.
+Comments:       The Emilia Pinball project is an open source pinball simulator
+		intended for linux machines by Henrik Enqvist.
+
+		If you want your scores persistent add "var/games/pinball"
+		to your backup list in /opt/.filetool.list
+
+		You need OSS or ALSA for sound.
+
+		This extesion depends on Xorg.
+
+		3D hardware acceleration is recommended.
+
+		This extension is PPI compatible.
+Change-log:     ---
+Current:        2009/12/8 Original

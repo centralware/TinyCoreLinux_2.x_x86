@@ -1,0 +1,19 @@
+Title:          pyusb.tcz
+Description:    USB access extension module
+Version:        0.4.2
+Author:         Wander Lairson Costa
+Original-site:  http://pyusb.berlios.de
+Copying-policy: BSD
+Size:           16k
+Extension_by:   bmarkus
+Comments:       Binaries only
+                ----
+                Compiled for TC2.x
+                ----
+                PPI compatible
+                ----
+                Dep file is recursive
+Change-log:     2010/03/03 First version
+Current:        2010/03/22 Dep file converted to recursive
+
+

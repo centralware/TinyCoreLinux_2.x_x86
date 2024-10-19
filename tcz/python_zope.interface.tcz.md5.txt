@@ -1,0 +1,1 @@
+8258103f7e00b61a0b44237b93620700  python_zope.interface.tcz

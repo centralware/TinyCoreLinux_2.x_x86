@@ -1,0 +1,4 @@
+usr/local/lib/libslp.la
+usr/local/lib/libslp.a
+usr/local/share/doc/openslp-dev/COPYING
+usr/local/include/slp.h

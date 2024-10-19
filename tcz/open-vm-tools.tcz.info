@@ -1,0 +1,15 @@
+Title:		open-vm-tools.tcz
+Description:	The open source VMware tools
+Version:	2009.11.16-210370
+Author:		VMware.com <info@vmware.com>
+Original-site:	http://open-vm-tools.sourceforge.net/
+Copying-policy:	LGPL
+Size:		364K
+Extension_by:	Daniel Barnes
+Comments:	Use the "nodhcp" boot parameter when loading this extension.
+		Run /usr/local/bin/open-vm-tools-init to load modules and
+		vmtoolsd. If ethtool is present, GSO will be enabled.
+		This extension is PPI compatible.
+Change-log:	2009/07/19 Initial release
+Current:	2009/12/01 Update to current version, remove dependencies,
+		and split out -dev and -modules.

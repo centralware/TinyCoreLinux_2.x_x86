@@ -1,0 +1,12 @@
+Title:          projectM.tcz
+Description:    An OpenGL based advanced music visualization program for Linux.
+Version:        2.0.1
+Author:         projectM Team
+Original-site:  http://sourceforge.net/projects/projectm/
+Copying-policy: GNU Lesser GPL-2.1
+Size:		908K
+Extension_by:   Arslan S.
+Comments:	This extension depends on Xorg.
+		This extension is PPI compatible.
+Change-log:     ---
+Current:   	2010/04/05 Original

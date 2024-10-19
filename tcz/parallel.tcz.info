@@ -1,0 +1,10 @@
+Title:		parallel.tcz
+Description:	GNU Parallel
+Version:	20100620
+Author:		Ole Tange
+Original-site:	http://www.gnu.org/software/parallel
+Copying-policy:	GPL
+Size:		36.0K
+Extension_by:	Daniel Barnes
+Comments:	Same usage as xargs but executes commands in parallel
+Current:	2010/07/16 - Initial release

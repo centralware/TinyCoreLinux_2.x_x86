@@ -1,0 +1,12 @@
+Title:          python-gtkglext.tcz
+Description:    Python Bindings for GtkGLExt.
+Version:        1.1.0
+Author:         Naofumi Yasufuku, Alif Wahid
+Original-site:  http://projects.gnome.org/gtkglext
+Copying-policy: LGPL
+Size:		52K
+Extension_by:   Arslan S.
+Comments:       This extension has recursive deps.
+		This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/03/22 Original

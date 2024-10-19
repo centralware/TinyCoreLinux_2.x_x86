@@ -1,0 +1,11 @@
+Title:          poppler-qt4-dev.tcz
+Description:    Qt4 interface to Poppler.
+Version:        0.12.3
+Author:         Kristian Hogsberg, Derek Noonburg, Albert Astals Cid
+Original-site:  poppler.freedesktop.org/
+Copying-policy: GPL
+Size: 		208K
+Extension_by:   Arslan S.
+Comments:       This extension is PPI compatible.
+Change-log:     ----
+Current:	2010/02/21 Original 0.12.3

@@ -1,0 +1,11 @@
+Title:          protobuf-python.tcz
+Description:    Protocol buffers C++ library, python bindings.
+Version:        2.3.0
+Author:         various
+Original-site:  http://code.google.com/p/protobuf/
+Copying-policy: BSD
+Size:		156K
+Extension_by:   Arslan S.
+Comments:       This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/05/17 Original

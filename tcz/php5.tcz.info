@@ -1,0 +1,72 @@
+Title:          php5.tcz
+Description:    PHP with cgi/fcgi (TESTING)
+Version:        5.3.1
+Author:         various (http://www.php.net/credits.php)
+Original-site:  http://www.php.net/
+Copying-policy: PHP Liscense v3.01 (http://www.php.net/license/3_01.txt)
+Size:		5.9M
+Extension_by:   robc
+Comments:	This package requires libxslt, libxml2, mysql,
+		perl5, libmcrypt, libgmp, bsddb, libgdbm, curl,
+		and openssl-0.9.8h.
+		
+		Other extensions may be needed for additional
+		functionality. ie libmhash, gettext
+		
+		8291/8353 tests passed, 99.3% pass rate.
+		
+		The php.ini configuration file is found in
+		/usr/local/lib. This file can be editted to
+		change the runtime options.
+		
+		Can be used with apache2 or lighttpd for a
+		HTTP/PHP server (probably others too).
+		
+		For lighttpd (from lighttpd wiki):
+			make sure mod_fastcgi is loaded in your lighttpd.conf:
+				server.modules = (
+					"mod_fastcgi",
+					)
+				 
+			Then add this basic section to the same file:
+				fastcgi.server = ( ".php" => (( 
+					"bin-path" => "/usr/local/bin/php-cgi",
+					"socket" => "/tmp/php.socket" 
+					)))
+			
+			Other server modules that may be needed:
+				mod_auth
+				mod_access
+				mod_accesslog
+				mod_rewrite
+		
+		
+		For apache2:
+			Make sure cgi.force_redirect = 0 in php.ini.
+			The following, or similar, must be included 
+			in the httpd.conf file:
+				ScriptAlias /cgi-bin/ "/usr/local/cgi-bin/"
+				AddHandler cgi-script .php
+				Action cgi-script "/usr/local/bin/php-cgi"
+			The ExecCGI option must be enabled for the
+			HTTP server's root directory (htdocs).
+		
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://www.php.net/
+		for more information.
+		
+		----------------------------------------------
+		
+Change-log:     2009/5/20 Original
+		2009/6/2  Rebuilt for TC2.x and with pcre support
+		2009/7/6  Updated to version 5.3.0, included mcrypt support
+		2009/7/8  Rebuilt without Apache module and with cgi/fcgi, mhash, and openssl
+		2009/11/20 Updated to v5.3.1, added support for gd, gdbm, db4, mysql, 
+			gettext, gmp, dropped apache2 module
+Current:	2009/11/20 Updated to v5.3.1, added support for gd, gdbm, db4, mysql, 
+			gettext, gmp, dropped apache2 module

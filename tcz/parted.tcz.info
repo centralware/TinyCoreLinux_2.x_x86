@@ -1,0 +1,13 @@
+Title:          parted.tcz
+Description:    GNU Partition Editor
+Version:        2.1
+Author:         Various
+Original-site:  http://gnu.org/software/parted
+Copying-policy: GPL
+Size:		520KB
+Extension_by:   Curaga
+Comments:       This is the command-line partition editor capable of for 
+		example resizing, moving and copying of partitions.
+Change-log:     2009/04/28 Original
+                updated 1.8.8 -> 2.1 (juanito)
+Current:        2010/01/07

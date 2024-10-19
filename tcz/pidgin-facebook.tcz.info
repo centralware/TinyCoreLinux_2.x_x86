@@ -1,0 +1,15 @@
+Title:		pidgin-facebook.tcz
+Description:	Facebook Chat plugin for Pidgin
+Version:		1.65
+Author:		Eion Robb, Casey Ho and Mark Doliner
+Original-site:	http://code.google.com/p/pidgin-facebookchat/
+Copying-policy:GPLv3
+Size:		56K
+Extension_by:	jls_legalize (unsenepopiu at tin dot it)
+Comments:	
+			This extension is PPI compatible
+Change-log:	2009/05/25 Initial packaging
+			2009/11/11 updated to 1.62 and added json-gilb dep
+			2009/12/04 updated 2 1.63
+			2010/02/05 updated 2 1.64
+Current:	2010/03/07 updated 2 1.65

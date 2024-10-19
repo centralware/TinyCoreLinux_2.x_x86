@@ -1,0 +1,17 @@
+Title:          parole-locale.tcz
+Description:    Parole is a media player based on gstreamer.(TESTING)
+Version:        0.2
+Author:         Ali Abdallah
+Original-site:  http://goodies.xfce.org/projects/applications/parole
+Copying-policy: GPL-2
+Size: 		104K
+Extension_by:   Arslan S.
+Comments:       parole is the new media player of the xfce desktop platform.
+
+		Available plugins: tray-icon, window-title, power-manager, stream-properties
+
+		WARNING! THIS EXTENSION IS FOR XFCE4 DESKTOP ONLY.
+		
+		This extension is PPI compatible.
+Change-log:     2009/12/28 Original
+Current:   	2010/01/10 Updated to 0.2

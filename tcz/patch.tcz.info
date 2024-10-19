@@ -1,0 +1,16 @@
+Title:          patch.tcz
+Description:    patch for tc_2.X
+Version:        2.5.9
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 40KB
+Extension_by:   juanito
+Comments:       patch for tinycore_2.x
+                For use with the gcc extension
+                ----------
+                This extension contains:
+                patch-2.5.9 - GPLv2 - ftp://alpha.gnu.org/gnu/diffutils/patch-2.5.9.tar.gz
+                ----------
+Change-log:     First version
+Current:        2009/04/17

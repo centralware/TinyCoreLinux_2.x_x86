@@ -1,0 +1,15 @@
+Title:          policykit.tcz
+Description:    PolicyKit is an application-level toolkit.(TESTING)
+Version:        0.96
+Author:         Various
+Original-site:  http://www.freedesktop.org/wiki/Software/PolicyKit
+Copying-policy: GNU Library GPL-2
+Size:           208K
+Extension_by:   Arslan S.
+Comments:	PolicyKit is an application-level toolkit for defining 
+		and handling the policy that allows unprivileged processes 
+		to speak to privileged processes.
+		
+		This extension is PPI compatible.
+Change-log:     2010/02/12 Original
+Current:        2010/02/15 Fixed permissions on pkexec & polkit-agent-helper-1

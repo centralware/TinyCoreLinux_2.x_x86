@@ -1,0 +1,20 @@
+Title:          openbox.tcz
+Description:    OpenBox Window Manager
+Version:        3.4.8rc2
+Original-site:  http://icculus.org/openbox/releases/openbox-3.4.8-stef_204.tar.gz
+		http://repository.slacky.eu/slackware-12.2/desktop/obconf/2.0.3/src/
+Copying-policy: GNU GPL2
+Size:		357K
+Extension_by:   junan
+Comments:       Requires Tiny Core v2.x, Xlibs_support, 
+		libstartup-notification, pango, fontconfig, libxml2, 
+		glib2, expat2, gtk2 and libglade
+                
+		Optional to use boot code desktop=openbox
+Change-log:
+                2009/06/23 Original
+		2009/07/23 Update to 3.4.8rc2
+                2009/08/31 Added startup script for automatic desktop detection.
+                2009/10/04 Fixed permission error on ~/.config
+       	 	2009/10/04 Updated openbox_initmenu to use cp -rL to handle tcz
+Current:	2009/11/18 Altered startup script to allow for LXDE.

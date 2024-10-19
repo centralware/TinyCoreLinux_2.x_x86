@@ -1,0 +1,13 @@
+Title:          postfix.tcz
+Description:    MTA
+Version:        2.6.5
+Author:         Wietse Venema
+Original-site:  http://www.postfix.org
+Copying-policy: IBM Public License
+Size:           8.1M
+Extension_by:   Joan Batet
+Comments:       ----------
+                This extension is PPI compatible
+
+Change-log:     2009/11/11 First version
+Current:        2009/12/01 Rebuilt against bsddb.tcz

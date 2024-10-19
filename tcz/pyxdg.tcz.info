@@ -1,0 +1,15 @@
+Title:          pyxdg.tcz
+Description:    PyXDG is a python library to access freedesktop.org standards.(TESTING)
+Version:        0.18
+Author:         Heinrich Wendel, Sergey Kuleshov
+Original-site:  http://www.freedesktop.org/wiki/Software/pyxdg
+Copying-policy: LGPL-2
+Size: 		56K
+Extension_by:   Arslan S.
+Comments:	This extension is for freedesktop platforms only.
+
+		Supports Xfce4. 
+
+		This extension is PPI compatible.
+Change-log:     ---
+Current:   	2009/12/28 Original
