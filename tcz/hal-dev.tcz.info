@@ -1,0 +1,25 @@
+Title:          hal-dev.tcz
+Description:    Hardware Abstraction Layer
+Version:        0.5.13
+Author:         Kay Sievers, Sjoerd Simons, Joe Shaw, David Zeuthen
+Original-site:  http://www.freedesktop.org/Software/hal
+Copying-policy: Academic Free License v2.1 or GPL v2
+Size:           131k
+Extension_by:   bmarkus
+Comments:       Dev files
+                ----
+                Compiled for TC2.x
+                ----
+                Running on TC/MC prior 2.6 requires hal_support.tczl
+                ----
+                PPI compatible
+                ----
+                Dep file is recursive
+                ----
+                To start service run 'hal-start' as root
+Change-log:     2009/07/29 First version
+                2009/08/03 Supporting libraries added, .dep corrected
+                2009/08/05 libblkid & libuuid removed
+                2009/10/06 Adapted to current TC environment
+                2009/11/27 Dependency list changed
+Current:        2010/04/02 Dependency list converted to recursive

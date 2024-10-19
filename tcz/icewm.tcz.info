@@ -1,0 +1,15 @@
+Title:          icewm.tcz
+Description:    IceWM is a window manager for the X Window System.
+Version:        1.2.37
+Author:         Marko Macek, Mathias Hasselmann
+Original-site:  http://www.icewm.org/
+Copying-policy: LGPL
+Size: 428K
+Extension_by:   Jason W
+Comments:       Needs fontconfig and expat2.
+Change-log:     ----
+  		2009/06/07 First version
+		2009/06/26 Patched for menu function and fixed icewm_initmenu.
+			   Reduced dependencies.
+Current: 	2009/11/08 Rebuilt with themes menu included.
+

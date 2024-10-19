@@ -1,0 +1,12 @@
+Title:          jack-ffado-doc.tcz
+Description:    Jack Audio Connection Kit - Jack2 (firewire backend)
+Version:        1.9.6 (svn rev. 4035)
+Author:         Stephane Letz
+Original-site:  http://jackaudio.org/
+Copying-policy: GPL
+Size:		16.0K
+Extension_by:   hiro
+Comments:	
+		This extension is PPI compatible.
+Change-log:	----
+Current:	2010/07/15 Initial Version

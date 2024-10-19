@@ -1,0 +1,29 @@
+Title:          keepalived.tcz
+Description:    Keepalived - LVS Healthcheck & Failover Daemon
+Version:        1.1.19
+Author:         Alexander Larsson
+Original-site:  http://www.linux-vs.org
+Copying-policy: GPL
+Size:           20KB
+Extension_by:   evofx
+Comments:       Depends on ipvs-2.6.29.1-tinycore.
+                iptables is optional and is required for certain failover setups.
+
+                This extension is PPI Compatible.
+                Just add /usr/local/etc/keepalived/keepalived.conf into your /opt/.filetool.lst
+
+                Keepalived is a userspace daemon for LVS cluster nodes healthchecks and 
+                LVS directors failover. Layer 4 load balancing is included via ipvs kernel module.
+
+                It adds strong & robust keepalive facility to the Linux Virtual Server 
+                project by implementing a framework based on three family checks : 
+                Layer3, Layer4 & Layer5/7. 
+
+                When one of the server of the LVS server pool is down, keepalived informs the 
+                linux kernel via a setsockopt call to remove this server entrie from the LVS topology. 
+
+                In addition keepalived implements an independent VRRPv2 stack to handle director 
+                failover.
+
+Change-log:     2009/10/16 Original
+Current:        2009/10/16 Original

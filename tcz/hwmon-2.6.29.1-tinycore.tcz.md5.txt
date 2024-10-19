@@ -1,0 +1,1 @@
+977e094eea61fd880c695c6364e1317f  hwmon-2.6.29.1-tinycore.tcz

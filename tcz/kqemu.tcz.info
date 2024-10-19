@@ -1,0 +1,16 @@
+Title:		kqemu.tcz
+Description:	QEMU Accelerator(TESTING)
+Version:	1.4.0pre1
+Author:		Fabrice Bellard
+Original-site:	http://www.qemu.org/
+Copying-policy:	GNU General Public license version 2.
+Size:		60K
+Extension_by:	jls_legalize (unsenepopiu at tin.it)
+Comments:	sudo modprobe kqemu
+		sudo qemu -kernel-kqemu .....
+-
+		Kqemu is not supported in Qemu 0.12. Use 0.10.
+-
+		This extension is PPI compatible
+Change-log:	----
+Current:	2009/10/30 First Version

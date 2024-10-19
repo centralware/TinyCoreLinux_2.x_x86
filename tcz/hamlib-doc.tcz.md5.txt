@@ -1,0 +1,1 @@
+42e80a9dc999f49dcaf131c02f0281cc  hamlib-doc.tcz

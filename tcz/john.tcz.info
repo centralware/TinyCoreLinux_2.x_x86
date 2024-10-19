@@ -1,0 +1,17 @@
+Title:          john.tcz
+Description:    Fast password cracker
+Version:        1.7.3.1
+Author:         Various
+Original-site:  http://www.openwall.com/john/
+Copying-policy: GPL v2
+Size:           786k
+Extension_by:   bmarkus 
+Comments:	Compiled for TC2.x
+                ----
+		For more info see /usr/local/doc/john
+		----
+		PPI compatible
+Change-log:   	----
+Current:   	2009/09/08 First version
+
+

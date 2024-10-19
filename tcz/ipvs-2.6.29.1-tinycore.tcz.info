@@ -1,0 +1,17 @@
+Title:          ipvs-2.6.29.1-tinycore.tcz
+Description:    IPVS Kernel Module for 2.6.29.1-tinycore
+Version:        2.6.29.1-tinycore
+Author:         Various  
+Original-site:  http://kernel.org
+Copying-policy: GPL
+Size:           32KB
+Extension_by:   evofx
+Comments:       This extension is PPI Compatible.
+
+                IPVS (IP Virtual Server) implements transport-layer load balancing inside the 
+                Linux kernel, so called Layer-4 switching.
+
+                Part of the Linux Virtual Server project.
+
+Change-log:     2009/10/16 Original
+Current:        2009/10/16 Original

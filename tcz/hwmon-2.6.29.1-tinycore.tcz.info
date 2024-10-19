@@ -1,0 +1,13 @@
+Title:          hwmon-2.6.29.1-tinycore.tcz
+Description:    Hardware monitoring-i2c for 2.6.29.1-tinycore
+Version:        2.6.29.1-tinycore
+Author:         Various
+Original-site:  http://kernel.org
+Copying-policy: GPL
+Size:		496.0K
+Extension_by:   Curaga
+Comments:       Hardware monitoring and i2c support.
+
+		This extension is PPI compatible.
+Change-log:     
+Current:        2009/04/11 Original

@@ -1,0 +1,21 @@
+Title:          inkscape.tcz
+Description:    Inkscape vector graphics
+Version:        SVN r20557 (0.46 + fixes)
+Author:         Various
+Original-site:  http://inkscape.org
+Copying-policy: GPL
+Size:		10.6M
+Extension_by:   Curaga
+Comments:       The latest Inkscape for all your vector needs.
+-
+		Unless you need some new features, using the much
+		smaller Inkscape Lite is recommended.
+-
+		For some of the extensions and plugins, you need
+		both perl and python (in addition to other deps!).
+		Latex, GIMP, etc. plugins depend on their respective
+		programs.
+-
+Change-log:     2009/01/24 Original
+		2009/02/26 Added libgomp
+Current:        2010/02/04 Removed libgomp, added gcc_libs as a dep, edited startup script

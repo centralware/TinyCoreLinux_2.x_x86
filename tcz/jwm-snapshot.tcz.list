@@ -1,0 +1,12 @@
+etc/skel/.jwmrc
+etc/skel/.jwmrc-keys
+etc/skel/.jwmrc-theme
+etc/skel/.jwmrc-tray
+opt/jwmThemes/default.thm
+usr/bin/jwm
+usr/bin/jwm_initmenu
+usr/bin/jwm_makemenu
+usr/bin/jwm_restart
+usr/bin/watcher
+usr/local/tce.installed/jwm-snapshot
+usr/share/jwm/tce/menu_template

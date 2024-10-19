@@ -1,0 +1,12 @@
+Title:          jack.tcz
+Description:    Jack Audio Connection Kit - Jack2
+Version:        1.9.4
+Author:         Stephane Letz
+Original-site:  http://www.grame.fr/~letz
+Copying-policy: GPL
+Size:           728.0K
+Extension_by:   helander
+Comments:	
+		This extension is PPI compatible.
+Change-log:	----
+Current:	2010/01/15 Initial Version

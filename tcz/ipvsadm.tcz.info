@@ -1,0 +1,19 @@
+Title:          ipvsadm.tcz
+Description:    IPVS Admin Tool
+Version:        1.25
+Author:         Wensong Zhang
+Original-site:  http://www.linux-vs.org
+Copying-policy: GPL
+Size:           20KB
+Extension_by:   evofx
+Comments:       Depends on ipvs-2.6.29.1-tinycore and libnl.
+
+                This extension is PPI Compatible.
+
+                IPVS (IP Virtual Server) implements transport-layer load balancing inside the 
+                Linux kernel, so called Layer-4 switching.
+
+                Part of the Linux Virtual Server project.
+
+Change-log:     2009/10/16 Original
+Current:        2009/10/16 Original

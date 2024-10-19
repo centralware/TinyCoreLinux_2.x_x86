@@ -1,0 +1,15 @@
+Title:          keepassx.tcz
+Description:    KeePassX is a multi-platform open source password manager.
+Version:        0.4.0-r3
+Author:         KeePassX Team
+Original-site:  http://www.keepassx.org/
+Copying-policy: Public Domain
+Size: 		904.5 KB
+Extension_by:   Xianwen Chen
+Comments:       ----
+Change-log:     2009/01/20 0.3.1-r1 
+		2009/01/20 0.4.0-r1 
+		2009/01/20 0.4.0-r2
+Current:        2009/01/20 0.4.0-r3
+Source:         Precomiled binary: http://darkstar.ist.utl.pt/slackware/addon/slacky/slackware-13.0/security/keepassx/0.4.0/keepassx-0.4.0-i486-2cf.txz
+                Icon: https://keepassx.svn.sourceforge.net/svnroot/keepassx/trunk/share/keepassx/icons/keepassx_large.png

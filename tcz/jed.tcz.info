@@ -1,0 +1,16 @@
+Title:		jed.tcz
+Description:	slang based editor with emacs-like interface
+Version:	0.99-18
+Author:		John E. Davis
+Original-site:	http://www.jedsoft.org/jed/
+Size:		580K
+Extension_by:	SvOlli
+Comments:	JED is a freely available multiplatform text editor. Although
+		it is a powerful editor designed for use by programmers, its
+		drop-down menu facility make it one of the friendliest text
+		editors around. Hence it is ideal for composing simple email
+		messages as well as editing complex programs in a variety of
+		computer languages.
+		slang library needed.
+Change-log:	2009/06/10 first version 0.99-18
+Current:	2009/06/24 rebuild using tcbuild scripts

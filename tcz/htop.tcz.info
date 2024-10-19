@@ -1,0 +1,19 @@
+Title:          htop.tcz
+Description:    htop for tinycore_2.x
+Version:        0.8.1
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 40KB
+Extension_by:   juanito
+Comments:       htop process monitoring for tinycore_2.x
+                Howto:
+                $ htop
+                ..on my machine the function keys do not work,
+                but clicking on the highlighted areas does work
+                ----------
+                This extension contains:
+                htop-0.8.1 - GPLv2 - http://garr.dl.sourceforge.net/sourceforge/htop/htop-0.8.1.tar.gz
+                ----------
+Change-log:     First version
+Current:        2009/05/12

@@ -1,0 +1,20 @@
+Title:          hal_support.tcz
+Description:    Support libraries for HAL
+Version:        2.16
+Author:         Theodore Ts'o
+Original-site:  http://www.kernel.org
+Copying-policy: GPL v2
+Size:           41k
+Extension_by:   bmarkus
+Comments:       Binaries only
+                ----
+                libblkid & libuuid
+                Extracted from the util-linux-ng package
+                ----
+                !!! Use only with TC/MC 2.5 or prior, not needed for 2.6 !!!
+                ----
+                Compiled for TC2.x
+                ----
+                PPI compatible
+Change-log:     ----
+Current:        2009/10/13 First version

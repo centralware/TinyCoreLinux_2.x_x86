@@ -1,0 +1,13 @@
+Title:          k3b.tcz
+Description:    K3b CD and DVD recording suite.
+Version:        1.0.4
+Author:         Sebastian Trueg
+Original-site:  http://www.k3b.org/
+Copying-policy: GPL
+Size: 7MB
+xtension_by:   Jason W
+Comments:       PPI compatible.
+Change-log:     
+   		2009/02/05 First version.
+	 	2009/10/20 Added menu/icon.
+Current: 	2010/01/26

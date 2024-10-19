@@ -1,0 +1,27 @@
+Title:          hedgewars.tcz
+Description:    A turn based strategy game.(TESTING)
+Version:        0.9.12
+Author:         Andrey Korotaev,Igor Ulyanov,Stephen Alexander,Finn Brice,Jonatan Nilsson,
+		Anthony Carré,Joshua Frese,Stanko Tadić,Julien Koesten
+Original-site:  http://www.hedgewars.org/
+Copying-policy: GPLv2
+Size:		70.9M
+Extension_by:   Arslan S.
+Comments:       Each player controls a team of several hedgehogs. During the course of 
+		the game, players take turns with one of their hedgehogs. They then use 
+		whatever tools and weapons are available to attack and kill the opponents' 
+		hedgehogs, thereby winning the game. Hedgehogs may move around the terrain 
+		in a variety of ways, normally by walking and jumping but also by using 
+		particular tools such as the "Rope" or "Parachute", to move to otherwise 
+		inaccessible areas. Each turn is time-limited to ensure that players do not 
+		hold up the game with excessive thinking or moving.
+
+		You need OSS or ALSA for sound.
+
+		This extesion depends on Xorg.
+
+		GPU accelerated graphics is recommended.
+
+		This extension is PPI compatible.
+Change-log:     ---
+Current:        2009/12/3 Original

@@ -1,0 +1,16 @@
+Title:          i2c-tools.tcz
+Description:    i2c tools TESTING
+Version:        3.0.2
+Author:         www.lm-sensors.org/wiki/I2CTools
+Original-site:  www.lm-sensors.org/wiki/I2CTools
+                http://dl.lm-sensors.org/i2c-tools/releases
+Copying-policy: GNU GPL v2
+Size: 72kB
+Extension_by:   mc2avr
+Comments:       -----------------------------
+                # quick test:
+                sudo modprobe i2c-dev
+                i2cdetect -l
+                -----------------------------
+Change-log:     First version
+Current:        2010/07/20 Original

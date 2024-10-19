@@ -1,0 +1,6 @@
+./usr/local/lib/inetutils/tftpd
+./usr/local/lib/inetutils/telnetd
+./usr/local/lib/inetutils/talkd
+./usr/local/lib/inetutils/syslogd
+./usr/local/lib/inetutils/inetd
+./usr/local/lib/inetutils/ftpd

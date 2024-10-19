@@ -1,0 +1,15 @@
+usr/local/bin/ddcmon
+usr/local/bin/decode-dimms
+usr/local/bin/decode-edid
+usr/local/bin/decode-vaio
+usr/local/include/linux/i2c-dev.h
+usr/local/sbin/i2c-stub-from-dump
+usr/local/sbin/i2cdetect
+usr/local/sbin/i2cdump
+usr/local/sbin/i2cget
+usr/local/sbin/i2cset
+usr/local/share/man/man8/i2c-stub-from-dump.8
+usr/local/share/man/man8/i2cdetect.8
+usr/local/share/man/man8/i2cdump.8
+usr/local/share/man/man8/i2cget.8
+usr/local/share/man/man8/i2cset.8

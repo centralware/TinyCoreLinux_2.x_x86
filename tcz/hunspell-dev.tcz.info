@@ -1,0 +1,11 @@
+Title:          hunspell-dev.tcz
+Description:    Hunspell is a spell checker library.
+Version:        1.2.9
+Author:		Nemeth Laszlo
+Original-site:  http://hunspell.sourceforge.net/
+Copying-policy: GPL 2.0/LGPL 2.1/MPL 1.1
+Size:		136K
+Extension_by:   Arslan S.
+Comments:       This extension is PPI compatible.
+Change-log:     ---
+Current:        2010/03/10 Original

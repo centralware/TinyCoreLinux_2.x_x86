@@ -1,0 +1,1 @@
+8276bbc457cccdfced77db64a8073f6b  i2c-tools.tcz

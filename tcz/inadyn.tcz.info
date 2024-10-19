@@ -1,0 +1,15 @@
+Title:          inadyn.tcz
+Description:    client to alleviate the requirements for an Internet name
+Version:        1.96.2
+Author:         jls_legalize (unsenepopiu at tin dot it)
+Original-site:  http://dyndns.com
+Copying-policy: GPLv2
+Size:           20 KB
+Extension_by:   jls_legalize (unsenepopiu at tin dot it)
+Comments:	u can add to ~/.profile:
+                inadyn -u <username> -p <password> -a <host name> &
+                ----------------------------------------------------------
+                This extension is  PPI compatible.
+
+Change-log: ----
+Current: 	2009/10/11 Initial packaging

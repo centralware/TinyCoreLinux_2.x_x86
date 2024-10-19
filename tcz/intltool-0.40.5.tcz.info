@@ -1,0 +1,30 @@
+Title: 		intltool-0.40.5.tcz
+Description:	1. Extracts translatable stings from source files
+		2. Collects extracted strings together with messages
+		from traditional source files
+		3. Merges back translations into .xml, .desktop and .oaf files
+		
+		Also included is a script, iniltoolize, which copies various
+		scripts and does the other magic to your module. 
+Size: 52k		
+Version:		0.40.5 08-OCT-2008
+Maintainers:		Rodney Dawes <dobey@novell.com>
+			Danilo ..egan <danilo@gnome.org
+Older Maintainers:	Kenneth Christiansen <kenneth@gnu.org>
+			Darin Adler <darin@bentspoon.com>
+			Maciej Stachowiak <mjs@noisehavoc.org>
+			 		
+Original-site:		http://ftp.gnome.org/pub/gnome/sources/intltool/
+Extension_by:		jpeters
+Comments:		intltool is called for by various applications, 
+			including gnumeric. Tools include:
+				intltool-extract
+				intltool-merge
+				intltool-prepare
+				intltool-update
+				intltoolize
+			Help menus are included ( --help) 
+Change-log		
+Current:		2009/01/20
+		 
+

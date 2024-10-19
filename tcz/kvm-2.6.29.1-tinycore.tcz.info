@@ -1,0 +1,14 @@
+Title:          kvm-2.6.29.1-tinycore.tcz
+Description:    Virtualization for 2.6.29.1-tinycore
+Version:        2.6.29.1-tinycore
+Author:         Various
+Original-site:  http://kernel.org
+Copying-policy: GPL
+Size:		92.0K
+Extension_by:   Curaga
+Comments:       The KVM and VirtIO support. You need a recent processor 
+		with virtualization extensions to use these.
+
+		This extension is PPI compatible.
+Change-log:     
+Current:        2009/04/11 Original

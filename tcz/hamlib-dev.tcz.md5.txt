@@ -1,0 +1,1 @@
+18e1f318e95ae23ca95e1b3f42dc12ca  hamlib-dev.tcz
