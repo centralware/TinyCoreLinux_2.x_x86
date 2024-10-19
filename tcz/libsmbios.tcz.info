@@ -1,0 +1,18 @@
+Title:          libsmbios.tcz
+Description:    dell bios access library
+Version:        2.2.19
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 1.1MB
+Extension_by:   juanito
+Comments:       The libsmbios project aims towards providing access to as much BIOS information as possible.
+                It does this by providing a library of functions that can be used as well as sample binaries.
+                ----------
+                requires the libxml2, python and dell-2.6.29.1-tinycore extensions
+                ----------
+                This extension contains:
+                libsmbios-2.2.19 - GPLv2 - http://linux.dell.com/libsmbios/download/libsmbios/libsmbios-2.2.19/libsmbios-2.2.19.tar.bz2
+                ----------
+Change-log:     first version
+Current:        2009/12/07

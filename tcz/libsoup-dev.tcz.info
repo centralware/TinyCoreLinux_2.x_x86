@@ -1,0 +1,15 @@
+Title:          libsoup-dev.tcz
+Description:    LibSoup dev files
+Version:        2.29.4
+Author:         various
+Original-site:  http://live.gnome.org/LibSoup
+Copying-policy: LGPL
+Size: 		200K
+Extension_by:   Roberto A. Foglietta, Arslan S.
+Comments:       libsoup is an HTTP client/server library for GNOME. 
+		It uses GObjects and the glib main loop, to integrate 
+		well with GNOME applications, and also has a synchronous 
+		API, for use in threaded applications. 
+Change-log:     2009/05/04 First version
+	   	2009/05/04 First version
+Current:   	2009/12/22 Updated to 2.29.4 (Arslan S.)

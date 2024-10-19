@@ -1,0 +1,22 @@
+Title:          libphonon-dev.tcz
+Description:    Phonon Multimedia Framework Development Files (TESTING)
+Version:        4.3.0
+Author:         Matthias Kretz
+Original-site:  http://www.kde.org/
+Copying-policy: GPLv2
+Size:		100k
+Extension_by:   robc
+Comments:
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://www.kde.org/
+		for more information.
+		
+		----------------------------------------------
+		
+Change-log:     2010/01/07 Original
+Current:	2010/01/07 Original

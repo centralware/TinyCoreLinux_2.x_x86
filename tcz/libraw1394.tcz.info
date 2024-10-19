@@ -1,0 +1,13 @@
+Title:		libraw1394.tcz
+Description:	This is the base library for low-level IEEE 1394 accesses.
+		It is the companion of the raw1394 kernel driver with its /dev/raw1394 character device file.
+		Version 2 of libraw1394 is also able to use the /dev/fw* character device files of the firewire-core driver.
+Version:        2.0.5
+Author:         Various
+Original-site:  https://ieee1394.wiki.kernel.org/index.php/Libraries
+		https://ieee1394.wiki.kernel.org/index.php/Release_Notes_-_Libraries
+Copying-policy: GPL
+Size:		44.0K
+Extension_by:   hiro
+Change-log:
+Current:        2010/07/15 First Version 

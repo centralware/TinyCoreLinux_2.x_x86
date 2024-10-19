@@ -1,0 +1,28 @@
+Title:		lighttpd.tcz
+Description:	Light and fast HTTP server
+Version:	1.4.28
+Author:		Jan Kneschke
+Original-site:	http://www.lighttpd.net/
+Copying-policy:	BSD
+Size:		476.0K
+Extension_by:	Daniel Barnes
+Comments:	The following plugins require additional extensions:
+		mod_auth: libldap.tcz
+		mod_mysql_vhost: mysql.tcz
+		mod_webdav: libxml2.tcz sqlite3.tcz
+		
+		Example chroot script:
+		HTTPD=/usr/local/sbin/lighttpd
+		HTTPD_ROOT=/www
+		HTTPD_CONF=$HTTPD_ROOT/lighttpd.conf
+		cat << EOF > $HTTPD_CONF
+		server.document-root = "/htdocs"
+		server.port = 80
+		server.username = "nobody"
+		server.groupname = "nogroup"
+		server.chroot = "$HTTPD_ROOT"
+		EOF
+		exec $HTTPD -D -f $HTTPD_CONF
+Change-log:	2009/07/02 - Initial release
+		2010/02/26 - Update to 1.4.26 and enable ALL Plugins/Features
+Current:	2010/10/19 - Update to 1.4.28

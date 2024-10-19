@@ -1,0 +1,11 @@
+Title:          libldap-dev.tcz
+Description:    Development files for the OpenLDAP, Lightweight Directory Access Protocol.(TESTING)
+Version:        2.4.19
+Author:         OpenLDAP
+Original-site:  http://www.openldap.org/
+Copying-policy: OpenLDAP Public License
+Size:           120K
+Extension_by:   Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:     ---
+Current:        2010/02/21 Original 2.4.19

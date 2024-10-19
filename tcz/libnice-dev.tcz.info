@@ -1,0 +1,13 @@
+Title:		libnice-dev.tcz
+Description:	an implementation of the IETF's draft Interactice Connectivity Establishment standard (ICE) dev files
+Version:	0.0.11
+Author:		?
+Original-site:	http://nice.freedesktop.org
+Copying-policy:GPL
+Size:		164.0K
+Extension_by:	jls_legalize (unsenepopiu at tin dot it)
+Comments:	dev files
+		--------------------------------------
+		This extension is PPI compatible
+Change-log:	2010/02/13 First version (0.0.10)
+Current:	2010/03/25  updated 2 0.0.11

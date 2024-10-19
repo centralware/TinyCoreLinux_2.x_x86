@@ -1,0 +1,16 @@
+Title:          libmpfr-dev.tcz
+Description:    Library for multiple-precision floating-point computation Development Files (TESTING)
+Version:        2.4.2-p1
+Author:         Guillaume Hanrot, Vincent Lefèvre, Patrick Pélissier, Philippe Théveny and Paul Zimmermann (http://www.mpfr.org/credit.html)
+Original-site:  http://www.mpfr.org/
+Copying-policy: LGPL v2.1
+Size:		216k
+Extension_by:   robc
+Comments:       Includes headers and development files.
+		
+		This extension is PPI compatible.
+		
+Change-log:     2009/05/06  Original
+		2009/06/03  Rebuilt for TC 2.X
+		2009/12/09 Updated to v2.4.2, included patches, split dev files
+Current:	2009/12/09 Updated to v2.4.2, included patches, split dev files

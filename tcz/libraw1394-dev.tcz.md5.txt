@@ -1,0 +1,1 @@
+8e208426f47dd1b29e3443cc60704b8b  libraw1394-dev.tcz

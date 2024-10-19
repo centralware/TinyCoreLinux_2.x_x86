@@ -1,0 +1,11 @@
+Title:          Linux-PAM-doc.tcz
+Description:    Pluggable Authentication Modules for Linux.
+Version:        1.1.1
+Author:         Andrew G. Morgan ,Dmitry V. Levin, Thorsten Kukuk, Sebastien Tricaud, Tomas Mraz
+Original-site:  http://www.kernel.org/pub/linux/libs/pam/
+Copying-policy: BSD-like
+Size:           212K
+Extension_by:   Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:     ---
+Current:        2010/02/12 Original

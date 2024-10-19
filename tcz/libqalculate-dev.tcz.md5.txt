@@ -1,0 +1,1 @@
+b0bf1b3d200cdf89de7a77ac7488f0d1  libqalculate-dev.tcz

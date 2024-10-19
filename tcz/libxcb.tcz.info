@@ -1,0 +1,26 @@
+Title:          libxcb.tcz
+Description:    X protocol C-language Binding (TESTING)
+Version:        1.5
+Author:         Bart Massey, Jamey Sharp, Josh Triplett
+Original-site:  http://xcb.freedesktop.org/
+Copying-policy: MIT/X
+Size:		112k
+Extension_by:   robc
+Comments:	The X protocol C-language Binding (XCB) is
+		a replacement for Xlib featuring a small
+		footprint, latency hiding, direct access to
+		the protocol, improved threading support, and
+		extensibility.
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://xcb.freedesktop.org/
+		for more information.
+		
+		----------------------------------------------
+		
+Change-log:     2010/01/08 Original
+Current:	2010/01/08 Original

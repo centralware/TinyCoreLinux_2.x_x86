@@ -1,0 +1,1 @@
+9a211df796d1c82b6c002bdd5c8a4901  libsoup-dev.tcz

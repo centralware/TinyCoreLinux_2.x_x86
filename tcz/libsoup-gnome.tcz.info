@@ -1,0 +1,21 @@
+Title:          libsoup-gnome.tcz
+Description:    libsoup for gnome
+Version:        2.29.4
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 		20KB
+Extension_by:   juanito
+Comments:       an http client/server library for gnome
+                ----------
+                requires the libsoup, expat2, dbus, dbus-glib, eggdbus, glib2, libxml2,
+                gnutls, libgcrypt, libgpg-error, libgnome-keyring, GConf, ORBit2, libproxy
+                and sqlite3 extensions
+                ----------
+                this extension contains:
+                libsoup-2.29.4 - GPLv2 - git clone git://git.gnome.org/libsoup
+                ----------
+Change-log:     2009/11/08
+                updated 2.26.1 -> 2.29.4 (svn)
+                removed libsoup files from extension
+Current:   	2009/12/24

@@ -1,0 +1,27 @@
+Title:          Linux-PAM.tcz
+Description:    Pluggable Authentication Modules for Linux.(TESTING)
+Version:        1.1.1
+Author:         Andrew G. Morgan ,Dmitry V. Levin, Thorsten Kukuk, Sebastien Tricaud, Tomas Mraz
+Original-site:  http://www.kernel.org/pub/linux/libs/pam/
+Copying-policy: BSD-like
+Size:           280K
+Extension_by:   Arslan S.
+Comments:	by default the policy is to deny everything unless a specific config
+		file exists in /usr/local/etc/pam.d directory
+
+		#example pam config of an application can be:
+		auth 	  include   system-auth
+		account   include   system-auth
+		password  include   system-auth
+		session   include   system-auth
+
+		see man pages in Linux-PAM-doc for details.
+
+		Note: If you are building a pam module or building an application with pam authentication enabled
+		please make sure the files go in to correct directories given as follows
+			modules dir: /usr/local/lib/security
+			config dir: /usr/local/etc/pam.d
+
+		This extension is PPI compatible.
+Change-log:     2010/02/12 Original
+Current:        2010/02/15 Fixed permissions on unix_chkpwd & added system-auth file

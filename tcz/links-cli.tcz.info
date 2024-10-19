@@ -1,0 +1,12 @@
+Title:          links-cli.tcz
+Description:    Text mode web browser.
+Version:        2.2
+Author:         Twibright Labs.
+Original-site:  http://links.twibright.com/
+Copying-policy: GPL2
+Size: 		536kb
+Extension_by:   Jason W
+Comments:       Requires the openssl-0.9.8k extension.
+		Run "links-cli" at a terminal to use.
+Change-log:    	----
+Current:	2010/01/29 First version 2.2

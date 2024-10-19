@@ -1,0 +1,12 @@
+Title:          libtorrent-rasterbar-dev.tcz
+Description:    libtorrent-rasterbar dev files.
+Version:        0.14.10
+Author:         Arvid Norberg
+Original-site:  http://www.rasterbar.com/products/libtorrent/
+Copying-policy: BSD like
+Size:		5.9M
+Extension_by:   Arslan S.
+Comments:       This extension is PPI compatible.
+Change-log:     2009/12/08 Original 0.14.7
+		2010/01/28 Updated to 0.14.8
+Current:        2010/07/09 Updated to 0.14.10

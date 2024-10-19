@@ -1,0 +1,3 @@
+usr/local/lib/lapack/liblapack.a
+usr/local/lib/lapack/librefblas.a
+usr/local/lib/lapack/libtmglib.a

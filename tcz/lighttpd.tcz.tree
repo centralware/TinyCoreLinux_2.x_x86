@@ -1,0 +1,17 @@
+lighttpd.tcz
+   bzip2-lib.tcz
+   gamin.tcz
+      glib2.tcz
+   libattr.tcz
+   libgdbm.tcz
+   libldap.tcz
+   libmemcache.tcz
+   libxml2.tcz
+   mysql.tcz
+      perl5.tcz
+      ncurses.tcz
+         ncurses-common.tcz
+   openssl-0.9.8.tcz
+   pcre.tcz
+      readline.tcz
+   sqlite3.tcz

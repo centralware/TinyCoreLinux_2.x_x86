@@ -1,0 +1,17 @@
+Title:          linphone.tcz
+Description:    Softphone based on SIP protocol (TESTING)
+Version:        3.2.1
+Author:         Various
+Original-site:  http://www.linphone.org
+Copying-policy: GPL v2
+Size:           6.2M
+Extension_by:   bmarkus
+Comments:       Binaries only
+                ----
+                Compiled for TC2.x
+                ----
+                Video disabled
+                ----
+                PPI compatible
+Change-log:     ----
+Current:        2009/10/18 First version

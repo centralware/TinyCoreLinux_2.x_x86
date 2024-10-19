@@ -1,0 +1,11 @@
+Title:          libmxml.tcz
+Description:    Mini-XML is a small XML library.
+Version:        2.6
+Author:         Various
+Original-site:  http://www.minixml.org/
+Copying-policy: Mini-XML License (GPL-2 with a few exceptions)
+Size: 		136K
+Extension_by:   Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:     ---
+Current:   	2010/1/8 Original

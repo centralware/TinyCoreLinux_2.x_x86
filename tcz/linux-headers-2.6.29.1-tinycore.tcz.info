@@ -1,0 +1,23 @@
+Title:		linux-headers-2.6.29.1-tinycore.tcz
+Description:	Linux kernel headers
+Version:	2.6.29.1-tinycore
+Author:		Linux project
+Original-site:	kernel.org
+Copying-policy:	GNU GPL v2
+Size:		12.8 M
+Extension_by:	^thehatsrule^
+Comments:	Linux kernel headers for compiling modules, etc.
+-
+		Created without a guide - use with caution
+-
+		Symlinks:
+		/lib/modules/2.6.29.1-tinycore/build
+		/usr/src/linux
+-
+		Files used:
+		linux-2.6.29.1-patched.tar.bz2
+		config-2.6.29.1-tinycore
+-
+Change-log:	2009/04/12 Original
+		2009/07/25 Fixed build symlink & extension filename
+Current:	2010/11/26 Re-added .config

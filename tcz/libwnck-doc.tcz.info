@@ -1,0 +1,15 @@
+Title:          libwnck-doc.tcz
+Description:    Window Navigator Construction Kit
+Version:        2.28.0
+Author:         Havoc Pennington, Vincent Untz
+Original-site:  ftp://ftp.gnome.org/pub/gnome/sources/libwnck
+Copying-policy: GPL v2
+Size:           70k
+Extension_by:   bmarkus
+Comments:       Doc files
+                ----
+                Compiled for TC2.x
+                ----
+                PPI compatible
+Change-log:     2009/06/23 First version
+Current:        2009/10/27 Updated to 2.28.0

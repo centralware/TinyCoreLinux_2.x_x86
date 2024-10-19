@@ -1,0 +1,15 @@
+Title:          links.tcz
+Description:    Graphical and text mode web browser.
+Version:        2.2
+Author:         Twibright Labs.
+Original-site:  http://links.twibright.com/
+Copying-policy: GPL2
+Size: 1.8M
+Extension_by:   Jason W
+Comments:       Requires the openssl-0.9.8k and 
+		graphics-libs-1 extensions.
+Change-log:     2008/07/30 First version.
+                2008/10/18 Added JWM menu.
+                2008/12/07 Rebuilt for i486 and size.
+      		2009/02/22 Bumped to version 2.2
+Current:	2009/09/09 Rebuilt against openssl-0.9.8k.

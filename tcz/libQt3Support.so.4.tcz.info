@@ -1,0 +1,13 @@
+Title: 		libQt3Support.so.4.tcz
+Description:    support for qt4 toolkit   
+Version:        4.4.3-1                                              
+Author:		Trolltech ASA
+Original-site:  http:/doc.trolltech.com/products/qt/         
+Copying-Policy: The Qt open sourced edition is provided under the               
+                terms of both the  Q Public License and the GNU General         
+                Public License                                                 
+Extension_by:   jpeters       
+Comments:       placed in usr/local               
+Size:           15M       
+Change-log:               
+Current:        2009/02/05

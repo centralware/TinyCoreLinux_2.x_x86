@@ -1,0 +1,11 @@
+bzip2-lib.tcz
+gamin.tcz
+libattr.tcz
+libgdbm.tcz
+openldap.tcz
+libmemcache.tcz
+libxml2.tcz
+mysql.tcz
+openssl-0.9.8.tcz
+pcre.tcz
+sqlite3.tcz

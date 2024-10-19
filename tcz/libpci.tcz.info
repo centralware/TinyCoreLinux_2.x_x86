@@ -1,0 +1,15 @@
+Title:          libpci.tcz
+Description:    pci library
+Version:        3.1.4
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 52KB
+Extension_by:   juanito
+Comments:       libpci and headers
+                ----------
+                This extension contains:
+                pciutils-3.1.4 - GPLv2 - ftp://ftp.kernel.org/pub/software/utils/pciutils/pciutils-3.1.4.tar.bz2
+                ----------
+Change-log:     first version
+Current:        2009/10/06

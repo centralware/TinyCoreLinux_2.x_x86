@@ -1,0 +1,11 @@
+Title:          libnautilus-extension-dev.tcz
+Description:    A library to create Nautilus view extensions, development package.
+Version:        2.28.4
+Author:         GNOME Maintainers
+Original-site:  http://www.gnome.org/
+Copying-policy: LGPL-2
+Size:		16K
+Extension_by:   Arslan S.
+Comments:       This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/05/14 Original

@@ -1,0 +1,15 @@
+Title:          libidn-dev.tcz
+Description:    Encode and decode internationalized domain names
+Version:        1.15
+Author:         Simon Josefsson
+Original-site:  http://www.gnu.org/software/libidn/
+Copying-policy: LGPL 2.1
+Size:           74K
+Extension_by:   bmarkus
+Comments:       Development files
+                ----
+                Compiled for TC2.x
+                ----
+                PPI compatible
+Change-log:     2009/06/09 First version
+Current:        2009/09/17 Converted to squashfs

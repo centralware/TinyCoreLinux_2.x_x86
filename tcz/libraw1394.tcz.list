@@ -1,0 +1,6 @@
+usr/local/bin/dumpiso
+usr/local/bin/sendiso
+usr/local/bin/testlibraw
+usr/local/lib/libraw1394.so
+usr/local/lib/libraw1394.so.11
+usr/local/lib/libraw1394.so.11.0.1

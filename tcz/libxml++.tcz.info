@@ -1,0 +1,12 @@
+Title:          libxml++.tcz
+Description:    libxml++ is a C++ wrapper for the libxml XML parser library. (TESTING)
+Version:        2.26.1
+Author:         Various
+Original-site:  http://libxmlplusplus.sourceforge.net/
+Copying-policy: LGPL V2
+Size:		196K
+Extension_by:   I Haylock
+Comments:       This is the main libxml++ package.  For compiling 
+		purposes, you would also need libxml++-devs.tcz package. 
+Change-log:     ----
+Current:        2010/01/26 First Release

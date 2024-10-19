@@ -1,0 +1,13 @@
+Title:		libiec61883.tcz
+Description:	An implementation of the most relevant parts of IEC 61883 over libraw1394
+		for transmission, reception, and management of media streams and devices
+		such as DV, MPEG2-TS, audio, and MIDI.
+Version:        1.2.0
+Author:         Various
+Original-site:  https://ieee1394.wiki.kernel.org/index.php/Libraries
+		https://ieee1394.wiki.kernel.org/index.php/Release_Notes_-_Libraries
+Copying-policy: GPL
+Size:		32.0K
+Extension_by:   hiro
+Change-log:
+Current:        2010/07/15 First Version 

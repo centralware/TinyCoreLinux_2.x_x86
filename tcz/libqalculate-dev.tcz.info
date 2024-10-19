@@ -1,0 +1,11 @@
+Title:          libqalculate-dev.tcz
+Description:    Shared library used by Qalculate frontends.
+Version:        0.9.7
+Author:         Niklas Knutsson
+Original-site:  qalculate.sourceforge.net
+Copying-policy: GPL-2
+Size:		1.9M
+Extension_by:   Arslan S.
+Comments:       This extension is PPI compatible.
+Change-log:     ---
+Current:   	2010/03/07 Original

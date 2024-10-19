@@ -1,0 +1,18 @@
+Title:          libmatroska-dev.tcz
+Description:    libmatroska development files. 
+Version:        0.8.1
+Author:         Matroska Team
+Original-site:  http://www.matroska.org/
+Copying-policy: LGPL
+Size:		408K
+Extension_by:   Arslan S.
+Comments:       Matroska is usually found as .MKV files (matroska video), 
+		.MKA files (matroska audio) and .MKS files (subtitles)
+		
+		It depends on libebml-dev.
+
+		This is required for matroska demux support when building a media player.
+
+		This extension is PPI compatible.
+Change-log:     2009/11/13 Original
+Current:        2010/02/20 Updated with rtti (Curaga)

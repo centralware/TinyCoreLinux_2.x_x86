@@ -1,0 +1,24 @@
+Title:          libphonon.tcz
+Description:    Phonon Multimedia Framework (TESTING)
+Version:        4.3.0
+Author:         Matthias Kretz
+Original-site:  http://www.kde.org/
+Copying-policy: GPLv2
+Size:		148k
+Extension_by:   robc
+Comments:		This package requires qt-4.5-base,
+		qt-4.5-dbus, dbus, and expat2.
+		
+		
+		----------------------------------------------
+		
+		Please see the man page for additional 
+		information. 
+		
+		Also see http://www.kde.org/
+		for more information.
+		
+		----------------------------------------------
+		
+Change-log:     2010/01/07 Original
+Current:	2010/01/07 Original

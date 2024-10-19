@@ -1,0 +1,12 @@
+Title:		libpolkit-gobject.tcz
+Description:	A library for accessing PolicyKit.
+Version:	0.96
+Author: 	Various
+Original-site:	http://hal.freedesktop.org/releases/
+Copying-Policy:	GNU Library GPL-2 
+Extension_by:	Arslan S. 
+Comments:       This extension is PPI compatible.
+Size:		52K		
+Change-log:     ---
+Current:	2010/01/28 Original
+

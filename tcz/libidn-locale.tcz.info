@@ -1,0 +1,15 @@
+Title:          libidn-locale.tcz
+Description:    Encode and decode internationalized domain names
+Version:        1.15
+Author:         Simon Josefsson
+Original-site:  http://www.gnu.org/software/libidn/
+Copying-policy: LGPL 2.1
+Size:           25K
+Extension_by:   bmarkus
+Comments:       Language files
+                ----
+                Compiled for TC2.x
+                ----
+                PPI compatible
+Change-log:     ----
+Current:        2009/09/17 First version
