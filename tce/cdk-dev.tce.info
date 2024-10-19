@@ -1,0 +1,11 @@
+Title:          cdk-dev.tce
+Description:    Curses Development Kit (TESTING)
+Version:        5.0-20090215
+Author:         Mike Glover
+Original-site:  http://invisible-island.net/cdk/cdk.html
+Copying-policy: BSD
+Size:           205k
+Extension_by:   Daniel Barnes
+Comments:       
+Change-log:     
+Current:        2009/03/10 - Initial Release
