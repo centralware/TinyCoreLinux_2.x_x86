@@ -1,0 +1,23 @@
+Title:          flit.tcz
+Description:    Clock, Sound, and Battery tray.
+Version:        1.2.1
+Author:         Michael A. Losh
+Original-site:  http://tinycorelinux.com
+Copying-policy: GPLv3
+Size:           16K
+Extension_by:   roberts, Michael A. Losh
+Comments:       PPI compatible.
+-
+                Version 1.2.2 supports ALSA or OSS, 
+                ACPI or OLPC XO-1 battery status, 
+                and scalable screen sizes
+-
+                To start flit on X start, add to .xsession:
+                [ $(which flit) ] && flit &
+Change-log:     
+                2009/09/13 Original 
+                2009/09/23 Updated to v0.9.8
+                2009/10/04 Updated to v1.0
+                2010/05/10 Updated to v1.2.0
+                2009/06/06 Updated to v1.2.1
+Current:        2009/06/17 Updated to v1.2.2 (fixes ALSA Mono param bug)

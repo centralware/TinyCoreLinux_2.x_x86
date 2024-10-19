@@ -1,0 +1,15 @@
+Title:          firmware-iwlwifi-3945.tcz
+Description:    Intel Wireless Wifi Linux Drivers firmware files (iwl3945).
+Version:        stand-alone version
+Author:         see below
+Original-site:  http://intellinuxwireless.org/
+Copying-policy: BSD like
+Size: 		68K
+Extension_by:   hiro
+Comments:       This package contains firmware microcodes:
+
+			iwlwifi-3945-ucode-15.32.2.9 for Intel PRO/Wireless 3945ABG/BG Network Connection (iwl3945)
+
+		This extension is PPI compatible.
+Change-log:     stand-alone microcode
+Current:   	2010/2/8

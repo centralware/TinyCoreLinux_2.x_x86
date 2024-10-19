@@ -1,0 +1,13 @@
+Title:		ffmpeg-ffserver.tcz
+Description:	a complete, cross-platform solution to record, convert and stream audio and video
+Version:		0.5.1
+Author:		Fabrice Bellard
+Original-site:	http://ffmpeg.org/
+Copying-policy:GNU Lesser General Public License version 2.1
+Size:		4.9M
+Extension_by:	jls_legalize (unsenepopiu at tin dot it)
+Comments: 
+		This extension is PPI compatible
+Change-log:	2009/02/26 First Version
+			2009/04/07 Updated 2 SVN 2009/04/07
+Current:		2010/03/08 Updated 2 0.5.1

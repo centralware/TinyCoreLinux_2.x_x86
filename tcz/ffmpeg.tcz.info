@@ -1,0 +1,14 @@
+Title:          ffmpeg.tcz
+Description:    a complete, cross-platform solution to record, convert and stream
+                audio and video
+Version:        SVN 2009/04/07
+Author:         
+Original-site:  http://ffmpeg.org/index.html
+Copying-policy: LGPL
+Size: 2.01M
+Extension_by:   jls_legalize (unsenepopiu at tin dot it)
+Comments:       ffmpeg is a command line tool to convert multimedia files between
+                formats. 
+                *****alsa doen't need to be running*****
+Change-log: 	2009/02/26
+Current:	2009/04/07	updated

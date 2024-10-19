@@ -1,0 +1,6 @@
+usr/local/lib/modules/2.6.29.1-tinycore/kernel/drivers/ieee1394/eth1394.ko.gz
+usr/local/lib/modules/2.6.29.1-tinycore/kernel/drivers/ieee1394/ieee1394.ko.gz
+usr/local/lib/modules/2.6.29.1-tinycore/kernel/drivers/ieee1394/ohci1394.ko.gz
+usr/local/lib/modules/2.6.29.1-tinycore/kernel/drivers/ieee1394/raw1394.ko.gz
+usr/local/lib/modules/2.6.29.1-tinycore/kernel/drivers/ieee1394/sbp2.ko.gz
+usr/local/lib/modules/2.6.29.1-tinycore/kernel/drivers/ieee1394/video1394.ko.gz

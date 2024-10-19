@@ -1,0 +1,1 @@
+eac02637b34082de8ec97afa72b3a1b8  firmware-isl3886pci.tcz

@@ -1,0 +1,12 @@
+Title:		ftgl-dev.tcz
+Description:    OpenGL frontend to Freetype 2, development files.
+Version:        2.1.3~rc5
+Author:         Henry Maddocks
+Original-site:  http://sourceforge.net/projects/ftgl/
+Copying-policy: LGPL
+Size:		156K
+Extension_by:   Arslan S.
+Comments:	This extension depends on Xorg.
+		This extension is PPI compatible.
+Change-log:     ---
+Current:   	2010/04/05 Original

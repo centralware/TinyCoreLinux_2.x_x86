@@ -1,0 +1,12 @@
+Title:          firmware-2.6.29.1-tinycore.tcz
+Description:    Firmware from 2.6.29.1-tinycore
+Version:        2.6.29.1-tinycore
+Author:         Various
+Original-site:  http://kernel.org
+Copying-policy: GPL
+Size:		200.0K
+Extension_by:   Curaga
+Comments:       Various external firmware that shipped with the linux 
+		kernel. See the file list.
+Change-log:     
+Current:        2009/04/11 Original

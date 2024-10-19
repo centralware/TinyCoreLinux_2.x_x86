@@ -1,0 +1,1 @@
+97715747a55cb50667cb5cfcfe497546  firmware-iwlwifi-3945.tcz

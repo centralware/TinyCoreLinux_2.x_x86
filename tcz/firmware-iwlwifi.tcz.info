@@ -1,0 +1,20 @@
+Title:          firmware-iwlwifi.tcz
+Description:    Intel Wireless Wifi Linux Drivers firmware files.
+Version:        see below
+Author:         see below
+Original-site:  http://intellinuxwireless.org/
+Copying-policy: BSD like
+Size: 		944K
+Extension_by:   Arslan S.
+Comments:       This package contains firmware microcodes:
+
+			iwlwifi-1000-ucode-128.50.3.1 for Intel WiFi Link 1000BGN
+			iwlwifi-3945-ucode-15.32.2.9 for Intel PRO/Wireless 3945ABG/BG Network Connection (iwl3945)
+			iwlwifi-4965-ucode-228.61.2.24 for Intel Wireless WiFi 4965AGN
+			iwlwifi-5000-ucode-8.24.2.12 for Intel Wireless WiFi 5100AGN, 5300AGN, and 5350AGN
+			iwlwifi-5150-ucode-8.24.2.2 for Intel Wireless WiFi 5150AGN
+			iwlwifi-6000-ucode-9.176.4.1 for Intel 6000 Series Wi-Fi Adapters
+
+		This extension is PPI compatible.
+Change-log:     ---
+Current:   	2010/1/8 Original

@@ -1,0 +1,16 @@
+Title:          firmware-isl3886pci.tcz
+Description:    Prism54 firmware isl3886
+Version:        original
+Author:         see below 
+Original-site:  http://daemonizer.de/prism54/prism54-fw/fw-softmac/2.13.12.0.arm
+Copying-policy: BSD like
+Size: 		24K
+Extension_by:   hiro
+Comments:       firmware for Intersil's Prism54 PCI/PCMCIA chips:
+		ISL3877, ISL3880, ISL3890 and ISL3886
+		
+		see also: http://wireless.kernel.org/en/users/Drivers/p54
+		
+		This extension is PPI compatible.
+Change-log:     -
+Current:   	2010/2/8

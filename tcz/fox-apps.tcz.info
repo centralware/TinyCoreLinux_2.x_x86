@@ -1,0 +1,13 @@
+Title:          fox-apps.tcz
+Description:    adie, calculator, Pathfinder, shutterbug, reswrap.
+Version:        1.6.36
+Author:         Jeroen van der Zijp, Roland Schulz
+Original-site:  www.fox-toolkit.org/ 
+Copying-policy: LGPL
+Size: 352KB
+Extension_by:   Jason W
+Comments:       Depends on fontconfig and Xlibs_support and fox.
+Change-log:     ----
+Current:   	2009/06/03 First version 1.6.36
+
+ 

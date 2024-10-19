@@ -1,0 +1,12 @@
+Title:          file-roller.tcz
+Description:    File Roller is an archive manager.
+Version:        2.29.3
+Author:         Paolo Bacchilega
+Original-site:  http://fileroller.sourceforge.net/
+Copying-policy: GPL-2
+Size: 		252K
+Extension_by:   Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:     2010/01/23 Original
+		2010/02/07 Updated init script
+Current:   	2010/02/20 Added nautilus plugin

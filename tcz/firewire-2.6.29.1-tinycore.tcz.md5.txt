@@ -1,0 +1,1 @@
+0b3e8e825bb40c5bb0e16a9d3bda91cc  firewire-2.6.29.1-tinycore.tcz

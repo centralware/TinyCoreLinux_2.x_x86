@@ -1,0 +1,1 @@
+262b4553a3f9e9fe0e2f903964c8bbb3  fetchmail-locale.tcz

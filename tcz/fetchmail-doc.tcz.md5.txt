@@ -1,0 +1,1 @@
+586d689b5e7b9557b028e77b3bd7c134  fetchmail-doc.tcz

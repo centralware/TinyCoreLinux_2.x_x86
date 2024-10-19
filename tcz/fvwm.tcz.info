@@ -1,0 +1,24 @@
+Title:          fvwm.tcz
+Description:    FVWM Window Manager
+Version:        2.5.30
+Author:         Various
+Original-site:  http://fvwm.org
+Copying-policy: GPL
+Size:		    2.6M
+Extension_by:   Richard H.
+Comments:       This extention contains executables only. No man pages nor locale
+                info. Extensive documentation is available via fvwm.org.
+
+                FVWM is one of the most flexible and powerful WMs available; but
+                that power results in a potentially complex configuration. This is
+                not an 'out of the box' window manager, but with some configuration
+                it can be very useful in a permament installation.
+
+                NB: Perl is *NOT* included in the .dep file since the core product
+                does not require it, however several modules and other ancillary
+                programs are supplied as Perl scripts (and will therefore require
+                Perl).
+
+                To the best of my understanding this is PPI compatible
+Change-log:     
+Current:        2009/04/30 Original

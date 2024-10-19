@@ -1,0 +1,34 @@
+Title:          filezilla-doc.tcz
+Description:    Graphical ftp client
+Version:        3.3.2.1
+Author:         Tim Kosse
+Original-site:  http://filezilla-project.org
+Copying-policy: GPL
+Size:		4.0K
+Extension_by:   bmarkus
+Comments:       Doc files
+                ----
+                Compiled for TC2.x
+                ----
+                Unicode version
+                ----
+                D-Bus support is disabled
+                ----
+                PPI compatible
+                ---
+                No dep file
+Change-log:     2009/06/11 First version
+                2009/06/15 Upgraded to 3.2.5
+                2009/07/02 Upgraded to 3.2.6.1
+                2009/07/17 Recompiled to keep freedesktop.org menu item
+                2009/07/22 Recompiled with the new wxgtk extension
+                2009/09/22 Upgraded to 3.2.7.1
+                2009/10/04 Upgraded to 3.2.8
+                2009/10/11 Upgraded to 3.2.8.1
+                2009/11/10 Upgraded to 3.3.0
+                2009/11/10 Upgraded to 3.3.0.1
+                2010/01/05 Upgraded to 3.3.1
+                2010/02/25 Upgraded to 3.3.2
+Current:        2010/03/25 Upgraded to 3.3.2.1
+
+

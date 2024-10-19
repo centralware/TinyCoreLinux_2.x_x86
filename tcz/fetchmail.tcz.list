@@ -1,0 +1,5 @@
+usr/local/bin/fetchmail
+usr/local/bin/fetchmailconf
+usr/local/lib/python2.6/site-packages/fetchmailconf.py
+usr/local/lib/python2.6/site-packages/fetchmailconf.pyc
+usr/local/lib/python2.6/site-packages/fetchmailconf.pyo

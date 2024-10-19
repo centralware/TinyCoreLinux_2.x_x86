@@ -1,0 +1,12 @@
+Title:		farsight2-dev.tcz
+Description:	a framework to deal with all known audio/video conferencing protocols
+Version:	0.0.17
+Author:		?
+Original-site:	http://farsight.freedesktop.org
+Copying-policy:	GPL 2.1 or later
+Size:		3.1M
+Extension_by:	jls_legalize (unsenepopiu at tin dot it)
+Comments:	development files	
+		This extension is PPI compatible
+Change-log:	----
+Current:	2010/02/13 First version

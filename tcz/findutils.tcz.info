@@ -1,0 +1,16 @@
+Title:          findutils.tcz
+Description:    findutils for tc_2.X
+Version:        4.4.0
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 184KB
+Extension_by:   juanito
+Comments:       findutils for tinycore_2.x
+                For use with the gcc extension
+                ----------
+                This extension contains:
+                findutils-4.4.0 - GPLv3 - http://ftp.gnu.org/gnu/findutils/findutils-4.4.0.tar.gz
+                ----------
+Change-log:     First version
+Current:        2009/04/17

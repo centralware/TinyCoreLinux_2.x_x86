@@ -1,0 +1,25 @@
+Title:          fetchmail-locale.tcz
+Description:    Remote mail retrival and forwarding utility
+Version:        6.3.16
+Author:         Various
+Original-site:  http://www.fetchmail.info
+Copying-policy: GPL + various depending on code part, see source for details
+Size:		600K
+Extension_by:   bmarkus
+Comments:       Language files files
+                ----
+                Compiled for TC2.x
+                ----
+                PPI compatible
+                ----
+                Dep file is recursive
+                ----
+                Requires a local SMTP server for delivery
+                Python and fontconfig required only by fetchmailconf
+Change-log:     2010/03/17 First version
+                2010/03/29 Updated to 6.3.15
+Current:        2010/04/07 Updated to 6.3.16
+
+
+
+

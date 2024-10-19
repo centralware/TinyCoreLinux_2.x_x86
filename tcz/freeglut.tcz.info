@@ -1,0 +1,13 @@
+Title:          freeglut.tcz
+Description:    Open Source alternative to the OpenGL Utility Toolkit (GLUT). 
+Version:        2.6.0
+Author:         Pawel W. Olszta, Andreas Umbach, Steve Baker
+Original-site:  http://freeglut.sourceforge.net
+Copying-policy: Freeglut Copyright
+Size:           92K
+Extension_by:   Arslan S.
+Comments:	This extension depends on Xorg.
+		
+		This extension is PPI compatible.
+Change-log:     ---
+Current:        2010/02/10 Original
