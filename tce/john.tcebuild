@@ -1,0 +1,96 @@
+#!/bin/sh
+#
+######################################################
+# Build script for TinyCore 2.x                      #
+#                                                    #
+# See .info for details                              #
+#                                                    #
+# September 8, 2009                                  #
+######################################################
+#
+# Define package names and tmp directory
+#
+SRCNAM=john-1.7.3.1.tar.bz2
+WRKDIR=john-1.7.3.1
+EXTNAM=john
+TMPDIR=/tmp/john
+#
+# Remove dirs and files left from previous creation
+#
+rm -r -f $WRKDIR
+rm -r -f $TMPDIR
+#
+# Crete temporary directory
+#
+mkdir -p $TMPDIR/usr/local/sbin
+mkdir -p $TMPDIR/usr/local/doc
+#
+# Unpack source in current directory
+#
+tar -xf $SRCNAM
+#
+# Configure it
+#
+cd $WRKDIR/src
+#
+# Compile
+#
+make linux-x86-any
+#
+# Install in temp dir
+#
+cd ../run
+cp -P * $TMPDIR/usr/local/sbin
+cd ../doc
+cp * $TMPDIR/usr/local/doc
+#
+# Adjust directory access rigths
+#
+find $TMPDIR/ -type d | xargs chmod -v 755;
+#
+# Adjust file access rigths
+#
+chmod 644 $TMPDIR/usr/local/sbin/*.chr 
+chmod 644 $TMPDIR/usr/local/sbin/*.conf 
+chmod 644 $TMPDIR/usr/local/sbin/*.lst
+#
+# Strip executables
+#
+find $TMPDIR | xargs file | grep ELF | cut -f 1 -d : | xargs strip --strip-unneeded
+#
+# Delete compilation work directory
+#
+cd ..
+cd ..
+rm -r -f $WRKDIR
+#
+# Create .tce extension in temp dir
+#
+cd  $TMPDIR
+find usr -not -type d > $EXTNAM.filelist
+tar czvf $EXTNAM.tce --numeric-owner -T $EXTNAM.filelist
+advdef -z4 $EXTNAM.tce
+#
+# Create md5 file
+#
+md5sum $EXTNAM.tce > $EXTNAM.tce.md5.txt
+#
+# Cleanup temp directory
+#
+rm -r -f usr  
+#
+# Create .tcz extension
+#
+mkdir $EXTNAM
+cd $EXTNAM
+tar zxvf ../$EXTNAM.tce
+cd ..
+mkfs.cramfs $EXTNAM $EXTNAM.tcz
+#
+# Create md5 file
+#
+md5sum $EXTNAM.tcz > $EXTNAM.tcz.md5.txt
+#
+# Cleanup directory
+#
+rm -r -f $EXTNAM
