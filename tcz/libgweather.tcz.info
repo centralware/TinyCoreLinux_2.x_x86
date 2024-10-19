@@ -1,0 +1,12 @@
+Title:          libgweather.tcz
+Description:    A library to access weather information.
+Version:        2.28.0
+Author:         Papadimitriou Spiros
+Original-site:  http://www.gnome.org/
+Copying-policy: GPL
+Size:		352K
+Extension_by:   Arslan S.
+Comments:       This extension has recursive deps.
+		This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/03/28 Original

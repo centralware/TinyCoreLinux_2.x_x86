@@ -1,0 +1,16 @@
+Title:          libart.tcz
+Description:    libart GPL library
+Version:        2.3.20
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 92KB
+Extension_by:   juanito
+Comments:       high-performance 2D graphics libary
+                ----------
+                This extension contains:
+                libart_lgpl-2.3.20 - GPLv2 - http://ftp.acc.umu.se/pub/GNOME/sources/libart_lgpl/2.3/libart_lgpl-2.3.20.tar.bz2
+                ----------
+Change-log:     2008/09/11
+                re-compiled on tc-2.x
+Current:        2009/09/28

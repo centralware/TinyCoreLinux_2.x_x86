@@ -1,0 +1,19 @@
+Title:          lftp-doc.tcz
+Description:    Sophisticated ftp/sftp/fxp/http/bittorrent client
+Version:        4.0.6
+Author:         Alexander V. Lukyanov
+Original-site:  http://lftp.yar.ru
+Copying-policy: GPL v3
+Size:           29k
+Extension_by:   bmarkus
+Comments:       Doc files
+                ----
+                Compiled for TC2.x
+                ----
+                PPI compatible
+                ----
+                No dep file
+Change-log:     ----
+                2010/01/29 First version
+Current:        2010/04/03 Updated to 4.0.6
+

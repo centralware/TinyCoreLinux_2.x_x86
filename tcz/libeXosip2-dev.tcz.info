@@ -1,0 +1,15 @@
+Title:          libeXosip2-dev.tcz
+Description:    High layer API to control SIP
+Version:        3.3.0
+Author:         Aymeric Moziard
+Original-site:  http://savannah.gnu.org/software/exosip
+Copying-policy: LGPL
+Size:           344K
+Extension_by:   bmarkus
+Comments:       Dev files
+                ----
+                Compiled for TC2.x
+                ----
+                PPI compatible
+Change-log:     ----
+Current:        2009/10/18 First version

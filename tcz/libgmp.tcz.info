@@ -1,0 +1,22 @@
+Title:          libgmp.tcz
+Description:    Library for arbitrary precision arithmetic (TESTING)
+Version:        4.3.1
+Author:         various (http://gmplib.org/manual/Contributors.html#Contributors)
+Original-site:  http://gmplib.org/
+Copying-policy: LGPL
+Size:	364KB
+Extension_by:   robc/juanito
+Comments:       		
+		
+		126/126 tests passed, 100% pass rate
+		
+		Library and header files.
+		
+		This extension is PPI compatible.
+		
+Change-log:     2009/5/6  Original
+		2009/6/3  Updated to 4.3.1, rebuilt for TC 2.X
+                2009/06/03
+                re-compiled to add libgmpxx and used gcc-4.4.0 so that
+                ..all gmpxx tests pass.
+Current:	2009/07/24

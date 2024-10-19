@@ -1,0 +1,13 @@
+Title:          libcanberra-dev.tcz
+Description:    libcanberra dev files.
+Version:        0.22
+Author:         Lennart Poettering
+Original-site:  http://0pointer.de/lennart/projects/libcanberra
+Copying-policy: GNU Lesser GPL-2.1
+Size: 		44K
+Extension_by:   Arslan S.
+Comments:	API documentation included.
+
+		This extension is PPI compatible.
+Change-log:     ---
+Current:   	2010/01/23 Original

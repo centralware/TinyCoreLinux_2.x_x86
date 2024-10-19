@@ -1,0 +1,11 @@
+Title:		libgnomeui-dev.tcz
+Description:	Gnome UI library.
+Version:	2.24.2
+Author: 	GNOME Maintainers Team	
+Original-site:	http://ftp.gnome.org/pub/GNOME/sources/libgnomeui/
+Copying-policy:	Library GPL-2
+Extension_by:	Arslan S.
+Comments:       This extension is PPI compatible.
+Size:		884K	
+Change-log:     ---
+Current:	2010/03/06 Original 

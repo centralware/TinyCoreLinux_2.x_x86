@@ -1,0 +1,12 @@
+Title:		libbonobo-locale.tcz
+Description:	libbonobo locale files.
+Version:	2.24.2
+Author: 	GNOME Maintainers Team	
+Original-site:	http://live.gnome.org/Bonobo
+Copying-policy:	GPL-2/GNU Lesser GPL-2.1 
+Extension_by:	jpeters, Arslan S.
+Comments:       This extension is PPI compatible.
+Size:	388K	
+Change-log:     2009/05/25 version 2.24.1
+Current:	2010/01/28 Updated to 2.24.2 (Arslan S.) 
+

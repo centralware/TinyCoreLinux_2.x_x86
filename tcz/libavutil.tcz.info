@@ -1,0 +1,15 @@
+Title:          libavutil.tcz
+Description:    ffmpeg util library
+Version:        0.5
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 60KB
+Extension_by:   juanito
+Comments:       ffmpeg audio/video utilities library
+                ----------
+                This extension contains:
+                ffmpeg-0.5 - GPLv2/lGPLv2 - http://ffmpeg.org/releases/ffmpeg-0.5.tar.bz2
+                ----------
+Change-log:     first version
+Current:        2010/01/02

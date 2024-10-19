@@ -1,0 +1,12 @@
+Title:          libffi-devs.tcz
+Description:    Foreign function interface dev files
+Version:        3.0.8
+Author:         Anthony Green
+Original-site:  http://sourceware.org/libffi/
+Copying-policy: Free, see source code for details
+Size:           60k
+Extension_by:   bmarkus 
+Comments:	----
+		Compiled for TC2.x
+Change-log:     ----
+Current:   	2009/08/14 First version

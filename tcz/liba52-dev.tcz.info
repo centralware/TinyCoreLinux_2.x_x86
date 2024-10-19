@@ -1,0 +1,14 @@
+Title:          liba52-dev.tcz
+Description:    liba52 development files
+Version:        0.7.4
+Author:         Aaron Holtzman, Michel Lespinasse
+Original-site:  http://liba52.sourceforge.net/
+Copying-policy: GPL v2
+Size:		20K
+Extension_by:   Arslan S.
+Comments:	This package can be used when building media players.
+		
+		This extension is PPI compatible.
+
+Change-log:     ---
+Current:        2009/11/6 Original

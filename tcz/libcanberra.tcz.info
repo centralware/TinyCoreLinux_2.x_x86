@@ -1,0 +1,15 @@
+Title:          libcanberra.tcz
+Description:    Simple abstract interface for playing event sounds.
+Version:        0.22
+Author:         Lennart Poettering
+Original-site:  http://0pointer.de/lennart/projects/libcanberra
+Copying-policy: GNU Lesser GPL-2.1
+Size: 		84K
+Extension_by:   Arslan S.
+Comments:	This extension includes libcanberra, libcanberra-gtk libs
+		and libcanberra-alsa, libcanberra-oss, libcanberra-gstreamer 
+		plugins.
+		
+		This extension is PPI compatible.
+Change-log:     ---
+Current:   	2010/01/23 Original

@@ -1,0 +1,11 @@
+Title:          libgnomeprintui-dev.tcz
+Description:    Gnome Print user interface library devs
+Version:        2.18.4
+Author:         Various
+Original-site:  http://ftp.gnome.org/pub/gnome/sources/libgnomeprintui/
+Copying-policy: GPL
+Size:		152.0K
+Extension_by:   Curaga
+Comments:       PPI compatible
+Change-log:     
+Current:        2009/04/28 Original

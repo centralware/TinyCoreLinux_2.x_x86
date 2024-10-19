@@ -1,0 +1,11 @@
+Title:          libarchive.tcz
+Description:	libarchive library, the bsdtar and bsdcpio. 
+Version:        2.8.0
+Author:         Tim Kientzle
+Original-site:  http://people.freebsd.org/~kientzle/libarchive/
+Copying-policy: BSD
+Size:           392K
+Extension_by:   Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:     ---
+Current:        2010/02/08 Original 2.8.0

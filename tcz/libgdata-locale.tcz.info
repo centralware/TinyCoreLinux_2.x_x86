@@ -1,0 +1,15 @@
+Title:          libgdata-locale.tcz
+Description:    GLib-based library for accessing online service APIs using the GData protocol.
+Version:        0.5.1
+Author:         Philip Withnall
+Original-site:  http://live.gnome.org/libgdata
+Copying-policy: LGPL-2.1
+Size: 		48K
+Extension_by:   Arslan S.
+Comments:	libgdata is a GLib-based library for accessing online service APIs using 
+		the GData protocol - most notably, Google's services. It provides APIs to access 
+		the common Google services, and has full asynchronous support.
+
+		This extension is PPI compatible.
+Change-log:     ---
+Current:   	2010/1/8 Original

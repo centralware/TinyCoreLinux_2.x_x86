@@ -1,0 +1,7 @@
+usr/local/etc/gconf/schemas/gweather.schemas
+usr/local/lib/libgweather.so
+usr/local/lib/libgweather.so.1
+usr/local/lib/libgweather.so.1.5.2
+usr/local/share/libgweather/Locations.xml
+usr/local/share/libgweather/locations.dtd
+usr/local/tce.installed/libgweather

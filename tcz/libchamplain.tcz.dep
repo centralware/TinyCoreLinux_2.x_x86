@@ -1,0 +1,7 @@
+glib2.tcz
+gtk2.tcz
+clutter.tcz
+clutter-gtk.tcz
+sqlite3.tcz
+libsoup.tcz
+libsoup-gnome.tcz

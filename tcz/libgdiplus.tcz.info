@@ -1,0 +1,11 @@
+Title:          libgdiplus.tcz
+Description:    An Open Source implementation of the GDI+ API.
+Version:        2.6.2
+Author:         Various
+Original-site:  http://www.mono-project.com/
+Copying-policy: LGPL
+Size:		168K
+Extension_by:   Arslan S.
+Comments:	This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/05/10 Original

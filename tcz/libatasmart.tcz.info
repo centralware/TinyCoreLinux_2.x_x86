@@ -1,0 +1,14 @@
+Title:          libatasmart.tcz
+Description:    ATA S.M.A.R.T. reading and parsing library.
+Version:        0.17
+Author:         Lennart Poettering
+Original-site:  http://0pointer.de/blog/projects/being-smart.html
+Copying-policy: GNU Lesser GPL-2.1+
+Size:           28K
+Extension_by:   Arslan S.
+Comments:	Example: # Prints health status of hard disk
+			sudo skdump /dev/sda
+
+		This extension is PPI compatible.
+Change-log:     ---
+Current:        2010/02/10 Original

@@ -1,0 +1,15 @@
+Title:          libevent-dev.tcz
+Description:    Event Loop Library Development Files (TESTING)
+Version:        1.4.13
+Author:         Niels Provos
+Original-site:  http://monkey.org/~provos/libevent/
+Copying-policy: BSD
+Size:		136k
+Extension_by:   robc
+Comments:		Header and development files.
+		
+		This extension is PPI compatible.
+		
+Change-log:     2009/07/17 Original
+		2009/12/09 Updated to v1.4.13, split dev files
+Current:	2009/12/09 Updated to v1.4.13, split dev files

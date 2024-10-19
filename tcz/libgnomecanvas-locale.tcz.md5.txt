@@ -1,0 +1,1 @@
+b4e0fae17de9cb356dceb38633c65913  libgnomecanvas-locale.tcz

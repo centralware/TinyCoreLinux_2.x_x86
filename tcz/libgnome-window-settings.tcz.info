@@ -1,0 +1,11 @@
+Title:          libgnome-window-settings.tcz
+Description:    Utility library for getting window manager settings.
+Version:        2.28.1
+Author:         Jonathan Blandford
+Original-site:  http://www.gnome.org/
+Copying-policy: GPL-2
+Size:		16K
+Extension_by:   Arslan S.
+Comments:       This extension is PPI compatible.
+Change-log:  	---
+Current:     	2010/05/15 Original

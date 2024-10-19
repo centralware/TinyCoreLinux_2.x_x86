@@ -1,0 +1,1 @@
+5d3782d475bf6ac935a098a17a590d06  libftdi-dev.tcz

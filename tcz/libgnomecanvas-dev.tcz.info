@@ -1,0 +1,15 @@
+Title:          libgnomecanvas-dev.tcz
+Description:    libgnomecanvas for tinycore
+Version:        2.26.0
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 224K
+Extension_by:   juanito, Arslan S.
+Comments:       libgnomecanvas for tinycore
+                ----------
+                This extension contains:
+                libgnomecanvas-2.26.0 - GNU Library GPL-2 - http://ftp.gnome.org/pub/GNOME/sources/libgnomecanvas/2.26/libgnomecanvas-2.26.0.tar.bz2
+                ----------
+Change-log:     2008/09/11 First version 2.14.0
+Current:        2010/01/30 Updated to 2.26.0 (Arslan S.)

@@ -1,0 +1,15 @@
+Title:          leafpad-locale.tcz
+Description:    Leafpad Text Editor locale data - Limited Edition.
+Version:        0.8.17
+Author:         Tarot Osuji
+Original-site:  http://tarot.freeshell.org/leafpad/
+Copying-policy: GPL
+Size: 45K
+Extension_by:   Jason W
+Comments:       This extension requires gtk+-2.tcel and it's
+		dependencies.
+                ----------
+Change-log:     ----------
+	        2009/01/03 First Version.
+		2009/03/17 Changed to version 0.8.16.
+Current:	2009/11/08 Updated to 0.8.17

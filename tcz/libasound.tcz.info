@@ -1,0 +1,14 @@
+Title:		libasound.tcz
+Description:	Alsa library package.
+Version:	1.0.20
+Author:		Jaroslav Kysela 
+Original-site:  http://www.alsa-project.org/main/index.php/Main_Page
+Copying-policy:	GPL
+Extension_by:	jpeters
+Comments:	Libraries for the ALSA sound system.
+Size:		368K
+		2009/05/03
+Current:	2009/09/29 Updated to 1.0.20
+		
+
+

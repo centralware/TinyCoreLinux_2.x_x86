@@ -1,0 +1,11 @@
+Title:		libbonobo.tcz
+Description:	Bonobo is a set of language and system independent CORBA interfaces.
+Version:	2.24.2
+Author: 	GNOME Maintainers Team	
+Original-site:	http://live.gnome.org/Bonobo
+Copying-policy:	GPL-2/GNU Lesser GPL-2.1 
+Extension_by:	jpeters, Arslan S.
+Comments:       This extension is PPI compatible.
+Size:	328K	
+Change-log:     2009/05/25 version 2.24.1
+Current:	2010/01/30 Updated to 2.24.2 (Arslan S.) 

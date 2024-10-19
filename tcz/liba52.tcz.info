@@ -1,0 +1,15 @@
+Title:          liba52.tcz
+Description:    A free library for decoding ATSC A/52 streams.
+Version:        0.7.4
+Author:         Aaron Holtzman, Michel Lespinasse
+Original-site:  http://liba52.sourceforge.net/
+Copying-policy: GPL v2
+Size:		16K
+Extension_by:   Arslan S.
+Comments:       It is also known as AC-3. 
+		It is required by media players to decode AC-3 audio stream.
+		
+		This extension is PPI compatible.
+
+Change-log:     ---
+Current:        2009/11/6 Original

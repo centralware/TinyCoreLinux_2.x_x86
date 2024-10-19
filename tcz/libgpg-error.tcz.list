@@ -1,0 +1,15 @@
+usr/local/bin/gpg-error
+usr/local/bin/gpg-error-config
+usr/local/lib/libgpg-error.so
+usr/local/lib/libgpg-error.so.0
+usr/local/lib/libgpg-error.so.0.5.0
+usr/local/share/common-lisp/source/gpg-error/gpg-error-codes.lisp
+usr/local/share/common-lisp/source/gpg-error/gpg-error-package.lisp
+usr/local/share/common-lisp/source/gpg-error/gpg-error.asd
+usr/local/share/common-lisp/source/gpg-error/gpg-error.lisp
+usr/local/share/locale/de/LC_MESSAGES/libgpg-error.mo
+usr/local/share/locale/fr/LC_MESSAGES/libgpg-error.mo
+usr/local/share/locale/pl/LC_MESSAGES/libgpg-error.mo
+usr/local/share/locale/ro/LC_MESSAGES/libgpg-error.mo
+usr/local/share/locale/sv/LC_MESSAGES/libgpg-error.mo
+usr/local/share/locale/vi/LC_MESSAGES/libgpg-error.mo

@@ -1,0 +1,17 @@
+Title:          libgs.tcz
+Description:    ghostscript shared lib
+Version:        8.70
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 1.2MB
+Extension_by:   juanito
+Comments:       ghostscript shared library compiled for use by foomatic-rip,
+                gsview and others
+                ----------
+                compiled using "--with-drivers=PS"
+                ----------
+                This extension contains:
+                ghostscript-8.70 - GPLv3 - http://ghostscript.com/releases/ghostscript-8.70.tar.bz2
+Change-log:     first version
+Current:        2009/10/16

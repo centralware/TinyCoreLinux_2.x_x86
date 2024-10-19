@@ -1,0 +1,24 @@
+Title:          libfm.tcz
+Description:    Libraries for next generation PCManFM (TESTING)
+Version:        0.1.11 GIT 20100515
+Author:         Hon Jen Yee (PCMan)
+Original-site:  http://pcmanfm.sourceforge.net
+Copying-policy: GPL v2
+Size:           152k
+Extension_by:   bmarkus
+Comments:       Binaries only
+                ----
+                Compiled for TC2.x
+                ----
+                PPI compatible
+Change-log:     2010/02/23 First version
+                2010/03/08 Updated to 0.1.1
+                2010/03/10 Updated to 0.1.5
+                2010/03/19 Updated to 0.1.9
+                2010/04/07 TC-specific terminal wrapper added
+                2010/04/19 Updated to 0.1.10
+                2010/04/28 Updated to 0.1.11
+Current:        2010/05/17 Updated to 0.1.11 GIT 20100515
+
+
+

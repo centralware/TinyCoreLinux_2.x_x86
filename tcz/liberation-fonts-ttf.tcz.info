@@ -1,0 +1,18 @@
+Title:          liberation-fonts-ttf.tcz
+Description:    Liberation TTF fonts
+Version:        1.04
+Author:         Red Hat
+Original-site:  http://www.redhat.com/promo/fonts
+Copying-policy: GPLv2 + Exception
+Size: 1.4M
+Extension_by:   Curaga
+Comments:       Three fine fonts from Red Hat:
+                Sans, Serif, and Mono.
+-
+                The exception to GPLv2 is, shortened:
+-
+                By embedding these fonts into a document,
+                the document does not automatically fall
+                under the GPL2.
+Change-log:     
+Current:        2008/08/13 Original

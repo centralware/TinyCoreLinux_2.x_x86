@@ -1,0 +1,18 @@
+Title:          libgnome-locale.tcz
+Description:    gnome non-gui library
+Version:        2.28.0
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 		1M
+Extension_by:   juanito, Arslan S.
+Comments:       library containing non-gui portion of the gnome libraries
+                ----------
+                requires the glib2, libxml2, openssl-0.9.8h, expat2, dbus, dbus-glib,
+                GConf, ORBit2, libbonobo, gnome-vfs, avahi and esound extensions
+                ----------
+                this extension contains:
+                libgnome-2.28.0 - GPLv2 - http://ftp.acc.umu.se/pub/GNOME/platform/2.28/2.28.2/sources/libgnome-2.28.0.tar.bz2
+                ----------
+Change-log:     2009/11/08 first version
+Current:   	2010/03/06 Rebuilt with more options & separated dev (Arslan S.)

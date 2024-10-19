@@ -1,0 +1,1 @@
+7c390af81f1245cf6d99dacdb459974f  libbonobo-locale.tcz

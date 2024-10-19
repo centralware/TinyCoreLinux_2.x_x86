@@ -1,0 +1,18 @@
+Title:          libavcodec.tcz
+Description:    ffmpeg codec library
+Version:        0.5
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 3.2MB
+Extension_by:   juanito
+Comments:       ffmpeg audio/video codec library
+                ----------
+                requires the libavutil extension
+                ----------
+                This extension contains:
+                ffmpeg-0.5 - GPLv2/lGPLv2 - http://ffmpeg.org/releases/ffmpeg-0.5.tar.bz2
+                ----------
+Change-log:     2009/09/28
+                split out into component libs
+Current:        2010/01/02

@@ -1,0 +1,22 @@
+Title:          libgpod.tcz (TESTING) 
+Description:    iPod access library/tools
+Version:        0.7.2
+Author:         various 
+Original-site:  http://www.gtkpod.org/libgpod/
+Copying-policy: LGPL 
+Size:		408K
+Extension_by:   dentonlt 
+Comments:       libgpod is used by GTKPod and a a variety of other iPod
+		tools for Linux (Amarok, Pulp, Rhythmbox, etc.).
+		
+		v0.6.0 and later require setting up the SysInfo file on
+		Classic and Nano iPods - see http://www.gtkpod.org/libgpod/ -
+		follow the link to README.SysInfo.
+	
+		Juanito's gtkpod extension (v0.99.12) originally contained
+		this library, but v0.6.0. These may not be compatible.	
+		
+                ----------
+Changelog:	none 
+Current:        2009/12/26 - First Version
+		2010/3/30 dentonlt added gdk-pixbuf support (for art, photos)

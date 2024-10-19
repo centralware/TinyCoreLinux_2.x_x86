@@ -1,0 +1,15 @@
+Title:		libgpg-error-dev.tcz
+Description:	libgpg-error dev files - Error library for gcrypt
+Version:	1.7
+Author:		Markus Brinkmann
+Original-site:	http://www.gnupg.org
+Copying-policy:	GPLv3
+Size:		16.0K
+Extension_by:	Robert Schumann
+Comments:	
+		
+			
+		This extension is PPI compatible
+Change-log:	10/02/02 Rebuild, reduce size, clean up.
+		09/08/29 Initial Version
+Current:	10/02/02

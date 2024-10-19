@@ -1,0 +1,15 @@
+Title:          libavahi.tcz
+Description:    avahi network service libs
+Version:        0.6.25
+Author:         see list of sites below
+Original-site:  see list of sites below
+Copying-policy: see list of sites below
+Size: 156KB
+Extension_by:   juanito
+Comments:       libs for a system which facilitates service discovery on a local network
+                ----------
+                This extension contains:
+                avahi-0.6.25 - GLGPLv2.1 - http://avahi.org/download/avahi-0.6.25.tar.gz
+                ----------
+Change-log:     first version
+Current:        2010/03/11
